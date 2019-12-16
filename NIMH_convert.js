@@ -1,15 +1,15 @@
 //User inputs: these are specific to your protocol, fill out before using the script
 
 //1. your protocol id: use underscore for spaces, avoid special characters. The display name is the one that will show up in the app, this will be parsed as string.
-const protocolName = "EMA_HBN_NIMH"
+const protocolName = "EMA_HBN_NIMH2"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "Healthy Brain Network (NIMH content)"
+const protocolDisplayName = "Healthy Brain Network (NIMH content) 2"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
-const repoName = 'HBN_EMA_NIMH'
-const branchName = 'clone1'
+const repoName = 'HBN_EMA_NIMH2'
+const branchName = 'master'
 
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`
 

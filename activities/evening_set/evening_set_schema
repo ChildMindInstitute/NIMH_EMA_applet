@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH/clone1/activities/evening_set/evening_set_context"
+        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/activities/evening_set/evening_set_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "evening_set_schema",
