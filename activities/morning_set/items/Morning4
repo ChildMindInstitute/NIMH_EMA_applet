@@ -1,0 +1,90 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Morning4",
+    "preamble": {
+        "en": "Sleep:"
+    },
+    "ui": {
+        "inputType": "select"
+    },
+    "question": {
+        "en": "How long did it take you to fall asleep?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "less than 5min ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "5min ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "10min ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "15min ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "20min ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "30min ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "40min ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "50min ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "1hr ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 10,
+                "schema:name": "1hr 15min ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 11,
+                "schema:name": "1hr 30min ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 12,
+                "schema:name": "1hr 45min ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 13,
+                "schema:name": "2hr ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 14,
+                "schema:name": "more than 2hrs",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

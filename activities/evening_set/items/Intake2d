@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Intake2d",
+    "preamble": {
+        "en": "Food and Drink:"
+    },
+    "ui": {
+        "inputType": "select"
+    },
+    "question": {
+        "en": "How many large meals did you have?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "1 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "2 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "more than 2",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

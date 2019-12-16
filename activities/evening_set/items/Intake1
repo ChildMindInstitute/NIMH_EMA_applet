@@ -1,0 +1,56 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Intake1",
+    "preamble": {
+        "en": "Food and Drink:"
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "water ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "milk ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": " a caffeinated beverage (like coffee/tea/soda...) ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "an alcoholic beverage (wine/beer/liquor�) ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "a beverage containing sugar like juice or caffeine free soda ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "another type of drink ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "none",
+                "@type": "schema:option"
+            }
+        ]
+    },
+    "question": {
+        "en": "Since the last questionnaire, did you drink:"
+    }
+}

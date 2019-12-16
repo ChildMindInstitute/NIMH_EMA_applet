@@ -1,0 +1,76 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Intake2f",
+    "preamble": {
+        "en": "Food and Drink:"
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "beef/pork/lamb ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "chicken or other poultry ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "eggs ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "fish ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "dairy (yogurt/milk/cheese) ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "bread/pasta/cereal/other starchy food ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "fruits ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "vegetables ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "sweet foods or candy ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 10,
+                "schema:name": "energy bars ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 11,
+                "schema:name": "potato chips or other salty snacks",
+                "@type": "schema:option"
+            }
+        ]
+    },
+    "question": {
+        "en": "Please think about all the foods you ate since the last questionnaire. Please select all types of food you ate"
+    }
+}

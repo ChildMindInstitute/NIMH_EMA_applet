@@ -1,0 +1,41 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH/clone1/activities/pre_questionnaire/pre_questionnaire_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "pre_questionnaire_schema",
+    "skos:prefLabel": "Pre-Questionnaire",
+    "skos:altLabel": "pre_questionnaire_schema",
+    "schema:description": "Pre-assessment questions",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "scoringLogic": {},
+    "variableMap": [
+        {
+            "variableName": "prequestion1",
+            "isAbout": "prequestion1"
+        },
+        {
+            "variableName": "prequestion2",
+            "isAbout": "prequestion2"
+        },
+        {
+            "variableName": "prequestion3",
+            "isAbout": "prequestion3"
+        }
+    ],
+    "ui": {
+        "order": [
+            "prequestion1",
+            "prequestion2",
+            "prequestion3"
+        ],
+        "shuffle": false,
+        "visibility": {
+            "prequestion1": true,
+            "prequestion2": true,
+            "prequestion3": true
+        }
+    }
+}

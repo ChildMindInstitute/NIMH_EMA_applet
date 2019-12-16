@@ -1,0 +1,30 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Event4",
+    "preamble": {
+        "en": "Events:"
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Did more than one event occur that significantly influenced you?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

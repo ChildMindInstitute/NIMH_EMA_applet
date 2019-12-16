@@ -1,0 +1,30 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Headache2i",
+    "preamble": {
+        "en": "Headache:"
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Does (or did) the headache pain increase with routine physical activity such as bending over or climbing stairs?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

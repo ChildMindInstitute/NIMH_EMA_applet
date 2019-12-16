@@ -1,0 +1,125 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Context6",
+    "preamble": {
+        "en": "Context:"
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "What are you doing at this moment?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "nothing or waiting ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "napping/resting ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "eating ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "household chores ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "working (paid or volunteer) ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "homework ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "shopping ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "personal hygiene care ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "physical leisure or sports ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 10,
+                "schema:name": "personal exercise ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 11,
+                "schema:name": "walking the dog ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 12,
+                "schema:name": "traveling or commuting ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 13,
+                "schema:name": "watching tv ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 14,
+                "schema:name": "reading ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 15,
+                "schema:name": "listening to music ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 16,
+                "schema:name": "using a computer/electronic device ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 17,
+                "schema:name": "talking on the phone ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 18,
+                "schema:name": "talking in person ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 19,
+                "schema:name": "texting by phone ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 20,
+                "schema:name": "other nonphysical leisure ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 21,
+                "schema:name": "other activity",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

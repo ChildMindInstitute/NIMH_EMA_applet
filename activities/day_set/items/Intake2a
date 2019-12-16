@@ -1,0 +1,75 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Intake2a",
+    "preamble": {
+        "en": "Food and Drink:"
+    },
+    "ui": {
+        "inputType": "select"
+    },
+    "question": {
+        "en": "How many snacks (e.g. candy bar/cookie/small bag of chips) did you have?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "1 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "2 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "3 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "4 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "5 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "6 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "7 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "8 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "9 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 10,
+                "schema:name": "10 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 11,
+                "schema:name": "more than 10",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

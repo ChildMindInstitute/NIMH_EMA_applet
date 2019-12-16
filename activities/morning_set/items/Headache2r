@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Headache2r",
+    "preamble": {
+        "en": "Headache:"
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "How much does (or did) the headache interfere with your activities?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "not at all ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "mildly ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "moderately ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "severely",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

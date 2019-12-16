@@ -1,0 +1,275 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Morning1",
+    "preamble": {
+        "en": "Sleep:"
+    },
+    "ui": {
+        "inputType": "select"
+    },
+    "question": {
+        "en": "About what time did you go to bed last night (regardless of the time you actually fell asleep)?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "before 7:00pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "7:00pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "7:15pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "7:30pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "7:45pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "8:00pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "8:15pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "8:30pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "8:45pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 10,
+                "schema:name": "9:00pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 11,
+                "schema:name": "9:15pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 12,
+                "schema:name": "9:30pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 13,
+                "schema:name": "9:45pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 14,
+                "schema:name": "10:00pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 15,
+                "schema:name": "10:15pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 16,
+                "schema:name": "10:30pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 17,
+                "schema:name": "10:45pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 18,
+                "schema:name": "11:00pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 19,
+                "schema:name": "11:15pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 20,
+                "schema:name": "11:30pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 21,
+                "schema:name": "11:45pm ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 22,
+                "schema:name": "12:00am",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 23,
+                "schema:name": "12:15am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 24,
+                "schema:name": "12:30am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 25,
+                "schema:name": "12:45am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 26,
+                "schema:name": "1:00am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 27,
+                "schema:name": "1:15am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 28,
+                "schema:name": "1:30am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 29,
+                "schema:name": "1:45am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 30,
+                "schema:name": "2:00am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 31,
+                "schema:name": "2:15am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 32,
+                "schema:name": "2:30am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 33,
+                "schema:name": "2:45am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 34,
+                "schema:name": "3:00am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 35,
+                "schema:name": "3:15am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 36,
+                "schema:name": "3:30am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 37,
+                "schema:name": "3:45am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 38,
+                "schema:name": "4:00am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 39,
+                "schema:name": "4:15am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 40,
+                "schema:name": "4:30am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 41,
+                "schema:name": "4:45am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 42,
+                "schema:name": "5:00am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 43,
+                "schema:name": "5:15am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 44,
+                "schema:name": "5:30am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 45,
+                "schema:name": "5:45am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 46,
+                "schema:name": "6:00am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 47,
+                "schema:name": "6:15am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 48,
+                "schema:name": "6:30am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 49,
+                "schema:name": "6:45am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 50,
+                "schema:name": "7:00am ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 51,
+                "schema:name": "after 7:00am",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

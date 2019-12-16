@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Morning5",
+    "preamble": {
+        "en": "Sleep:"
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "How many times did you wake up in the night, not counting your final awakening?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "none ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "once ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "twice ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "3 or more times",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

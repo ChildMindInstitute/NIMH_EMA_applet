@@ -1,0 +1,749 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH/clone1/activities/evening_set/evening_set_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "evening_set_schema",
+    "skos:prefLabel": "EMA Assessment (Night)",
+    "skos:altLabel": "evening_set_schema",
+    "schema:description": "An evening questionnaire",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "scoringLogic": {},
+    "variableMap": [
+        {
+            "variableName": "Context1",
+            "isAbout": "Context1"
+        },
+        {
+            "variableName": "Context1a",
+            "isAbout": "Context1a"
+        },
+        {
+            "variableName": "Context2",
+            "isAbout": "Context2"
+        },
+        {
+            "variableName": "Context3",
+            "isAbout": "Context3"
+        },
+        {
+            "variableName": "Context4",
+            "isAbout": "Context4"
+        },
+        {
+            "variableName": "Context5",
+            "isAbout": "Context5"
+        },
+        {
+            "variableName": "Context6",
+            "isAbout": "Context6"
+        },
+        {
+            "variableName": "Context7",
+            "isAbout": "Context7"
+        },
+        {
+            "variableName": "Mood1",
+            "isAbout": "Mood1"
+        },
+        {
+            "variableName": "Mood2",
+            "isAbout": "Mood2"
+        },
+        {
+            "variableName": "Mood3",
+            "isAbout": "Mood3"
+        },
+        {
+            "variableName": "Mood4",
+            "isAbout": "Mood4"
+        },
+        {
+            "variableName": "Mood5",
+            "isAbout": "Mood5"
+        },
+        {
+            "variableName": "Mood6",
+            "isAbout": "Mood6"
+        },
+        {
+            "variableName": "Mood7",
+            "isAbout": "Mood7"
+        },
+        {
+            "variableName": "Mood8",
+            "isAbout": "Mood8"
+        },
+        {
+            "variableName": "Mood9",
+            "isAbout": "Mood9"
+        },
+        {
+            "variableName": "Mood10",
+            "isAbout": "Mood10"
+        },
+        {
+            "variableName": "Mood11",
+            "isAbout": "Mood11"
+        },
+        {
+            "variableName": "Mood12",
+            "isAbout": "Mood12"
+        },
+        {
+            "variableName": "Mood13",
+            "isAbout": "Mood13"
+        },
+        {
+            "variableName": "Mood14",
+            "isAbout": "Mood14"
+        },
+        {
+            "variableName": "Mood15",
+            "isAbout": "Mood15"
+        },
+        {
+            "variableName": "Mood16",
+            "isAbout": "Mood16"
+        },
+        {
+            "variableName": "Thoughts1",
+            "isAbout": "Thoughts1"
+        },
+        {
+            "variableName": "Thoughts2",
+            "isAbout": "Thoughts2"
+        },
+        {
+            "variableName": "Thoughts2a",
+            "isAbout": "Thoughts2a"
+        },
+        {
+            "variableName": "Thoughts2b",
+            "isAbout": "Thoughts2b"
+        },
+        {
+            "variableName": "Activity1",
+            "isAbout": "Activity1"
+        },
+        {
+            "variableName": "Activity1a",
+            "isAbout": "Activity1a"
+        },
+        {
+            "variableName": "Activity1b",
+            "isAbout": "Activity1b"
+        },
+        {
+            "variableName": "Activity2",
+            "isAbout": "Activity2"
+        },
+        {
+            "variableName": "Activity2a",
+            "isAbout": "Activity2a"
+        },
+        {
+            "variableName": "Activity2b",
+            "isAbout": "Activity2b"
+        },
+        {
+            "variableName": "Activity2c",
+            "isAbout": "Activity2c"
+        },
+        {
+            "variableName": "Activity2d",
+            "isAbout": "Activity2d"
+        },
+        {
+            "variableName": "Activity2e",
+            "isAbout": "Activity2e"
+        },
+        {
+            "variableName": "Activity2f",
+            "isAbout": "Activity2f"
+        },
+        {
+            "variableName": "Intake1",
+            "isAbout": "Intake1"
+        },
+        {
+            "variableName": "Intake1a",
+            "isAbout": "Intake1a"
+        },
+        {
+            "variableName": "Intake1b",
+            "isAbout": "Intake1b"
+        },
+        {
+            "variableName": "Intake1c",
+            "isAbout": "Intake1c"
+        },
+        {
+            "variableName": "Intake1d",
+            "isAbout": "Intake1d"
+        },
+        {
+            "variableName": "Intake1e",
+            "isAbout": "Intake1e"
+        },
+        {
+            "variableName": "Intake1f",
+            "isAbout": "Intake1f"
+        },
+        {
+            "variableName": "Intake1g",
+            "isAbout": "Intake1g"
+        },
+        {
+            "variableName": "Intake2",
+            "isAbout": "Intake2"
+        },
+        {
+            "variableName": "Intake2a",
+            "isAbout": "Intake2a"
+        },
+        {
+            "variableName": "Intake2b",
+            "isAbout": "Intake2b"
+        },
+        {
+            "variableName": "Intake2c",
+            "isAbout": "Intake2c"
+        },
+        {
+            "variableName": "Intake2d",
+            "isAbout": "Intake2d"
+        },
+        {
+            "variableName": "Intake2e",
+            "isAbout": "Intake2e"
+        },
+        {
+            "variableName": "Intake2f",
+            "isAbout": "Intake2f"
+        },
+        {
+            "variableName": "Intake2fa",
+            "isAbout": "Intake2fa"
+        },
+        {
+            "variableName": "Intake3",
+            "isAbout": "Intake3"
+        },
+        {
+            "variableName": "Intake3a",
+            "isAbout": "Intake3a"
+        },
+        {
+            "variableName": "Intake3b",
+            "isAbout": "Intake3b"
+        },
+        {
+            "variableName": "Intake3c",
+            "isAbout": "Intake3c"
+        },
+        {
+            "variableName": "Event0",
+            "isAbout": "Event0"
+        },
+        {
+            "variableName": "Event1",
+            "isAbout": "Event1"
+        },
+        {
+            "variableName": "Event2",
+            "isAbout": "Event2"
+        },
+        {
+            "variableName": "Event3",
+            "isAbout": "Event3"
+        },
+        {
+            "variableName": "Event4",
+            "isAbout": "Event4"
+        },
+        {
+            "variableName": "Event4a",
+            "isAbout": "Event4a"
+        },
+        {
+            "variableName": "Event4b",
+            "isAbout": "Event4b"
+        },
+        {
+            "variableName": "Pain1",
+            "isAbout": "Pain1"
+        },
+        {
+            "variableName": "Pain1a",
+            "isAbout": "Pain1a"
+        },
+        {
+            "variableName": "Pain1b",
+            "isAbout": "Pain1b"
+        },
+        {
+            "variableName": "Pain2",
+            "isAbout": "Pain2"
+        },
+        {
+            "variableName": "Pain2a",
+            "isAbout": "Pain2a"
+        },
+        {
+            "variableName": "Pain2b",
+            "isAbout": "Pain2b"
+        },
+        {
+            "variableName": "Headache1",
+            "isAbout": "Headache1"
+        },
+        {
+            "variableName": "Headache1a",
+            "isAbout": "Headache1a"
+        },
+        {
+            "variableName": "Headache2",
+            "isAbout": "Headache2"
+        },
+        {
+            "variableName": "Headache2a",
+            "isAbout": "Headache2a"
+        },
+        {
+            "variableName": "Headache2b",
+            "isAbout": "Headache2b"
+        },
+        {
+            "variableName": "Headache2d",
+            "isAbout": "Headache2d"
+        },
+        {
+            "variableName": "Headache2e",
+            "isAbout": "Headache2e"
+        },
+        {
+            "variableName": "Headache2f",
+            "isAbout": "Headache2f"
+        },
+        {
+            "variableName": "Headache2fa",
+            "isAbout": "Headache2fa"
+        },
+        {
+            "variableName": "Headache2g",
+            "isAbout": "Headache2g"
+        },
+        {
+            "variableName": "Headache2h",
+            "isAbout": "Headache2h"
+        },
+        {
+            "variableName": "Headache2i",
+            "isAbout": "Headache2i"
+        },
+        {
+            "variableName": "Headache2j",
+            "isAbout": "Headache2j"
+        },
+        {
+            "variableName": "Headache2k",
+            "isAbout": "Headache2k"
+        },
+        {
+            "variableName": "Headache2l",
+            "isAbout": "Headache2l"
+        },
+        {
+            "variableName": "Headache2m",
+            "isAbout": "Headache2m"
+        },
+        {
+            "variableName": "Headache2n",
+            "isAbout": "Headache2n"
+        },
+        {
+            "variableName": "Headache2na",
+            "isAbout": "Headache2na"
+        },
+        {
+            "variableName": "Headache2o",
+            "isAbout": "Headache2o"
+        },
+        {
+            "variableName": "Headache2oa",
+            "isAbout": "Headache2oa"
+        },
+        {
+            "variableName": "Headache2p",
+            "isAbout": "Headache2p"
+        },
+        {
+            "variableName": "Headache2pa",
+            "isAbout": "Headache2pa"
+        },
+        {
+            "variableName": "Headache2q",
+            "isAbout": "Headache2q"
+        },
+        {
+            "variableName": "Headache2r",
+            "isAbout": "Headache2r"
+        },
+        {
+            "variableName": "Daily1",
+            "isAbout": "Daily1"
+        },
+        {
+            "variableName": "Daily2",
+            "isAbout": "Daily2"
+        },
+        {
+            "variableName": "Daily3",
+            "isAbout": "Daily3"
+        },
+        {
+            "variableName": "Daily4",
+            "isAbout": "Daily4"
+        },
+        {
+            "variableName": "Daily5",
+            "isAbout": "Daily5"
+        },
+        {
+            "variableName": "Daily6",
+            "isAbout": "Daily6"
+        },
+        {
+            "variableName": "Daily7",
+            "isAbout": "Daily7"
+        },
+        {
+            "variableName": "Daily8",
+            "isAbout": "Daily8"
+        },
+        {
+            "variableName": "Daily9",
+            "isAbout": "Daily9"
+        },
+        {
+            "variableName": "Daily10",
+            "isAbout": "Daily10"
+        },
+        {
+            "variableName": "Daily11",
+            "isAbout": "Daily11"
+        },
+        {
+            "variableName": "Daily12",
+            "isAbout": "Daily12"
+        },
+        {
+            "variableName": "Daily12a",
+            "isAbout": "Daily12a"
+        },
+        {
+            "variableName": "Daily12b",
+            "isAbout": "Daily12b"
+        },
+        {
+            "variableName": "Daily12c",
+            "isAbout": "Daily12c"
+        },
+        {
+            "variableName": "Daily12d",
+            "isAbout": "Daily12d"
+        },
+        {
+            "variableName": "Daily12e",
+            "isAbout": "Daily12e"
+        },
+        {
+            "variableName": "Daily12f",
+            "isAbout": "Daily12f"
+        },
+        {
+            "variableName": "Daily12g",
+            "isAbout": "Daily12g"
+        },
+        {
+            "variableName": "Daily12h",
+            "isAbout": "Daily12h"
+        },
+        {
+            "variableName": "Daily12i",
+            "isAbout": "Daily12i"
+        },
+        {
+            "variableName": "Internet_ev1",
+            "isAbout": "Internet_ev1"
+        },
+        {
+            "variableName": "Internet_ev2",
+            "isAbout": "Internet_ev2"
+        },
+        {
+            "variableName": "Internet_ev3",
+            "isAbout": "Internet_ev3"
+        },
+        {
+            "variableName": "Internet_ev4",
+            "isAbout": "Internet_ev4"
+        },
+        {
+            "variableName": "Internet_ev5",
+            "isAbout": "Internet_ev5"
+        }
+    ],
+    "ui": {
+        "order": [
+            "Context1",
+            "Context1a",
+            "Context2",
+            "Context3",
+            "Context4",
+            "Context5",
+            "Context6",
+            "Context7",
+            "Mood1",
+            "Mood2",
+            "Mood3",
+            "Mood4",
+            "Mood5",
+            "Mood6",
+            "Mood7",
+            "Mood8",
+            "Mood9",
+            "Mood10",
+            "Mood11",
+            "Mood12",
+            "Mood13",
+            "Mood14",
+            "Mood15",
+            "Mood16",
+            "Thoughts1",
+            "Thoughts2",
+            "Thoughts2a",
+            "Thoughts2b",
+            "Activity1",
+            "Activity1a",
+            "Activity1b",
+            "Activity2",
+            "Activity2a",
+            "Activity2b",
+            "Activity2c",
+            "Activity2d",
+            "Activity2e",
+            "Activity2f",
+            "Intake1",
+            "Intake1a",
+            "Intake1b",
+            "Intake1c",
+            "Intake1d",
+            "Intake1e",
+            "Intake1f",
+            "Intake1g",
+            "Intake2",
+            "Intake2a",
+            "Intake2b",
+            "Intake2c",
+            "Intake2d",
+            "Intake2e",
+            "Intake2f",
+            "Intake2fa",
+            "Intake3",
+            "Intake3a",
+            "Intake3b",
+            "Intake3c",
+            "Event0",
+            "Event1",
+            "Event2",
+            "Event3",
+            "Event4",
+            "Event4a",
+            "Event4b",
+            "Pain1",
+            "Pain1a",
+            "Pain1b",
+            "Pain2",
+            "Pain2a",
+            "Pain2b",
+            "Headache1",
+            "Headache1a",
+            "Headache2",
+            "Headache2a",
+            "Headache2b",
+            "Headache2d",
+            "Headache2e",
+            "Headache2f",
+            "Headache2fa",
+            "Headache2g",
+            "Headache2h",
+            "Headache2i",
+            "Headache2j",
+            "Headache2k",
+            "Headache2l",
+            "Headache2m",
+            "Headache2n",
+            "Headache2na",
+            "Headache2o",
+            "Headache2oa",
+            "Headache2p",
+            "Headache2pa",
+            "Headache2q",
+            "Headache2r",
+            "Daily1",
+            "Daily2",
+            "Daily3",
+            "Daily4",
+            "Daily5",
+            "Daily6",
+            "Daily7",
+            "Daily8",
+            "Daily9",
+            "Daily10",
+            "Daily11",
+            "Daily12",
+            "Daily12a",
+            "Daily12b",
+            "Daily12c",
+            "Daily12d",
+            "Daily12e",
+            "Daily12f",
+            "Daily12g",
+            "Daily12h",
+            "Daily12i",
+            "Internet_ev1",
+            "Internet_ev2",
+            "Internet_ev3",
+            "Internet_ev4",
+            "Internet_ev5"
+        ],
+        "shuffle": false,
+        "visibility": {
+            "Context1": true,
+            "Context1a": "Context1 == 1",
+            "Context2": true,
+            "Context3": true,
+            "Context4": true,
+            "Context5": true,
+            "Context6": true,
+            "Context7": true,
+            "Mood1": true,
+            "Mood2": true,
+            "Mood3": true,
+            "Mood4": true,
+            "Mood5": true,
+            "Mood6": true,
+            "Mood7": true,
+            "Mood8": true,
+            "Mood9": true,
+            "Mood10": true,
+            "Mood11": true,
+            "Mood12": true,
+            "Mood13": true,
+            "Mood14": true,
+            "Mood15": true,
+            "Mood16": true,
+            "Thoughts1": true,
+            "Thoughts2": true,
+            "Thoughts2a": "Thoughts2 > 1",
+            "Thoughts2b": "Thoughts2 > 1",
+            "Activity1": true,
+            "Activity1a": "Activity1 == 1",
+            "Activity1b": "Activity1 == 1",
+            "Activity2": true,
+            "Activity2a": "Activity2 == 1",
+            "Activity2b": "Activity2 == 1",
+            "Activity2c": "Activity2 == 2",
+            "Activity2d": "Activity2 == 2",
+            "Activity2e": "Activity2 == 3",
+            "Activity2f": "Activity2 == 3",
+            "Intake1": true,
+            "Intake1a": "Intake1 == 1",
+            "Intake1b": "Intake1 == 2",
+            "Intake1c": "Intake1 == 3",
+            "Intake1d": "Intake1 == 3",
+            "Intake1e": "Intake1 == 4",
+            "Intake1f": "Intake1 == 4",
+            "Intake1g": "Intake1 == 5",
+            "Intake2": true,
+            "Intake2a": "Intake2 == 1",
+            "Intake2b": "Intake2 == 2",
+            "Intake2c": "Intake2 == 3",
+            "Intake2d": "Intake2 == 4",
+            "Intake2e": "Intake2.includes___1 || Intake2.includes___2 || Intake2.includes___3 || Intake2.includes___4",
+            "Intake2f": "Intake2.includes___1 || Intake2.includes___2 || Intake2.includes___3 || Intake2.includes___4",
+            "Intake2fa": "Intake2f == 9",
+            "Intake3": true,
+            "Intake3a": "Intake3 == 1",
+            "Intake3b": "Intake3 == 2",
+            "Intake3c": "Intake3 == 3",
+            "Event0": true,
+            "Event1": true,
+            "Event2": true,
+            "Event3": true,
+            "Event4": true,
+            "Event4a": "Event4 == 1",
+            "Event4b": "Event4 == 1",
+            "Pain1": true,
+            "Pain1a": "Pain1 == 1",
+            "Pain1b": "Pain1 == 1",
+            "Pain2": true,
+            "Pain2a": "Pain2 == 1",
+            "Pain2b": "Pain2 == 1",
+            "Headache1": true,
+            "Headache1a": "Headache1 == 1",
+            "Headache2": true,
+            "Headache2a": "Headache2 == 0",
+            "Headache2b": "Headache2 == 1",
+            "Headache2d": "Headache2 == 1",
+            "Headache2e": "Headache2 == 1",
+            "Headache2f": "Headache2 == 1",
+            "Headache2fa": "Headache2 == 1",
+            "Headache2g": "Headache2 == 1",
+            "Headache2h": "Headache2 == 1",
+            "Headache2i": "Headache2 == 1",
+            "Headache2j": "Headache2 == 1",
+            "Headache2k": "Headache2 == 1",
+            "Headache2l": "Headache2 == 1",
+            "Headache2m": "Headache2 == 1",
+            "Headache2n": "Headache2 == 1",
+            "Headache2na": "Headache2n.includes___2 || Headache2n.includes___3 || Headache2n.includes___4",
+            "Headache2o": "Headache2 == 1",
+            "Headache2oa": "Headache2o == 1",
+            "Headache2p": "Headache2 == 1",
+            "Headache2pa": "Headache2p == 1",
+            "Headache2q": "Headache2 == 1",
+            "Headache2r": "Headache2 == 1",
+            "Daily1": true,
+            "Daily2": true,
+            "Daily3": true,
+            "Daily4": true,
+            "Daily5": true,
+            "Daily6": true,
+            "Daily7": true,
+            "Daily8": true,
+            "Daily9": true,
+            "Daily10": true,
+            "Daily11": true,
+            "Daily12": true,
+            "Daily12a": "Daily12 == 1",
+            "Daily12b": "Daily12 == 2",
+            "Daily12c": "Daily12 == 3",
+            "Daily12d": "Daily12 == 3",
+            "Daily12e": "Daily12 == 4",
+            "Daily12f": "Daily12 == 5",
+            "Daily12g": "Daily12 == 7",
+            "Daily12h": "Daily12 == 7",
+            "Daily12i": "Daily12 == 6",
+            "Internet_ev1": true,
+            "Internet_ev2": true,
+            "Internet_ev3": true,
+            "Internet_ev4": true,
+            "Internet_ev5": true
+        }
+    }
+}

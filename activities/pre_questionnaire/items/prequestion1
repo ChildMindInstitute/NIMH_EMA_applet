@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "prequestion1",
+    "preamble": {
+        "en": "Pre-questionnaire:"
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "What is your gender?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "male ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "female ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "other",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

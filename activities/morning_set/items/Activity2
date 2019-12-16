@@ -1,0 +1,36 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Activity2",
+    "preamble": {
+        "en": "Activity:"
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "vigorous activities (e.g. running/ fast cycling/ heavy lifting or digging ) ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "moderate activities (e.g. tennis/bicycling",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "light activities (e.g. walking/climbing stairs/routine household chores)",
+                "@type": "schema:option"
+            }
+        ]
+    },
+    "question": {
+        "en": "Please select the level of activities you did since the last questionnaire."
+    }
+}

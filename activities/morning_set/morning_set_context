@@ -1,0 +1,446 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "morning_set": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH/clone1/activities/morning_set/items/",
+        "Morning1": {
+            "@id": "morning_set:Morning1",
+            "@type": "@id"
+        },
+        "Morning2": {
+            "@id": "morning_set:Morning2",
+            "@type": "@id"
+        },
+        "Morning3": {
+            "@id": "morning_set:Morning3",
+            "@type": "@id"
+        },
+        "Morning4": {
+            "@id": "morning_set:Morning4",
+            "@type": "@id"
+        },
+        "Morning5": {
+            "@id": "morning_set:Morning5",
+            "@type": "@id"
+        },
+        "Morning6": {
+            "@id": "morning_set:Morning6",
+            "@type": "@id"
+        },
+        "Morning7": {
+            "@id": "morning_set:Morning7",
+            "@type": "@id"
+        },
+        "Morning8": {
+            "@id": "morning_set:Morning8",
+            "@type": "@id"
+        },
+        "Morning9": {
+            "@id": "morning_set:Morning9",
+            "@type": "@id"
+        },
+        "Morning10": {
+            "@id": "morning_set:Morning10",
+            "@type": "@id"
+        },
+        "Morning11": {
+            "@id": "morning_set:Morning11",
+            "@type": "@id"
+        },
+        "Morning11a": {
+            "@id": "morning_set:Morning11a",
+            "@type": "@id"
+        },
+        "Morning12": {
+            "@id": "morning_set:Morning12",
+            "@type": "@id"
+        },
+        "Internet_mn1": {
+            "@id": "morning_set:Internet_mn1",
+            "@type": "@id"
+        },
+        "Internet_mn2": {
+            "@id": "morning_set:Internet_mn2",
+            "@type": "@id"
+        },
+        "Context1": {
+            "@id": "morning_set:Context1",
+            "@type": "@id"
+        },
+        "Context1a": {
+            "@id": "morning_set:Context1a",
+            "@type": "@id"
+        },
+        "Context2": {
+            "@id": "morning_set:Context2",
+            "@type": "@id"
+        },
+        "Context3": {
+            "@id": "morning_set:Context3",
+            "@type": "@id"
+        },
+        "Context4": {
+            "@id": "morning_set:Context4",
+            "@type": "@id"
+        },
+        "Context5": {
+            "@id": "morning_set:Context5",
+            "@type": "@id"
+        },
+        "Context6": {
+            "@id": "morning_set:Context6",
+            "@type": "@id"
+        },
+        "Context7": {
+            "@id": "morning_set:Context7",
+            "@type": "@id"
+        },
+        "Mood1": {
+            "@id": "morning_set:Mood1",
+            "@type": "@id"
+        },
+        "Mood2": {
+            "@id": "morning_set:Mood2",
+            "@type": "@id"
+        },
+        "Mood3": {
+            "@id": "morning_set:Mood3",
+            "@type": "@id"
+        },
+        "Mood4": {
+            "@id": "morning_set:Mood4",
+            "@type": "@id"
+        },
+        "Mood5": {
+            "@id": "morning_set:Mood5",
+            "@type": "@id"
+        },
+        "Mood6": {
+            "@id": "morning_set:Mood6",
+            "@type": "@id"
+        },
+        "Mood7": {
+            "@id": "morning_set:Mood7",
+            "@type": "@id"
+        },
+        "Mood8": {
+            "@id": "morning_set:Mood8",
+            "@type": "@id"
+        },
+        "Mood9": {
+            "@id": "morning_set:Mood9",
+            "@type": "@id"
+        },
+        "Mood10": {
+            "@id": "morning_set:Mood10",
+            "@type": "@id"
+        },
+        "Mood11": {
+            "@id": "morning_set:Mood11",
+            "@type": "@id"
+        },
+        "Mood12": {
+            "@id": "morning_set:Mood12",
+            "@type": "@id"
+        },
+        "Mood13": {
+            "@id": "morning_set:Mood13",
+            "@type": "@id"
+        },
+        "Mood14": {
+            "@id": "morning_set:Mood14",
+            "@type": "@id"
+        },
+        "Mood15": {
+            "@id": "morning_set:Mood15",
+            "@type": "@id"
+        },
+        "Mood16": {
+            "@id": "morning_set:Mood16",
+            "@type": "@id"
+        },
+        "Thoughts1": {
+            "@id": "morning_set:Thoughts1",
+            "@type": "@id"
+        },
+        "Thoughts2": {
+            "@id": "morning_set:Thoughts2",
+            "@type": "@id"
+        },
+        "Thoughts2a": {
+            "@id": "morning_set:Thoughts2a",
+            "@type": "@id"
+        },
+        "Thoughts2b": {
+            "@id": "morning_set:Thoughts2b",
+            "@type": "@id"
+        },
+        "Activity1": {
+            "@id": "morning_set:Activity1",
+            "@type": "@id"
+        },
+        "Activity1a": {
+            "@id": "morning_set:Activity1a",
+            "@type": "@id"
+        },
+        "Activity1b": {
+            "@id": "morning_set:Activity1b",
+            "@type": "@id"
+        },
+        "Activity2": {
+            "@id": "morning_set:Activity2",
+            "@type": "@id"
+        },
+        "Activity2a": {
+            "@id": "morning_set:Activity2a",
+            "@type": "@id"
+        },
+        "Activity2b": {
+            "@id": "morning_set:Activity2b",
+            "@type": "@id"
+        },
+        "Activity2c": {
+            "@id": "morning_set:Activity2c",
+            "@type": "@id"
+        },
+        "Activity2d": {
+            "@id": "morning_set:Activity2d",
+            "@type": "@id"
+        },
+        "Activity2e": {
+            "@id": "morning_set:Activity2e",
+            "@type": "@id"
+        },
+        "Activity2f": {
+            "@id": "morning_set:Activity2f",
+            "@type": "@id"
+        },
+        "Intake1": {
+            "@id": "morning_set:Intake1",
+            "@type": "@id"
+        },
+        "Intake1a": {
+            "@id": "morning_set:Intake1a",
+            "@type": "@id"
+        },
+        "Intake1b": {
+            "@id": "morning_set:Intake1b",
+            "@type": "@id"
+        },
+        "Intake1c": {
+            "@id": "morning_set:Intake1c",
+            "@type": "@id"
+        },
+        "Intake1d": {
+            "@id": "morning_set:Intake1d",
+            "@type": "@id"
+        },
+        "Intake1e": {
+            "@id": "morning_set:Intake1e",
+            "@type": "@id"
+        },
+        "Intake1f": {
+            "@id": "morning_set:Intake1f",
+            "@type": "@id"
+        },
+        "Intake1g": {
+            "@id": "morning_set:Intake1g",
+            "@type": "@id"
+        },
+        "Intake2": {
+            "@id": "morning_set:Intake2",
+            "@type": "@id"
+        },
+        "Intake2a": {
+            "@id": "morning_set:Intake2a",
+            "@type": "@id"
+        },
+        "Intake2b": {
+            "@id": "morning_set:Intake2b",
+            "@type": "@id"
+        },
+        "Intake2c": {
+            "@id": "morning_set:Intake2c",
+            "@type": "@id"
+        },
+        "Intake2d": {
+            "@id": "morning_set:Intake2d",
+            "@type": "@id"
+        },
+        "Intake2e": {
+            "@id": "morning_set:Intake2e",
+            "@type": "@id"
+        },
+        "Intake2f": {
+            "@id": "morning_set:Intake2f",
+            "@type": "@id"
+        },
+        "Intake2fa": {
+            "@id": "morning_set:Intake2fa",
+            "@type": "@id"
+        },
+        "Intake3": {
+            "@id": "morning_set:Intake3",
+            "@type": "@id"
+        },
+        "Intake3a": {
+            "@id": "morning_set:Intake3a",
+            "@type": "@id"
+        },
+        "Intake3b": {
+            "@id": "morning_set:Intake3b",
+            "@type": "@id"
+        },
+        "Intake3c": {
+            "@id": "morning_set:Intake3c",
+            "@type": "@id"
+        },
+        "Event0": {
+            "@id": "morning_set:Event0",
+            "@type": "@id"
+        },
+        "Event1": {
+            "@id": "morning_set:Event1",
+            "@type": "@id"
+        },
+        "Event2": {
+            "@id": "morning_set:Event2",
+            "@type": "@id"
+        },
+        "Event3": {
+            "@id": "morning_set:Event3",
+            "@type": "@id"
+        },
+        "Event4": {
+            "@id": "morning_set:Event4",
+            "@type": "@id"
+        },
+        "Event4a": {
+            "@id": "morning_set:Event4a",
+            "@type": "@id"
+        },
+        "Event4b": {
+            "@id": "morning_set:Event4b",
+            "@type": "@id"
+        },
+        "Pain1": {
+            "@id": "morning_set:Pain1",
+            "@type": "@id"
+        },
+        "Pain1a": {
+            "@id": "morning_set:Pain1a",
+            "@type": "@id"
+        },
+        "Pain1b": {
+            "@id": "morning_set:Pain1b",
+            "@type": "@id"
+        },
+        "Pain2": {
+            "@id": "morning_set:Pain2",
+            "@type": "@id"
+        },
+        "Pain2a": {
+            "@id": "morning_set:Pain2a",
+            "@type": "@id"
+        },
+        "Pain2b": {
+            "@id": "morning_set:Pain2b",
+            "@type": "@id"
+        },
+        "Headache1": {
+            "@id": "morning_set:Headache1",
+            "@type": "@id"
+        },
+        "Headache1a": {
+            "@id": "morning_set:Headache1a",
+            "@type": "@id"
+        },
+        "Headache2": {
+            "@id": "morning_set:Headache2",
+            "@type": "@id"
+        },
+        "Headache2a": {
+            "@id": "morning_set:Headache2a",
+            "@type": "@id"
+        },
+        "Headache2b": {
+            "@id": "morning_set:Headache2b",
+            "@type": "@id"
+        },
+        "Headache2d": {
+            "@id": "morning_set:Headache2d",
+            "@type": "@id"
+        },
+        "Headache2e": {
+            "@id": "morning_set:Headache2e",
+            "@type": "@id"
+        },
+        "Headache2f": {
+            "@id": "morning_set:Headache2f",
+            "@type": "@id"
+        },
+        "Headache2fa": {
+            "@id": "morning_set:Headache2fa",
+            "@type": "@id"
+        },
+        "Headache2g": {
+            "@id": "morning_set:Headache2g",
+            "@type": "@id"
+        },
+        "Headache2h": {
+            "@id": "morning_set:Headache2h",
+            "@type": "@id"
+        },
+        "Headache2i": {
+            "@id": "morning_set:Headache2i",
+            "@type": "@id"
+        },
+        "Headache2j": {
+            "@id": "morning_set:Headache2j",
+            "@type": "@id"
+        },
+        "Headache2k": {
+            "@id": "morning_set:Headache2k",
+            "@type": "@id"
+        },
+        "Headache2l": {
+            "@id": "morning_set:Headache2l",
+            "@type": "@id"
+        },
+        "Headache2m": {
+            "@id": "morning_set:Headache2m",
+            "@type": "@id"
+        },
+        "Headache2n": {
+            "@id": "morning_set:Headache2n",
+            "@type": "@id"
+        },
+        "Headache2na": {
+            "@id": "morning_set:Headache2na",
+            "@type": "@id"
+        },
+        "Headache2o": {
+            "@id": "morning_set:Headache2o",
+            "@type": "@id"
+        },
+        "Headache2oa": {
+            "@id": "morning_set:Headache2oa",
+            "@type": "@id"
+        },
+        "Headache2p": {
+            "@id": "morning_set:Headache2p",
+            "@type": "@id"
+        },
+        "Headache2pa": {
+            "@id": "morning_set:Headache2pa",
+            "@type": "@id"
+        },
+        "Headache2q": {
+            "@id": "morning_set:Headache2q",
+            "@type": "@id"
+        },
+        "Headache2r": {
+            "@id": "morning_set:Headache2r",
+            "@type": "@id"
+        }
+    }
+}
