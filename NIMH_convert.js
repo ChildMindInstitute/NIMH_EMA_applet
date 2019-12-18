@@ -356,7 +356,7 @@ function processRow(form, data){
                     let s = condition;
                     // normalize the condition field to resemble javascript
                     let re = RegExp(/\(([0-9]*)\)/g);
-                    condition = condition.replace(re, "___$1");
+                    //condition = condition.replace(re, "___$1");
                     condition = condition.replace(/([^>|<])=/g, "$1==");
                     condition = condition.replace(/\ and\ /g, " && ");
                     condition = condition.replace(/\ or\ /g, " || ");
