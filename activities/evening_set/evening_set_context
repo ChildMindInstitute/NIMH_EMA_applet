@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "evening_set": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/activities/evening_set/items/",
+        "evening_set": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/noCL/activities/evening_set/items/",
         "Context1": {
             "@id": "evening_set:Context1",
             "@type": "@id"

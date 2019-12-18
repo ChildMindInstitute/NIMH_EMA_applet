@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/activities/pre_questionnaire/pre_questionnaire_context"
+        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/noCL/activities/pre_questionnaire/pre_questionnaire_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "pre_questionnaire_schema",

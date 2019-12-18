@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/protocols/EMA_HBN_NIMH2/EMA_HBN_NIMH2_context"
+        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/noCL/protocols/EMA_HBN_NIMH2/EMA_HBN_NIMH2_context"
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "EMA_HBN_NIMH2_schema",
