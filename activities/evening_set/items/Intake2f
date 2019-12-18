@@ -8,69 +8,53 @@
         "en": "Food and Drink:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "select"
+    },
+    "question": {
+        "en": "For how long did you eat?"
     },
     "responseOptions": {
-        "multipleChoice": true,
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "beef/pork/lamb ",
+                "schema:name": "5 min ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "chicken or other poultry ",
+                "schema:name": "10 min ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "eggs ",
+                "schema:name": "15 min ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
-                "schema:name": "fish ",
+                "schema:name": "30 min ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "dairy (yogurt/milk/cheese) ",
+                "schema:name": "45 min ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 6,
-                "schema:name": "bread/pasta/cereal/other starchy food ",
+                "schema:name": "1 hr ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 7,
-                "schema:name": "fruits ",
+                "schema:name": "1 hr 30 min ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 8,
-                "schema:name": "vegetables ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 9,
-                "schema:name": "sweet foods or candy ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 10,
-                "schema:name": "energy bars ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 11,
-                "schema:name": "potato chips or other salty snacks",
+                "schema:name": "2 hrs or more",
                 "@type": "schema:option"
             }
         ]
-    },
-    "question": {
-        "en": "Please think about all the foods you ate since the last questionnaire. Please select all types of food you ate"
     }
 }

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "Intake2fa",
+    "skos:altLabel": "Intake2ga",
     "preamble": {
         "en": "Food and Drink:"
     },

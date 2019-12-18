@@ -11,7 +11,7 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "Have you taken your activity monitor off since the last assessment?"
+        "en": "Have you taken your activity monitor off since your last assessment?"
     },
     "responseOptions": {
         "choices": [

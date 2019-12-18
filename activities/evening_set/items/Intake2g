@@ -3,9 +3,9 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "Context3",
+    "skos:altLabel": "Intake2g",
     "preamble": {
-        "en": "Context:"
+        "en": "Food and Drink:"
     },
     "ui": {
         "inputType": "radio"
@@ -15,67 +15,62 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "In my home ",
+                "schema:name": "beef/pork/lamb ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "in home of relative or friend ",
+                "schema:name": "chicken or other poultry ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "at work or in class ",
+                "schema:name": "eggs ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
-                "schema:name": "in a restaurant/caf�/bar ",
+                "schema:name": "fish ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "in a store or shop ",
+                "schema:name": "dairy (yogurt/milk/cheese) ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 6,
-                "schema:name": "in the gym or fitness center ",
+                "schema:name": "bread/pasta/cereal/other starchy food ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 7,
-                "schema:name": "in a hospital or doctor�s office ",
+                "schema:name": "fruits ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 8,
-                "schema:name": "in a vehicle (car/bus�) ",
+                "schema:name": "vegetables ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 9,
-                "schema:name": "in a public building ",
+                "schema:name": "sweet foods or candy ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 10,
-                "schema:name": "in a park or garden ",
+                "schema:name": "energy bars ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 11,
-                "schema:name": "other place inside ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 12,
-                "schema:name": "other place outside",
+                "schema:name": "potato chips or other salty snacks",
                 "@type": "schema:option"
             }
         ]
     },
     "question": {
-        "en": "Which places have you been since you woke up?"
+        "en": "Please think about all the foods you ate since the last questionnaire. Please select all types of food you ate"
     }
 }

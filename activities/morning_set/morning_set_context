@@ -274,8 +274,12 @@
             "@id": "morning_set:Intake2f",
             "@type": "@id"
         },
-        "Intake2fa": {
-            "@id": "morning_set:Intake2fa",
+        "Intake2g": {
+            "@id": "morning_set:Intake2g",
+            "@type": "@id"
+        },
+        "Intake2ga": {
+            "@id": "morning_set:Intake2ga",
             "@type": "@id"
         },
         "Intake3": {
