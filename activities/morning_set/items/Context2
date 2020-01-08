@@ -17,7 +17,7 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "In my home ",
+                "schema:name": "in my home ",
                 "@type": "schema:option"
             },
             {
@@ -32,7 +32,7 @@
             },
             {
                 "schema:value": 4,
-                "schema:name": "in a restaurant/caf�/bar ",
+                "schema:name": "in a restaurant/cafe/bar ",
                 "@type": "schema:option"
             },
             {
@@ -47,12 +47,12 @@
             },
             {
                 "schema:value": 7,
-                "schema:name": "in a hospital or doctor�s office ",
+                "schema:name": "in a hospital or doctor's office ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 8,
-                "schema:name": "in a vehicle (car/bus�) ",
+                "schema:name": "in a vehicle (car/bus) ",
                 "@type": "schema:option"
             },
             {

@@ -51,7 +51,7 @@
                 "@type": "schema:option"
             }
         ],
-        "schema:minValue": "very focused/attentive",
-        "schema:maxValue": "very unfocused/distracted"
+        "schema:minValue": "very unfocused/distracted",
+        "schema:maxValue": "very focused/attentive"
     }
 }

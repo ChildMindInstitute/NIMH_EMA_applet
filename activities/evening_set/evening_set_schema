@@ -667,7 +667,7 @@
             "Intake2e": "Intake2.includes(1) || Intake2.includes(2) || Intake2.includes(3) || Intake2.includes(4)",
             "Intake2f": "Intake2.includes(1) || Intake2.includes(2) || Intake2.includes(3) || Intake2.includes(4)",
             "Intake2g": "Intake2.includes(1) || Intake2.includes(2) || Intake2.includes(3) || Intake2.includes(4)",
-            "Intake2ga": "Intake2g == 9",
+            "Intake2ga": "Intake2g.includes(9)",
             "Intake3": true,
             "Intake3a": "Intake3.includes(1)",
             "Intake3b": "Intake3.includes(2)",

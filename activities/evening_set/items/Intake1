@@ -25,12 +25,12 @@
             },
             {
                 "schema:value": 3,
-                "schema:name": " a caffeinated beverage (like coffee/tea/soda...) ",
+                "schema:name": " a caffeinated beverage (like coffee/tea/soda) ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
-                "schema:name": "an alcoholic beverage (wine/beer/liquor�) ",
+                "schema:name": "an alcoholic beverage (wine/beer/liquor) ",
                 "@type": "schema:option"
             },
             {

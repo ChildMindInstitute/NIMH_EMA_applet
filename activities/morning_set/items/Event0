@@ -8,18 +8,9 @@
         "en": "Events:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "static"
     },
     "question": {
         "en": "Since you woke up, please think of the ONE event that affected you the most (positively or negatively), no matter how slightly."
-    },
-    "responseOptions": {
-        "choices": [
-            {
-                "schema:value": 1,
-                "schema:name": "okay",
-                "@type": "schema:option"
-            }
-        ]
     }
 }
