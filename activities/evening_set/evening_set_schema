@@ -249,6 +249,18 @@
             "isAbout": "Intake3c"
         },
         {
+            "variableName": "Event0",
+            "isAbout": "Event0"
+        },
+        {
+            "variableName": "Event1",
+            "isAbout": "Event1"
+        },
+        {
+            "variableName": "Event2",
+            "isAbout": "Event2"
+        },
+        {
             "variableName": "Event3",
             "isAbout": "Event3"
         },
@@ -550,6 +562,9 @@
             "Intake3a",
             "Intake3b",
             "Intake3c",
+            "Event0",
+            "Event1",
+            "Event2",
             "Event3",
             "Event4",
             "Event4a",
@@ -672,6 +687,9 @@
             "Intake3a": "Intake3.includes(1)",
             "Intake3b": "Intake3.includes(2)",
             "Intake3c": "Intake3.includes(3)",
+            "Event0": true,
+            "Event1": true,
+            "Event2": true,
             "Event3": true,
             "Event4": true,
             "Event4a": "Event4 == 1",

@@ -238,6 +238,18 @@
             "@id": "day_set:Intake3c",
             "@type": "@id"
         },
+        "Event0": {
+            "@id": "day_set:Event0",
+            "@type": "@id"
+        },
+        "Event1": {
+            "@id": "day_set:Event1",
+            "@type": "@id"
+        },
+        "Event2": {
+            "@id": "day_set:Event2",
+            "@type": "@id"
+        },
         "Event3": {
             "@id": "day_set:Event3",
             "@type": "@id"
