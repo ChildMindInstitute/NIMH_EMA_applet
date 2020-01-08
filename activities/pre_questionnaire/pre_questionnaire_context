@@ -10,8 +10,8 @@
             "@id": "pre_questionnaire:prequestion2",
             "@type": "@id"
         },
-        "prequestion3": {
-            "@id": "pre_questionnaire:prequestion3",
+        "prequestion2a": {
+            "@id": "pre_questionnaire:prequestion2a",
             "@type": "@id"
         }
     }

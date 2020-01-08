@@ -3,55 +3,44 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "Mood1",
+    "skos:altLabel": "prequestion2a",
     "preamble": {
-        "en": "Mood:"
+        "en": "Pre-questionnaire:"
     },
     "ui": {
-        "inputType": "slider"
-    },
-    "question": {
-        "en": "How happy versus sad do you feel right now?"
+        "inputType": "radio"
     },
     "responseOptions": {
+        "multipleChoice": true,
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "1 ",
+                "schema:name": "Twitter ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "2 ",
+                "schema:name": "Instagram ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "3 ",
+                "schema:name": "Facebook ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
-                "schema:name": "4 ",
+                "schema:name": "Snapchat ",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "5 ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 6,
-                "schema:name": "6 ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 7,
-                "schema:name": "7",
+                "schema:name": "other",
                 "@type": "schema:option"
             }
-        ],
-        "schema:minValue": "very sad/depressed/unhappy",
-        "schema:maxValue": "very cheerful/happy"
+        ]
+    },
+    "question": {
+        "en": "What social media accounts do you use?"
     }
 }

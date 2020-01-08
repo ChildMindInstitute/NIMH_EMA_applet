@@ -21,21 +21,21 @@
             "isAbout": "prequestion2"
         },
         {
-            "variableName": "prequestion3",
-            "isAbout": "prequestion3"
+            "variableName": "prequestion2a",
+            "isAbout": "prequestion2a"
         }
     ],
     "ui": {
         "order": [
             "prequestion1",
             "prequestion2",
-            "prequestion3"
+            "prequestion2a"
         ],
         "shuffle": false,
         "visibility": {
             "prequestion1": true,
             "prequestion2": true,
-            "prequestion3": true
+            "prequestion2a": "prequestion2 == 1"
         }
     }
 }

@@ -51,7 +51,7 @@
                 "@type": "schema:option"
             }
         ],
-        "schema:minValue": "very/sad/depressed/unhappy",
+        "schema:minValue": "very sad/depressed/unhappy",
         "schema:maxValue": "very cheerful/happy"
     }
 }
