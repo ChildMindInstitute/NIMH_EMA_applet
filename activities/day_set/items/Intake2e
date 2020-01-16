@@ -8,7 +8,7 @@
         "en": "Food and Drink:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "time"
     },
     "question": {
         "en": "About what time did you eat?"
