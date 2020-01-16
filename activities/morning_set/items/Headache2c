@@ -3,31 +3,26 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "Intake2d",
+    "skos:altLabel": "Headache2c",
     "preamble": {
-        "en": "Food and Drink:"
+        "en": "Headache:"
     },
     "ui": {
         "inputType": "radio"
     },
     "question": {
-        "en": "How many large meals did you have?"
+        "en": "Is this headache still present?"
     },
     "responseOptions": {
         "choices": [
             {
+                "schema:value": 0,
+                "schema:name": "No ",
+                "@type": "schema:option"
+            },
+            {
                 "schema:value": 1,
-                "schema:name": "1 ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 2,
-                "schema:name": "2 ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 3,
-                "schema:name": "more than 2",
+                "schema:name": "Yes",
                 "@type": "schema:option"
             }
         ]

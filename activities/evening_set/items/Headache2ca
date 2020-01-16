@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "Headache2b",
+    "skos:altLabel": "Headache2ca",
     "preamble": {
         "en": "Headache:"
     },
@@ -11,6 +11,6 @@
         "inputType": "time"
     },
     "question": {
-        "en": "What time did the headache begin?"
+        "en": "What time did the headache end?"
     }
 }

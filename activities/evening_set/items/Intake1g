@@ -8,7 +8,7 @@
         "en": "Food and Drink:"
     },
     "ui": {
-        "inputType": "select"
+        "inputType": "radio"
     },
     "question": {
         "en": "How many 8 oz glasses of high-sugar drinks (e.g., juice, soda, some coffee beverages) did you consume?"

@@ -8,7 +8,7 @@
         "en": "Daily Health:"
     },
     "ui": {
-        "inputType": "select"
+        "inputType": "radio"
     },
     "question": {
         "en": "If you reported a headache present at any assessment today, how many hours did the headache(s) last in total?"

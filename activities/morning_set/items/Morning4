@@ -8,7 +8,7 @@
         "en": "Sleep:"
     },
     "ui": {
-        "inputType": "select"
+        "inputType": "radio"
     },
     "question": {
         "en": "How long did it take you to fall asleep?"

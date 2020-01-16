@@ -37,7 +37,17 @@
             },
             {
                 "schema:value": 5,
-                "schema:name": "5",
+                "schema:name": "5 ",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "6",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "7",
                 "@type": "schema:option"
             }
         ],

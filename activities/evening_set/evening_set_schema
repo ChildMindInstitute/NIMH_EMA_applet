@@ -321,6 +321,14 @@
             "isAbout": "Headache2b"
         },
         {
+            "variableName": "Headache2c",
+            "isAbout": "Headache2c"
+        },
+        {
+            "variableName": "Headache2ca",
+            "isAbout": "Headache2ca"
+        },
+        {
             "variableName": "Headache2d",
             "isAbout": "Headache2d"
         },
@@ -580,6 +588,8 @@
             "Headache2",
             "Headache2a",
             "Headache2b",
+            "Headache2c",
+            "Headache2ca",
             "Headache2d",
             "Headache2e",
             "Headache2f",
@@ -705,6 +715,8 @@
             "Headache2": true,
             "Headache2a": "Headache2 == 0",
             "Headache2b": "Headache2 == 1",
+            "Headache2c": "Headache2 == 1",
+            "Headache2ca": "Headache2c == 0",
             "Headache2d": "Headache2 == 1",
             "Headache2e": "Headache2 == 1",
             "Headache2f": "Headache2 == 1",

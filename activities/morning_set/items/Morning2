@@ -8,7 +8,7 @@
         "en": "Sleep:"
     },
     "ui": {
-        "inputType": "select"
+        "inputType": "time"
     },
     "question": {
         "en": "What time did you turn off the lights (including TV, phone, tablets)?"

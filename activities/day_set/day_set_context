@@ -310,6 +310,14 @@
             "@id": "day_set:Headache2b",
             "@type": "@id"
         },
+        "Headache2c": {
+            "@id": "day_set:Headache2c",
+            "@type": "@id"
+        },
+        "Headache2ca": {
+            "@id": "day_set:Headache2ca",
+            "@type": "@id"
+        },
         "Headache2d": {
             "@id": "day_set:Headache2d",
             "@type": "@id"

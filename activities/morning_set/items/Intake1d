@@ -8,7 +8,7 @@
         "en": "Food and Drink:"
     },
     "ui": {
-        "inputType": "select"
+        "inputType": "radio"
     },
     "question": {
         "en": "How many 8 oz glasses of caffeinated drinks did you consume?"

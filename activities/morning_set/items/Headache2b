@@ -8,9 +8,9 @@
         "en": "Headache:"
     },
     "ui": {
-        "inputType": "timeRange"
+        "inputType": "time"
     },
     "question": {
-        "en": "What time did the headache begin and end?"
+        "en": "What time did the headache begin?"
     }
 }

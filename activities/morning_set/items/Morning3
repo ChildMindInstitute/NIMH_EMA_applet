@@ -8,7 +8,7 @@
         "en": "Sleep:"
     },
     "ui": {
-        "inputType": "select"
+        "inputType": "time"
     },
     "question": {
         "en": "What time did you close your eyes to try to go to sleep?"
