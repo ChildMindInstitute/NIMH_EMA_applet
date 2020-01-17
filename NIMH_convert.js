@@ -16,6 +16,9 @@ let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${b
 //3. add a description to your protocol
 let protocolDescription = "Daily questions about physical and mental health, NIMH content"
 
+//4. where are you hosting your images?
+let imagePath = 'https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/'
+
 /* hard coded activity display object
 let activityDisplayObj = {
     "pre_questionnaire": 'Pre Questionnaire',
@@ -296,12 +299,22 @@ function processRow(form, data){
                 c.forEach(ch => { // ch = { value, name}
                     let choiceObj = {};
                     let cs = ch.split(', ');
-                    // create name and value pair for each choice option
-                    choiceObj['schema:value'] = parseInt(cs[0]);
-                    let cnameList = cs[1];
-                    choiceObj['schema:name'] = cnameList;
-                    choiceObj['@type'] = "schema:option";
-                    choiceList.push(choiceObj);
+                    // create name and value pair + image link for each choice option
+                    if (cs.length === 3) {
+                        choiceObj['schema:value'] = parseInt(cs[0]);
+                        let cnameList = cs[1];
+                        choiceObj['schema:name'] = cnameList;
+                        choiceObj['@type'] = "schema:option";
+                        choiceObj['schema:image'] = imagePath + cs[2] + '.png';
+                        choiceList.push(choiceObj);
+                    } else {
+                    // for no image, create name and value pair for each choice option
+                        choiceObj['schema:value'] = parseInt(cs[0]);
+                        let cnameList = cs[1];
+                        choiceObj['schema:name'] = cnameList;
+                        choiceObj['@type'] = "schema:option";
+                        choiceList.push(choiceObj);
+                    }
 
                 });
                 // insert 'choices' key inside responseOptions of the item
