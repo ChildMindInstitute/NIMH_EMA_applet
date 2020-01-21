@@ -15,28 +15,33 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "noise or other disturbances ",
-                "@type": "schema:option"
+                "schema:name": "noise or other disturbances",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F442.png"
             },
             {
                 "schema:value": 2,
-                "schema:name": "pain ",
-                "@type": "schema:option"
+                "schema:name": "pain",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F4A2.png"
             },
             {
                 "schema:value": 3,
-                "schema:name": "worry ",
-                "@type": "schema:option"
+                "schema:name": "worry",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F627.png"
             },
             {
                 "schema:value": 4,
-                "schema:name": "other thoughts ",
-                "@type": "schema:option"
+                "schema:name": "other thoughts",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F4AD.png"
             },
             {
                 "schema:value": 5,
                 "schema:name": "other reason",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2754.png"
             }
         ]
     },

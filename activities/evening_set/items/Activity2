@@ -15,8 +15,9 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "vigorous activities (e.g. running/ fast cycling/ heavy lifting or digging ) ",
-                "@type": "schema:option"
+                "schema:name": "vigorous activities (e.g. running/ fast cycling/heavy lifting or digging)",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F3CB.png"
             },
             {
                 "schema:value": 2,
@@ -26,7 +27,8 @@
             {
                 "schema:value": 3,
                 "schema:name": "light activities (e.g. walking/climbing stairs/routine household chores)",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F6B6-200D-2642-FE0F.png"
             }
         ]
     },

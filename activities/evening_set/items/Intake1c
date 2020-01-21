@@ -15,28 +15,33 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "soda (coke/pepsi/other caffeinated soda) ",
-                "@type": "schema:option"
+                "schema:name": "soda (coke/pepsi/other caffeinated soda)",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F964.png"
             },
             {
                 "schema:value": 2,
-                "schema:name": "energy drink ",
-                "@type": "schema:option"
+                "schema:name": "energy drink",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/26A1.png"
             },
             {
                 "schema:value": 3,
-                "schema:name": "coffee ",
-                "@type": "schema:option"
+                "schema:name": "coffee",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2615.png"
             },
             {
                 "schema:value": 4,
-                "schema:name": "tea ",
-                "@type": "schema:option"
+                "schema:name": "tea",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F375.png"
             },
             {
                 "schema:value": 5,
                 "schema:name": "other",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2754.png"
             }
         ]
     },

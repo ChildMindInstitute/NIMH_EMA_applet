@@ -17,13 +17,15 @@
         "choices": [
             {
                 "schema:value": 0,
-                "schema:name": "No ",
-                "@type": "schema:option"
+                "schema:name": "No",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F645-200D-2640-FE0F.png"
             },
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F4C5.png"
             }
         ]
     }

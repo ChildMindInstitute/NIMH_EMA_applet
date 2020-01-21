@@ -17,23 +17,20 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "both sides of your head ",
-                "@type": "schema:option"
+                "schema:name": "both sides of your head",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2194.png"
             },
             {
                 "schema:value": 2,
-                "schema:name": "left side only ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 3,
-                "schema:name": "right side only ",
+                "schema:name": "left side only",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
                 "schema:name": "moved from one side to another",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F504.png"
             }
         ]
     }

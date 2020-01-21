@@ -17,57 +17,57 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "1 ",
+                "schema:name": "1 snack",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "2 ",
+                "schema:name": "2 snacks",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "3 ",
+                "schema:name": "3 snacks",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
-                "schema:name": "4 ",
+                "schema:name": "4 snacks",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "5 ",
+                "schema:name": "5 snacks",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 6,
-                "schema:name": "6 ",
+                "schema:name": "6 snacks",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 7,
-                "schema:name": "7 ",
+                "schema:name": "7 snacks",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 8,
-                "schema:name": "8 ",
+                "schema:name": "8 snacks",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 9,
-                "schema:name": "9 ",
+                "schema:name": "9 snacks",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 10,
-                "schema:name": "10 ",
+                "schema:name": "10 snacks",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 11,
-                "schema:name": "more than 10",
+                "schema:name": "more than 10 snacks",
                 "@type": "schema:option"
             }
         ]

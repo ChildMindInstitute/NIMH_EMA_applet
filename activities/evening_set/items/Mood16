@@ -17,38 +17,40 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "1 ",
-                "@type": "schema:option"
+                "schema:name": "1",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F636.png"
             },
             {
                 "schema:value": 2,
-                "schema:name": "2 ",
+                "schema:name": "2",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "3 ",
+                "schema:name": "3",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
-                "schema:name": "4 ",
+                "schema:name": "4",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "5 ",
+                "schema:name": "5",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 6,
-                "schema:name": "6 ",
+                "schema:name": "6",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 7,
                 "schema:name": "7",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F971.png"
             }
         ],
         "schema:minValue": "not at all sleepy",

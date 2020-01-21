@@ -17,62 +17,62 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "1 ",
+                "schema:name": "1 joint",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "2 ",
+                "schema:name": "2 joints",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "3 ",
+                "schema:name": "3 joints",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
-                "schema:name": "4 ",
+                "schema:name": "4 joints",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "5 ",
+                "schema:name": "5 joints",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 6,
-                "schema:name": "6 ",
+                "schema:name": "6 joints",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 7,
-                "schema:name": "7 ",
+                "schema:name": "7 joints",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 8,
-                "schema:name": "8 ",
+                "schema:name": "8 joints",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 9,
-                "schema:name": "9 ",
+                "schema:name": "9 joints",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 10,
-                "schema:name": "10 ",
+                "schema:name": "10 joints",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 15,
-                "schema:name": "15 ",
+                "schema:name": "15 joints",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 20,
-                "schema:name": "20",
+                "schema:name": "20 or more joints",
                 "@type": "schema:option"
             }
         ]

@@ -17,7 +17,7 @@ let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${b
 let protocolDescription = "Daily questions about physical and mental health, NIMH content"
 
 //4. where are you hosting your images?
-let imagePath = 'https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/'
+let imagePath = 'https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/'
 
 /* hard coded activity display object
 let activityDisplayObj = {
@@ -294,7 +294,7 @@ function processRow(form, data){
             else if (schemaMap[current_key] === 'choices' && data[current_key] !== '') {
 
                 // split string wrt '|' to get each choice
-                let c = data[current_key].split('|');
+                let c = data[current_key].split(' | ');
                 // split each choice wrt ',' to get schema:name and schema:value
                 c.forEach(ch => { // ch = { value, name}
                     let choiceObj = {};

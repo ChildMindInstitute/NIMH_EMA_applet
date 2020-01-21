@@ -15,28 +15,33 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "home ",
-                "@type": "schema:option"
+                "schema:name": "home",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F3E0.png"
             },
             {
                 "schema:value": 2,
-                "schema:name": "school ",
-                "@type": "schema:option"
+                "schema:name": "school",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F3EB.png"
             },
             {
                 "schema:value": 3,
-                "schema:name": "coffee shop or caf� ",
-                "@type": "schema:option"
+                "schema:name": "coffee shop or caf�",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/E200.png"
             },
             {
                 "schema:value": 4,
-                "schema:name": "library ",
-                "@type": "schema:option"
+                "schema:name": "library",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F4DA.png"
             },
             {
                 "schema:value": 5,
                 "schema:name": "friend or family's house",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F3D8.png"
             }
         ]
     },

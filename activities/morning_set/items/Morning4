@@ -17,72 +17,72 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "less than 5min ",
+                "schema:name": "less than 5 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "5min ",
+                "schema:name": "5 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "10min ",
+                "schema:name": "10 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
-                "schema:name": "15min ",
+                "schema:name": "15 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "20min ",
+                "schema:name": "20 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 6,
-                "schema:name": "30min ",
+                "schema:name": "30 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 7,
-                "schema:name": "40min ",
+                "schema:name": "40 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 8,
-                "schema:name": "50min ",
+                "schema:name": "50 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 9,
-                "schema:name": "1hr ",
+                "schema:name": "1 hour",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 10,
-                "schema:name": "1hr 15min ",
+                "schema:name": "1 hour 15 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 11,
-                "schema:name": "1hr 30min ",
+                "schema:name": "1 hour 30 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 12,
-                "schema:name": "1hr 45min ",
+                "schema:name": "1 hour 45 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 13,
-                "schema:name": "2hr ",
+                "schema:name": "2 hours",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 14,
-                "schema:name": "more than 2hrs",
+                "schema:name": "more than 2 hours",
                 "@type": "schema:option"
             }
         ]

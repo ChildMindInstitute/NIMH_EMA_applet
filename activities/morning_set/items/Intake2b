@@ -17,32 +17,32 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "1 ",
+                "schema:name": "1 small meal",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "2 ",
+                "schema:name": "2 small meals",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "3 ",
+                "schema:name": "3 small meals",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
-                "schema:name": "4 ",
+                "schema:name": "4 small meals",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "5 ",
+                "schema:name": "5 small meals",
                 "@type": "schema:option"
             },
             {
                 "schema:value": null,
-                "schema:name": "more than 5",
+                "schema:name": "more than 5 small meals",
                 "@type": "schema:option"
             }
         ]

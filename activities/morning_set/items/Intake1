@@ -15,38 +15,44 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "water ",
-                "@type": "schema:option"
+                "schema:name": "water",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F4A7.png"
             },
             {
                 "schema:value": 2,
-                "schema:name": "milk ",
-                "@type": "schema:option"
+                "schema:name": "milk",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F95B.png"
             },
             {
                 "schema:value": 3,
-                "schema:name": " a caffeinated beverage (like coffee/tea/soda) ",
-                "@type": "schema:option"
+                "schema:name": " a caffeinated beverage (like coffee/tea/soda etc.)",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/26A1.png"
             },
             {
                 "schema:value": 4,
-                "schema:name": "an alcoholic beverage (wine/beer/liquor) ",
+                "schema:name": "an alcoholic beverage (wine/beer/liquor etc.) 1F377",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "a beverage containing sugar like juice or caffeine free soda ",
-                "@type": "schema:option"
+                "schema:name": "a beverage containing sugar like juice or caffeine free soda",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F9C3.png"
             },
             {
                 "schema:value": 6,
-                "schema:name": "another type of drink ",
-                "@type": "schema:option"
+                "schema:name": "another type of drink",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2754.png"
             },
             {
                 "schema:value": 7,
                 "schema:name": "none",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274C.png"
             }
         ]
     },

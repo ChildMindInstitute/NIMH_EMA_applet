@@ -17,22 +17,23 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "1 ",
+                "schema:name": "1 full meal",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "2 ",
+                "schema:name": "2 full meals",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "3 ",
-                "@type": "schema:option"
+                "schema:name": "3",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/full meals.png"
             },
             {
                 "schema:value": 4,
-                "schema:name": "more than 3",
+                "schema:name": "more than 3 full meals",
                 "@type": "schema:option"
             }
         ]

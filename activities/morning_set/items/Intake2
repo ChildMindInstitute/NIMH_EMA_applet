@@ -15,28 +15,33 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "snacks (e.g. candy bar/cookie/small bag of chips) ",
-                "@type": "schema:option"
+                "schema:name": "snacks (e.g. candy bar/cookie/small bag of chips)",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F36A.png"
             },
             {
                 "schema:value": 2,
-                "schema:name": "small meals ",
-                "@type": "schema:option"
+                "schema:name": "small meals",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F359.png"
             },
             {
                 "schema:value": 3,
-                "schema:name": "regular/full meals ",
-                "@type": "schema:option"
+                "schema:name": "regular/full meals",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F35B.png"
             },
             {
                 "schema:value": 4,
-                "schema:name": "large meals ",
-                "@type": "schema:option"
+                "schema:name": "large meals",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F967.png"
             },
             {
                 "schema:value": 5,
                 "schema:name": "none",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274C.png"
             }
         ]
     },

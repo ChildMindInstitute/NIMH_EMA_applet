@@ -17,37 +17,37 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "5 ",
+                "schema:name": "5 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "10 ",
+                "schema:name": "10 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "20 ",
+                "schema:name": "20 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
-                "schema:name": "30 ",
+                "schema:name": "30 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "40 ",
+                "schema:name": "40 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 6,
-                "schema:name": "50 ",
+                "schema:name": "50 minutes",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 7,
-                "schema:name": "60 or more",
+                "schema:name": "60 minutes or more",
                 "@type": "schema:option"
             }
         ]

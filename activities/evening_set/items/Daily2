@@ -15,48 +15,43 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "none ",
-                "@type": "schema:option"
+                "schema:name": "none",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F481.png"
             },
             {
                 "schema:value": 2,
-                "schema:name": "physical health ",
-                "@type": "schema:option"
+                "schema:name": "physical health",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2764.png"
             },
             {
                 "schema:value": 3,
-                "schema:name": "education or work ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 4,
-                "schema:name": "financial matters ",
+                "schema:name": "education or work",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "relationship with friends ",
-                "@type": "schema:option"
+                "schema:name": "relationship with friends",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F46F.png"
             },
             {
                 "schema:value": 6,
-                "schema:name": "relationships with family ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 7,
-                "schema:name": "relationships with spouse/partner ",
+                "schema:name": "relationships with family",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 8,
-                "schema:name": "interaction with strangers ",
-                "@type": "schema:option"
+                "schema:name": "interaction with strangers",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F465.png"
             },
             {
                 "schema:value": 9,
                 "schema:name": "other",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2753.png"
             }
         ]
     },

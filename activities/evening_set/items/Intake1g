@@ -17,27 +17,27 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "1 ",
+                "schema:name": "1 glass",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 2,
-                "schema:name": "2 ",
+                "schema:name": "2 glasses",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "3 ",
+                "schema:name": "3 glasses",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 4,
-                "schema:name": "4 ",
+                "schema:name": "4 glasses",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 5,
-                "schema:name": "5",
+                "schema:name": "5 or more glasses",
                 "@type": "schema:option"
             }
         ]

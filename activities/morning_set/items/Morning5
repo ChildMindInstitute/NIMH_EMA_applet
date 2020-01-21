@@ -17,23 +17,20 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "none ",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 2,
-                "schema:name": "once ",
+                "schema:name": "none",
                 "@type": "schema:option"
             },
             {
                 "schema:value": 3,
-                "schema:name": "twice ",
-                "@type": "schema:option"
+                "schema:name": "twice",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F61F.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "3 or more times",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F644.png"
             }
         ]
     }

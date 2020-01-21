@@ -15,28 +15,33 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "Twitter ",
-                "@type": "schema:option"
+                "schema:name": "Twitter",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/E040.png"
             },
             {
                 "schema:value": 2,
-                "schema:name": "Instagram ",
-                "@type": "schema:option"
+                "schema:name": "Instagram",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/E043.png"
             },
             {
                 "schema:value": 3,
-                "schema:name": "Facebook ",
-                "@type": "schema:option"
+                "schema:name": "Facebook",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/E042.png"
             },
             {
                 "schema:value": 4,
-                "schema:name": "Snapchat ",
-                "@type": "schema:option"
+                "schema:name": "Snapchat",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F47B.png"
             },
             {
                 "schema:value": 5,
                 "schema:name": "other",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2754.png"
             }
         ]
     },
