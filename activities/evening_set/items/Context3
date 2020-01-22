@@ -51,7 +51,7 @@
             },
             {
                 "schema:value": 7,
-                "schema:name": "in a hospital or doctor�s office",
+                "schema:name": "in a hospital or doctor's office",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F3E5.png"
             },
