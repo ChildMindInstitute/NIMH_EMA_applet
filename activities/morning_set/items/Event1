@@ -19,25 +19,25 @@
                 "schema:value": 1,
                 "schema:name": "work",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F4C2.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F558.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "education",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F468-200D-1F393.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F469-200D-1F393.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "family or friend relationships",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F468-200D-1F469-200D-1F467-200D-1F466.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F468-200D-1F469-200D-1F466.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "interactions with colleagues",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F469-200D-1F4BC.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F468-200D-1F4BC.png"
             },
             {
                 "schema:value": 5,

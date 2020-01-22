@@ -17,7 +17,7 @@
                 "schema:value": 1,
                 "schema:name": "allergies",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F927.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F33C.png"
             },
             {
                 "schema:value": 2,
@@ -29,7 +29,7 @@
                 "schema:value": 3,
                 "schema:name": "gastrointestinal/nausea/vomiting/bowel or stomach problems",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F974.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F6BD.png"
             },
             {
                 "schema:value": 4,
@@ -53,13 +53,19 @@
                 "schema:value": 7,
                 "schema:name": "diziness/feeling light-headed or faint",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F635.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F4AB.png"
             },
             {
                 "schema:value": 8,
                 "schema:name": "hit or hurt your head",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F915.png"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "none",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274C.png"
             }
         ]
     },

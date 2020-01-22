@@ -18,7 +18,14 @@
             {
                 "schema:value": 1,
                 "schema:name": "none",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F634.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "once",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F62A.png"
             },
             {
                 "schema:value": 3,

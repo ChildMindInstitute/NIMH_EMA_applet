@@ -17,7 +17,7 @@
                 "schema:value": 1,
                 "schema:name": "none",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F481.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274E.png"
             },
             {
                 "schema:value": 2,
@@ -28,7 +28,14 @@
             {
                 "schema:value": 3,
                 "schema:name": "education or work",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F468-200D-1F4BC.png"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "financial matters",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F4B5.png"
             },
             {
                 "schema:value": 5,
@@ -39,7 +46,14 @@
             {
                 "schema:value": 6,
                 "schema:name": "relationships with family",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F46A.png"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "relationships with spouse/partner",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F49C.png"
             },
             {
                 "schema:value": 8,

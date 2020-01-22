@@ -17,13 +17,13 @@
                 "schema:value": 1,
                 "schema:name": "difficulty falling asleep",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F612 .png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F636.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "awakening during the night",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F440.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F312.png"
             },
             {
                 "schema:value": 3,
@@ -35,7 +35,7 @@
                 "schema:value": 4,
                 "schema:name": "feeling unrefreshed or unrestored despite enough hours of sleep",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F971.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/E280.png"
             },
             {
                 "schema:value": 5,
@@ -47,7 +47,7 @@
                 "schema:value": 6,
                 "schema:name": "sleep walking",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F6B6 .png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F6B6.png"
             },
             {
                 "schema:value": 7,
@@ -59,7 +59,7 @@
                 "schema:value": 8,
                 "schema:name": "no sleep problem",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/263A.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274E.png"
             }
         ]
     },

@@ -27,9 +27,8 @@
             },
             {
                 "schema:value": 3,
-                "schema:name": "3",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/full meals.png"
+                "schema:name": "3 full meals",
+                "@type": "schema:option"
             },
             {
                 "schema:value": 4,

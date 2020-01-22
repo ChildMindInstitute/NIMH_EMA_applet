@@ -18,7 +18,14 @@
             {
                 "schema:value": 1,
                 "schema:name": "In my home",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F3E0.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "in home of relative or friend",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F3E0.png"
             },
             {
                 "schema:value": 3,
@@ -28,7 +35,7 @@
             },
             {
                 "schema:value": 4,
-                "schema:name": "in a restaurant/caf�/bar",
+                "schema:name": "in a restaurant/cafe/bar",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/E200.png"
             },
@@ -72,7 +79,7 @@
                 "schema:value": 11,
                 "schema:name": "other place inside",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F6AA .png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F6AA.png"
             },
             {
                 "schema:value": 12,

@@ -15,14 +15,15 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "vigorous activities (e.g. running/ fast cycling/heavy lifting or digging)",
+                "schema:name": "vigorous activities (e.g. running/fast cycling/heavy lifting or digging)",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F3CB.png"
             },
             {
                 "schema:value": 2,
-                "schema:name": "moderate activities (e.g. tennis/bicycling",
-                "@type": "schema:option"
+                "schema:name": "moderate activities (e.g. tennis/bicycling/carrying light loads)",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F3C3.png"
             },
             {
                 "schema:value": 3,

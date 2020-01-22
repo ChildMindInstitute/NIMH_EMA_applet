@@ -27,14 +27,15 @@
             },
             {
                 "schema:value": 3,
-                "schema:name": " a caffeinated beverage (like coffee/tea/soda etc.)",
+                "schema:name": "a caffeinated beverage (like coffee/tea/soda etc.)",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/26A1.png"
             },
             {
                 "schema:value": 4,
-                "schema:name": "an alcoholic beverage (wine/beer/liquor etc.) 1F377",
-                "@type": "schema:option"
+                "schema:name": "an alcoholic beverage (wine/beer/liquor etc.)",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F377.png"
             },
             {
                 "schema:value": 5,

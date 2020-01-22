@@ -67,7 +67,7 @@
                 "schema:value": 9,
                 "schema:name": "physical leisure or sports",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/26F9.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F93E.png"
             },
             {
                 "schema:value": 10,
@@ -127,13 +127,13 @@
                 "schema:value": 19,
                 "schema:name": "texting by phone",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/E24A.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/E096.png"
             },
             {
                 "schema:value": 20,
                 "schema:name": "other nonphysical leisure",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F60C.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F6CB.png"
             },
             {
                 "schema:value": 21,

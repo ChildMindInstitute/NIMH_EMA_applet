@@ -16,7 +16,14 @@
             {
                 "schema:value": 1,
                 "schema:name": "no one",
-                "@type": "schema:option"
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F9D1.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "family member",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F46A.png"
             },
             {
                 "schema:value": 3,
@@ -28,7 +35,7 @@
                 "schema:value": 4,
                 "schema:name": "friend",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F46C.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F46F.png"
             },
             {
                 "schema:value": 5,
@@ -46,7 +53,7 @@
                 "schema:value": 7,
                 "schema:name": "a pet",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F43E.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F436.png"
             },
             {
                 "schema:value": 8,
