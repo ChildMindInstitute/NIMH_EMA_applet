@@ -48,6 +48,7 @@ const schemaMap = {
     "Required Field?": "requiredValue",
     "minVal": "schema:minValue",
     "maxVal": "schema:maxValue",
+    "required": "requiredValue",
     "Choices, Calculations, OR Slider Labels": "choices",
     "Branching Logic (Show field only if...)": "visibility",
     "multipleChoice": "multipleChoice",
@@ -275,6 +276,22 @@ function processRow(form, data){
                     rowData['responseOptions'] = rspObj;
                 }
             }
+
+            //parse required
+            //else if (schemaMap[current_key] === 'requiredValue' && data[current_key] !== '') {
+
+                // split string wrt '|' to get each choice
+                //let requiredVal = (data[current_key]);
+              
+                // insert 'multiplechoices' key inside responseOptions of the item
+                //if (rowData.hasOwnProperty('responseOptions')) {
+                //    rowData.responseOptions[schemaMap[current_key]] = requiredVal;
+                //}
+                //else {
+                //    rspObj[schemaMap[current_key]] = requiredVal;
+                //   rowData['responseOptions'] = rspObj;
+                //}
+            //}
 /*
             //parse @type
             else if (schemaMap[current_key] === '@type') {

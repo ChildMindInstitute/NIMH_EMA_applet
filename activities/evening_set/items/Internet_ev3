@@ -27,7 +27,7 @@
             },
             {
                 "schema:value": 3,
-                "schema:name": "coffee shop or caf�",
+                "schema:name": "coffee shop or cafe",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/E200.png"
             },
