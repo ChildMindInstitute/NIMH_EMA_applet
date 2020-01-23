@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "day_set": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/activities/day_set/items/",
+        "day_set": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/test1/activities/day_set/items/",
         "Context1": {
             "@id": "day_set:Context1",
             "@type": "@id"
