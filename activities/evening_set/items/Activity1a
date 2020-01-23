@@ -8,7 +8,10 @@
         "en": "Activity:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "About how long was your nap or rest?"

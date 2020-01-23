@@ -8,7 +8,10 @@
         "en": "Food and Drink:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "How many joints did you have?"

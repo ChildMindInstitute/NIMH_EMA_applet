@@ -8,7 +8,10 @@
         "en": "Internet & Social Media:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "How many hours did you spend on the internet today?"

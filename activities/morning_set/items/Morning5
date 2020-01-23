@@ -8,7 +8,10 @@
         "en": "Sleep:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "How many times did you wake up in the night, not counting your final awakening?"

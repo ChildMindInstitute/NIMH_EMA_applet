@@ -8,7 +8,10 @@
         "en": "Food and Drink:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "How many snacks (e.g. candy bar/cookie/small bag of chips) did you have?"

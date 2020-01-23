@@ -8,7 +8,10 @@
         "en": "Headache:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "How much does (or did) certain odors such as perfume, food, smoke, bother you?"

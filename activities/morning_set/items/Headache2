@@ -8,7 +8,10 @@
         "en": "Headache:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "Have you experienced a headache since the last questionnaire?"

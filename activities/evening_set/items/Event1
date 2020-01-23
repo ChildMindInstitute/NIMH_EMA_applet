@@ -8,7 +8,10 @@
         "en": "Events:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "Which of the following categories best describes the area of your life in which the event occurred?"

@@ -8,7 +8,10 @@
         "en": "Headache:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "When did this numbing or tingling occur with respect to onset of the headache pain?"

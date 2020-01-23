@@ -8,7 +8,10 @@
         "en": "Headache:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "When did this difficulty occur with respect to the onset of the headache?"

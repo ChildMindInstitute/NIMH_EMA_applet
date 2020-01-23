@@ -53,7 +53,7 @@
                 "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F621.png"
             }
         ],
-        "schema:minValue": "not at all irritable/angry ",
+        "schema:minValue": "not at all irritable/angry",
         "schema:maxValue": "very irritable/angry"
     }
 }

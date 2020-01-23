@@ -8,7 +8,10 @@
         "en": "Activity:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "Was this moderate activity (or activities) part of a planned workout or exercise routine?"

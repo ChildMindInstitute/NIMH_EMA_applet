@@ -8,7 +8,10 @@
         "en": "Internet & Social Media:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "What is the main way you communicated with your friends today?"

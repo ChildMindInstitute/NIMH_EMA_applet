@@ -594,7 +594,7 @@
             "Morning9": true,
             "Morning10": true,
             "Morning11": true,
-            "Morning11a": "Morning11.includes(1) || Morning11.includes(2) || Morning11.includes(3) || Morning11.includes(4) || Morning11.includes(5) || Morning11.includes(6) || Morning11.includes(7) ",
+            "Morning11a": "Morning11.includes(1) || Morning11.includes(2) || Morning11.includes(3) || Morning11.includes(4) || Morning11.includes(5) || Morning11.includes(6) || Morning11.includes(7)",
             "Morning12": true,
             "Internet_mn1": true,
             "Internet_mn2": true,

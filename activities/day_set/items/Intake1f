@@ -8,7 +8,10 @@
         "en": "Food and Drink:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "How many servings of alcohol did you consume?"
@@ -37,7 +40,7 @@
             },
             {
                 "schema:value": 5,
-                "schema:name": "5 or more drinks ",
+                "schema:name": "5 or more drinks",
                 "@type": "schema:option"
             }
         ]

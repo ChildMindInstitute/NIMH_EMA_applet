@@ -8,7 +8,10 @@
         "en": "Sleep:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "About how many hours did you actually sleep?"
@@ -182,7 +185,7 @@
             },
             {
                 "schema:value": 34,
-                "schema:name": "more than 16 hours ",
+                "schema:name": "more than 16 hours",
                 "@type": "schema:option"
             }
         ]

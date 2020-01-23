@@ -8,7 +8,10 @@
         "en": "Physical Pain:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "Have you experienced any pain since the last questionnaire?"

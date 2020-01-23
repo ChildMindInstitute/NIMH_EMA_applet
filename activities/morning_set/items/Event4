@@ -8,7 +8,10 @@
         "en": "Events:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "Did more than one event occur that significantly influenced you?"

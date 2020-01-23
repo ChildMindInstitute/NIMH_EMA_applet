@@ -8,7 +8,10 @@
         "en": "Pre-questionnaire:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
     },
     "question": {
         "en": "Do you have a social media account?"

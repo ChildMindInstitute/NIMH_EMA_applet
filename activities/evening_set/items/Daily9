@@ -8,7 +8,11 @@
         "en": "Daily Health:"
     },
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance",
+            "dontKnow"
+        ]
     },
     "question": {
         "en": "FEMALES (ages 12-50) Are you currently having your menstrual period?"
