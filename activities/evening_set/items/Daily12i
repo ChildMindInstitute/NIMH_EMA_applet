@@ -19,11 +19,6 @@
     "responseOptions": {
         "choices": [
             {
-                "schema:value": 0,
-                "schema:name": "no headache",
-                "@type": "schema:option"
-            },
-            {
                 "schema:value": 1,
                 "schema:name": "1 hour",
                 "@type": "schema:option"
@@ -70,9 +65,13 @@
             },
             {
                 "schema:value": 10,
-                "schema:name": "10 hours| 11",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/11 hours.png"
+                "schema:name": "10 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 11,
+                "schema:name": "11 hours",
+                "@type": "schema:option"
             },
             {
                 "schema:value": 12,
