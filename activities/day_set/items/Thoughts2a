@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Thoughts2a",
-    "preamble": {
-        "en": "Thoughts:"
-    },
     "ui": {
         "inputType": "radio"
     },

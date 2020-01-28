@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Thoughts2",
-    "preamble": {
-        "en": "Thoughts:"
-    },
     "ui": {
         "inputType": "slider"
     },

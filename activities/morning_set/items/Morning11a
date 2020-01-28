@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Morning11a",
-    "preamble": {
-        "en": "Sleep:"
-    },
     "ui": {
         "inputType": "radio"
     },

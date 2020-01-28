@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Daily7",
-    "preamble": {
-        "en": "Daily Health:"
-    },
     "ui": {
         "inputType": "radio",
         "allow": [
@@ -14,7 +11,7 @@
         ]
     },
     "question": {
-        "en": "Did you take any prescription medications today?"
+        "en": "Did you feel like you had no physical energy, as if you were weighted down or had a heavy feeling in your arms or legs for most of the day?"
     },
     "responseOptions": {
         "choices": [
@@ -22,13 +19,13 @@
                 "schema:value": 0,
                 "schema:name": "No",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274C.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274E.png"
             },
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F469-200D-2695-FE0F.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F647.png"
             }
         ]
     }

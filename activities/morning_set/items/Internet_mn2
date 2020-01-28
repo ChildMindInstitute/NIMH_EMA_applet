@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Internet_mn2",
-    "preamble": {
-        "en": "Internet & Social Media:"
-    },
     "ui": {
         "inputType": "radio",
         "allow": [

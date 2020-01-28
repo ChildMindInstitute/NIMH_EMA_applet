@@ -1,0 +1,66 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "Daily1a",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "physical health",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2764.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "education or work",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F468-200D-1F4BC.png"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "financial matters",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F4B5.png"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "relationship with friends",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F46F.png"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "relationships with family",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F46A.png"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "relationships with spouse/partner",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F49C.png"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "interaction with strangers",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F465.png"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "other",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2753.png"
+            }
+        ]
+    },
+    "question": {
+        "en": "What areas were stressful for you today?"
+    }
+}

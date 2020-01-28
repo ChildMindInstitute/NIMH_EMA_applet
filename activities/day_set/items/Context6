@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Context6",
-    "preamble": {
-        "en": "Context:"
-    },
     "ui": {
         "inputType": "radio",
         "allow": [

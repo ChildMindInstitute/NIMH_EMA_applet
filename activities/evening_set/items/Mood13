@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Mood13",
-    "preamble": {
-        "en": "Mood:"
-    },
     "ui": {
         "inputType": "slider"
     },

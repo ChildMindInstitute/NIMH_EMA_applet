@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Activity2f",
-    "preamble": {
-        "en": "Activity:"
-    },
     "ui": {
         "inputType": "radio",
         "allow": [

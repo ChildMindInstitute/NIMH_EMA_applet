@@ -4,7 +4,7 @@
 const protocolName = "EMA_HBN_NIMH2"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.1"
+const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.2"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -26,8 +26,10 @@ let activityDisplayObj = {
     "day_set": 'Mid-day Question Set',
     "evening_set": 'Evening Question Set'
 };
-
 */
+//5. Path to your README.md file, that will show up in the 'About' tab of the applet
+let protocolAboutPath = `${yourRepoURL}/protocols/${protocolName}/README.md`
+
 
 /* ************ Constants **************************************************** */
 const csv = require('fast-csv');
@@ -506,6 +508,7 @@ function createProtocolSchema(protocolName, protocolContextUrl) {
         "skos:prefLabel": protocolDisplayName,
         "skos:altLabel": `${protocolName}_schema`,
         "schema:description": protocolDescription,
+        "schema:about": protocolAboutPath,
         "schema:schemaVersion": "0.0.1",
         "schema:version": "0.0.1",
         // todo: preamble: Field Type = descriptive represents preamble in the CSV file., it also has branching logic. so should preamble be an item in our schema?

@@ -4,78 +4,29 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Daily8",
-    "preamble": {
-        "en": "Daily Health:"
-    },
     "ui": {
-        "inputType": "radio"
-    },
-    "responseOptions": {
-        "multipleChoice": true,
-        "choices": [
-            {
-                "schema:value": 1,
-                "schema:name": "birth control",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F48A.png"
-            },
-            {
-                "schema:value": 2,
-                "schema:name": "heart/blood pressure/cholesterol",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2764.png"
-            },
-            {
-                "schema:value": 3,
-                "schema:name": "thyroid/metabolic",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F503.png"
-            },
-            {
-                "schema:value": 4,
-                "schema:name": "sleep",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F4A4.png"
-            },
-            {
-                "schema:value": 5,
-                "schema:name": "anxiety/depression",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F614.png"
-            },
-            {
-                "schema:value": 6,
-                "schema:name": "attention/hyperactivity",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F939.png"
-            },
-            {
-                "schema:value": 7,
-                "schema:name": "asthma/allergies/breathing problems",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F32C.png"
-            },
-            {
-                "schema:value": 8,
-                "schema:name": "arthritis/joint/back pain",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F9BF.png"
-            },
-            {
-                "schema:value": 9,
-                "schema:name": "headache",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F926.png"
-            },
-            {
-                "schema:value": 10,
-                "schema:name": "other",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2754.png"
-            }
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
         ]
     },
     "question": {
-        "en": "For which of the following conditions?"
+        "en": "Do you have a cold, cough, or flu today?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274C.png"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F637.png"
+            }
+        ]
     }
 }

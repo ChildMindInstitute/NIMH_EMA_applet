@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "prequestion2",
-    "preamble": {
-        "en": "Pre-questionnaire:"
-    },
     "ui": {
         "inputType": "radio",
         "allow": [

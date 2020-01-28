@@ -409,6 +409,10 @@
             "isAbout": "Daily1"
         },
         {
+            "variableName": "Daily1a",
+            "isAbout": "Daily1a"
+        },
+        {
             "variableName": "Daily2",
             "isAbout": "Daily2"
         },
@@ -421,8 +425,16 @@
             "isAbout": "Daily4"
         },
         {
+            "variableName": "Daily4a",
+            "isAbout": "Daily4a"
+        },
+        {
             "variableName": "Daily5",
             "isAbout": "Daily5"
+        },
+        {
+            "variableName": "Daily5a",
+            "isAbout": "Daily5a"
         },
         {
             "variableName": "Daily6",
@@ -441,56 +453,52 @@
             "isAbout": "Daily9"
         },
         {
-            "variableName": "Daily10",
-            "isAbout": "Daily10"
+            "variableName": "Daily9a",
+            "isAbout": "Daily9a"
         },
         {
-            "variableName": "Daily11",
-            "isAbout": "Daily11"
+            "variableName": "Daily9b",
+            "isAbout": "Daily9b"
         },
         {
-            "variableName": "Daily12",
-            "isAbout": "Daily12"
+            "variableName": "Daily9c",
+            "isAbout": "Daily9c"
         },
         {
-            "variableName": "Daily12a",
-            "isAbout": "Daily12a"
+            "variableName": "Daily9d",
+            "isAbout": "Daily9d"
         },
         {
-            "variableName": "Daily12b",
-            "isAbout": "Daily12b"
+            "variableName": "Daily9e",
+            "isAbout": "Daily9e"
         },
         {
-            "variableName": "Daily12c",
-            "isAbout": "Daily12c"
+            "variableName": "Daily9f",
+            "isAbout": "Daily9f"
         },
         {
-            "variableName": "Daily12d",
-            "isAbout": "Daily12d"
+            "variableName": "Daily9g",
+            "isAbout": "Daily9g"
         },
         {
-            "variableName": "Daily12e",
-            "isAbout": "Daily12e"
+            "variableName": "Daily9h",
+            "isAbout": "Daily9h"
         },
         {
-            "variableName": "Daily12f",
-            "isAbout": "Daily12f"
-        },
-        {
-            "variableName": "Daily12g",
-            "isAbout": "Daily12g"
-        },
-        {
-            "variableName": "Daily12h",
-            "isAbout": "Daily12h"
-        },
-        {
-            "variableName": "Daily12i",
-            "isAbout": "Daily12i"
+            "variableName": "Daily9i",
+            "isAbout": "Daily9i"
         },
         {
             "variableName": "Internet_ev1",
             "isAbout": "Internet_ev1"
+        },
+        {
+            "variableName": "Internet_ev1a",
+            "isAbout": "Internet_ev1a"
+        },
+        {
+            "variableName": "Internet_ev1b",
+            "isAbout": "Internet_ev1b"
         },
         {
             "variableName": "Internet_ev2",
@@ -499,14 +507,6 @@
         {
             "variableName": "Internet_ev3",
             "isAbout": "Internet_ev3"
-        },
-        {
-            "variableName": "Internet_ev4",
-            "isAbout": "Internet_ev4"
-        },
-        {
-            "variableName": "Internet_ev5",
-            "isAbout": "Internet_ev5"
         }
     ],
     "ui": {
@@ -610,31 +610,31 @@
             "Headache2q",
             "Headache2r",
             "Daily1",
+            "Daily1a",
             "Daily2",
             "Daily3",
             "Daily4",
+            "Daily4a",
             "Daily5",
+            "Daily5a",
             "Daily6",
             "Daily7",
             "Daily8",
             "Daily9",
-            "Daily10",
-            "Daily11",
-            "Daily12",
-            "Daily12a",
-            "Daily12b",
-            "Daily12c",
-            "Daily12d",
-            "Daily12e",
-            "Daily12f",
-            "Daily12g",
-            "Daily12h",
-            "Daily12i",
+            "Daily9a",
+            "Daily9b",
+            "Daily9c",
+            "Daily9d",
+            "Daily9e",
+            "Daily9f",
+            "Daily9g",
+            "Daily9h",
+            "Daily9i",
             "Internet_ev1",
+            "Internet_ev1a",
+            "Internet_ev1b",
             "Internet_ev2",
-            "Internet_ev3",
-            "Internet_ev4",
-            "Internet_ev5"
+            "Internet_ev3"
         ],
         "shuffle": false,
         "visibility": {
@@ -737,31 +737,31 @@
             "Headache2q": "Headache2 == 2",
             "Headache2r": "Headache2 == 2",
             "Daily1": true,
-            "Daily2": "Daily1 > 1",
+            "Daily1a": "Daily1 > 1",
+            "Daily2": true,
             "Daily3": true,
             "Daily4": true,
+            "Daily4a": "Daily4 == 1",
             "Daily5": true,
-            "Daily6": "Daily5 == 1",
+            "Daily5a": "Daily5 == 1",
+            "Daily6": true,
             "Daily7": true,
-            "Daily8": "Daily7 == 1",
+            "Daily8": true,
             "Daily9": true,
-            "Daily10": true,
-            "Daily11": true,
-            "Daily12": true,
-            "Daily12a": "Daily12.includes(1)",
-            "Daily12b": "Daily12.includes(2)",
-            "Daily12c": "Daily12.includes(3)",
-            "Daily12d": "Daily12.includes(3)",
-            "Daily12e": "Daily12.includes(4)",
-            "Daily12f": "Daily12.includes(5)",
-            "Daily12g": "Daily12.includes(7)",
-            "Daily12h": "Daily12.includes(7)",
-            "Daily12i": "Daily12.includes(6)",
+            "Daily9a": "Daily9.includes(1)",
+            "Daily9b": "Daily9.includes(2)",
+            "Daily9c": "Daily9.includes(3)",
+            "Daily9d": "Daily9.includes(3)",
+            "Daily9e": "Daily9.includes(4)",
+            "Daily9f": "Daily9.includes(5)",
+            "Daily9g": "Daily9.includes(7)",
+            "Daily9h": "Daily9.includes(7)",
+            "Daily9i": "Daily9.includes(6)",
             "Internet_ev1": true,
-            "Internet_ev2": "Internet_ev1 !== 1",
-            "Internet_ev3": "Internet_ev1 !== 1",
-            "Internet_ev4": true,
-            "Internet_ev5": true
+            "Internet_ev1a": "Internet_ev1 !== 1",
+            "Internet_ev1b": "Internet_ev1 !== 1",
+            "Internet_ev2": true,
+            "Internet_ev3": true
         }
     }
 }

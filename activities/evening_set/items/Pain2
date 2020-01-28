@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Pain2",
-    "preamble": {
-        "en": "Physical Pain:"
-    },
     "ui": {
         "inputType": "radio",
         "allow": [

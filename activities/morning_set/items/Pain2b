@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Pain2b",
-    "preamble": {
-        "en": "Physical Pain:"
-    },
     "ui": {
         "inputType": "slider"
     },

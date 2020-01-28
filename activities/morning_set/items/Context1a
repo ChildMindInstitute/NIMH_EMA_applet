@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Context1a",
-    "preamble": {
-        "en": "Context:"
-    },
     "ui": {
         "inputType": "timeRange"
     },

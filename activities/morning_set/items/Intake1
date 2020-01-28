@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Intake1",
-    "preamble": {
-        "en": "Food and Drink:"
-    },
     "ui": {
         "inputType": "radio"
     },

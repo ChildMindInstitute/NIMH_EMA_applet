@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Event2",
-    "preamble": {
-        "en": "Events:"
-    },
     "ui": {
         "inputType": "slider"
     },

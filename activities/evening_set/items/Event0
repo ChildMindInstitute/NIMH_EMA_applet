@@ -4,9 +4,6 @@
     ],
     "@type": "reproschema:Field",
     "skos:altLabel": "Event0",
-    "preamble": {
-        "en": "Events:"
-    },
     "ui": {
         "inputType": "markdown-message"
     },
