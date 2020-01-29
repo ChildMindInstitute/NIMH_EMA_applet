@@ -313,96 +313,92 @@
             "isAbout": "Headache2"
         },
         {
-            "variableName": "Headache2a",
-            "isAbout": "Headache2a"
+            "variableName": "Headache1aa",
+            "isAbout": "Headache1aa"
         },
         {
-            "variableName": "Headache2b",
-            "isAbout": "Headache2b"
+            "variableName": "Headache1b",
+            "isAbout": "Headache1b"
         },
         {
-            "variableName": "Headache2c",
-            "isAbout": "Headache2c"
+            "variableName": "Headache1ba",
+            "isAbout": "Headache1ba"
         },
         {
-            "variableName": "Headache2ca",
-            "isAbout": "Headache2ca"
+            "variableName": "Headache1c",
+            "isAbout": "Headache1c"
         },
         {
-            "variableName": "Headache2d",
-            "isAbout": "Headache2d"
+            "variableName": "Headache1d",
+            "isAbout": "Headache1d"
         },
         {
-            "variableName": "Headache2e",
-            "isAbout": "Headache2e"
+            "variableName": "Headache1e",
+            "isAbout": "Headache1e"
         },
         {
-            "variableName": "Headache2f",
-            "isAbout": "Headache2f"
+            "variableName": "Headache1ea",
+            "isAbout": "Headache1ea"
         },
         {
-            "variableName": "Headache2fa",
-            "isAbout": "Headache2fa"
+            "variableName": "Headache1f",
+            "isAbout": "Headache1f"
         },
         {
-            "variableName": "Headache2g",
-            "isAbout": "Headache2g"
+            "variableName": "Headache1g",
+            "isAbout": "Headache1g"
         },
         {
-            "variableName": "Headache2h",
-            "isAbout": "Headache2h"
+            "variableName": "Headache1h",
+            "isAbout": "Headache1h"
         },
         {
-            "variableName": "Headache2i",
-            "isAbout": "Headache2i"
+            "variableName": "Headache1i",
+            "isAbout": "Headache1i"
         },
         {
-            "variableName": "Headache2j",
-            "isAbout": "Headache2j"
+            "variableName": "Headache1j",
+            "isAbout": "Headache1j"
         },
         {
-            "variableName": "Headache2k",
-            "isAbout": "Headache2k"
+            "variableName": "Headache1k",
+            "isAbout": "Headache1k"
         },
         {
-            "variableName": "Headache2l",
-            "isAbout": "Headache2l"
+            "variableName": "Headache1l",
+            "isAbout": "Headache1l"
         },
         {
-            "variableName": "Headache2m",
-            "isAbout": "Headache2m"
+            "variableName": "Headache1m",
+            "isAbout": "Headache1m"
         },
         {
-            "variableName": "Headache2n",
-            "isAbout": "Headache2n"
+            "variableName": "Headache1ma",
+            "isAbout": "Headache1ma"
         },
         {
-            "variableName": "Headache2na",
-            "isAbout": "Headache2na"
+            "variableName": "Headache1n",
+            "isAbout": "Headache1n"
         },
         {
-            "variableName": "Headache2o",
-            "isAbout": "Headache2o"
+            "variableName": "Headache1na",
+            "isAbout": "Headache1na"
         },
         {
-            "variableName": "Headache2oa",
-            "isAbout": "Headache2oa"
+            "variableName": "Headache1o",
+            "isAbout": "Headache1o"
         },
         {
-            "variableName": "Headache2p",
-            "isAbout": "Headache2p"
+            "variableName": "Headache1oa",
+            "isAbout": "Headache1oa"
         },
         {
-            "variableName": "Headache2pa",
-            "isAbout": "Headache2pa"
+            "variableName": "Headache1p",
+            "isAbout": "Headache1p"
         },
         {
-            "variableName": "Headache2q",
-            "isAbout": "Headache2q"
-        },
-        {
-            "variableName": "Headache2r",
-            "isAbout": "Headache2r"
+            "variableName": "Headache1q",
+            "isAbout": "Headache1q"
         },
         {
             "variableName": "FinalScreen",
@@ -486,29 +482,28 @@
             "Headache1",
             "Headache1a",
             "Headache2",
-            "Headache2a",
-            "Headache2b",
-            "Headache2c",
-            "Headache2ca",
-            "Headache2d",
-            "Headache2e",
-            "Headache2f",
-            "Headache2fa",
-            "Headache2g",
-            "Headache2h",
-            "Headache2i",
-            "Headache2j",
-            "Headache2k",
-            "Headache2l",
-            "Headache2m",
-            "Headache2n",
-            "Headache2na",
-            "Headache2o",
-            "Headache2oa",
-            "Headache2p",
-            "Headache2pa",
-            "Headache2q",
-            "Headache2r",
+            "Headache1aa",
+            "Headache1b",
+            "Headache1ba",
+            "Headache1c",
+            "Headache1d",
+            "Headache1e",
+            "Headache1ea",
+            "Headache1f",
+            "Headache1g",
+            "Headache1h",
+            "Headache1i",
+            "Headache1j",
+            "Headache1k",
+            "Headache1l",
+            "Headache1m",
+            "Headache1ma",
+            "Headache1n",
+            "Headache1na",
+            "Headache1o",
+            "Headache1oa",
+            "Headache1p",
+            "Headache1q",
             "FinalScreen"
         ],
         "shuffle": false,
@@ -588,29 +583,28 @@
             "Headache1": true,
             "Headache1a": "Headache1 == 1",
             "Headache2": true,
-            "Headache2a": "Headache2 == 1",
-            "Headache2b": "Headache2 == 2",
-            "Headache2c": "Headache2 == 2",
-            "Headache2ca": "Headache2c == 1",
-            "Headache2d": "Headache2 == 2",
-            "Headache2e": "Headache2 == 2",
-            "Headache2f": "Headache2 == 2",
-            "Headache2fa": "Headache2 == 2",
-            "Headache2g": "Headache2 == 2",
-            "Headache2h": "Headache2 == 2",
-            "Headache2i": "Headache2 == 2",
-            "Headache2j": "Headache2 == 2",
-            "Headache2k": "Headache2 == 2",
-            "Headache2l": "Headache2 == 2",
-            "Headache2m": "Headache2 == 2",
-            "Headache2n": "Headache2 == 2",
-            "Headache2na": "Headache2n.includes(2) || Headache2n.includes(3) || Headache2n.includes(4)",
-            "Headache2o": "Headache2 == 2",
-            "Headache2oa": "Headache2o == 1",
-            "Headache2p": "Headache2 == 2",
-            "Headache2pa": "Headache2p == 1",
-            "Headache2q": "Headache2 == 2",
-            "Headache2r": "Headache2 == 2",
+            "Headache1aa": "Headache1a == 1",
+            "Headache1b": "Headache1 == 2",
+            "Headache1ba": "Headache1b == 1",
+            "Headache1c": "Headache1 == 2",
+            "Headache1d": "Headache1 == 2",
+            "Headache1e": "Headache1 == 2",
+            "Headache1ea": "Headache1 == 2",
+            "Headache1f": "Headache1 == 2",
+            "Headache1g": "Headache1 == 2",
+            "Headache1h": "Headache1 == 2",
+            "Headache1i": "Headache1 == 2",
+            "Headache1j": "Headache1 == 2",
+            "Headache1k": "Headache1 == 2",
+            "Headache1l": "Headache1 == 2",
+            "Headache1m": "Headache1 == 2",
+            "Headache1ma": "Headache1m.includes(2) || Headache1m.includes(3) || Headache1m.includes(4)",
+            "Headache1n": "Headache1 == 2",
+            "Headache1na": "Headache1n == 1",
+            "Headache1o": "Headache1 == 2",
+            "Headache1oa": "Headache1o == 1",
+            "Headache1p": "Headache1 == 2",
+            "Headache1q": "Headache1 == 2",
             "FinalScreen": true
         }
     }

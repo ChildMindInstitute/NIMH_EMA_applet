@@ -11,7 +11,7 @@
         ]
     },
     "question": {
-        "en": "Are you currently experiencing a headache?"
+        "en": "Have you experienced a headache since the last questionnaire?"
     },
     "responseOptions": {
         "choices": [
