@@ -8,7 +8,7 @@
         "inputType": "slider"
     },
     "question": {
-        "en": "How severe was the pain you experienced since the last questionnaire"
+        "en": "How severe was the pain you experienced since the last questionnaire?"
     },
     "responseOptions": {
         "choices": [

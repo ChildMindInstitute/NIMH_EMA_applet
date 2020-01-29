@@ -497,6 +497,10 @@
         "Internet_ev3": {
             "@id": "evening_set:Internet_ev3",
             "@type": "@id"
+        },
+        "FinalScreen": {
+            "@id": "evening_set:FinalScreen",
+            "@type": "@id"
         }
     }
 }

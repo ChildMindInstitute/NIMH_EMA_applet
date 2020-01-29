@@ -507,6 +507,10 @@
         {
             "variableName": "Internet_ev3",
             "isAbout": "Internet_ev3"
+        },
+        {
+            "variableName": "FinalScreen",
+            "isAbout": "FinalScreen"
         }
     ],
     "ui": {
@@ -634,7 +638,8 @@
             "Internet_ev1a",
             "Internet_ev1b",
             "Internet_ev2",
-            "Internet_ev3"
+            "Internet_ev3",
+            "FinalScreen"
         ],
         "shuffle": false,
         "visibility": {
@@ -761,7 +766,8 @@
             "Internet_ev1a": "Internet_ev1 !== 1",
             "Internet_ev1b": "Internet_ev1 !== 1",
             "Internet_ev2": true,
-            "Internet_ev3": true
+            "Internet_ev3": true,
+            "FinalScreen": true
         }
     }
 }

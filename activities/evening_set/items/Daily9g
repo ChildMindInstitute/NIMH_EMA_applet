@@ -11,7 +11,7 @@
         ]
     },
     "question": {
-        "en": "Did these feelings occur in a particular situation (in a bus, in hot weather, or other condition?)"
+        "en": "Did these feelings occur in a particular situation (in a bus, in hot weather, or other condition)?"
     },
     "responseOptions": {
         "choices": [

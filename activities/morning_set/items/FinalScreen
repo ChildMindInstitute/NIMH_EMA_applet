@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "FinalScreen",
+    "ui": {
+        "inputType": "markdown-message"
+    },
+    "question": {
+        "en": "Great job. Thank you completing the assessment! Tapping the Done button will exit the questionnaire."
+    }
+}

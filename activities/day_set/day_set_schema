@@ -403,6 +403,10 @@
         {
             "variableName": "Headache2r",
             "isAbout": "Headache2r"
+        },
+        {
+            "variableName": "FinalScreen",
+            "isAbout": "FinalScreen"
         }
     ],
     "ui": {
@@ -504,7 +508,8 @@
             "Headache2p",
             "Headache2pa",
             "Headache2q",
-            "Headache2r"
+            "Headache2r",
+            "FinalScreen"
         ],
         "shuffle": false,
         "visibility": {
@@ -605,7 +610,8 @@
             "Headache2p": "Headache2 == 2",
             "Headache2pa": "Headache2p == 1",
             "Headache2q": "Headache2 == 2",
-            "Headache2r": "Headache2 == 2"
+            "Headache2r": "Headache2 == 2",
+            "FinalScreen": true
         }
     }
 }
