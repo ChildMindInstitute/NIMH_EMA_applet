@@ -11,7 +11,7 @@
         ]
     },
     "question": {
-        "en": "If you reported a headache present at any assessment today, how many hours did the headache(s) last in total?"
+        "en": "If you reported a headache present at any questionnaire today, how many hours did the headache(s) last in total?"
     },
     "responseOptions": {
         "choices": [

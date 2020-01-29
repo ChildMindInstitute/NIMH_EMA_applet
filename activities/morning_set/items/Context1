@@ -11,21 +11,21 @@
         ]
     },
     "question": {
-        "en": "Have you taken your activity monitor off since your last assessment?"
+        "en": "Have you taken your activity monitor off since your last questionnaire?"
     },
     "responseOptions": {
         "choices": [
-            {
-                "schema:value": 0,
-                "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274C.png"
-            },
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/E1CE.png"
+            },
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274C.png"
             }
         ]
     }
