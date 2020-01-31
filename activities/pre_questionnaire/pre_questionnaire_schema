@@ -17,25 +17,19 @@
             "isAbout": "prequestion1"
         },
         {
-            "variableName": "prequestion2",
-            "isAbout": "prequestion2"
-        },
-        {
-            "variableName": "prequestion2a",
-            "isAbout": "prequestion2a"
+            "variableName": "prequestion1a",
+            "isAbout": "prequestion1a"
         }
     ],
     "ui": {
         "order": [
             "prequestion1",
-            "prequestion2",
-            "prequestion2a"
+            "prequestion1a"
         ],
         "shuffle": false,
         "visibility": {
             "prequestion1": true,
-            "prequestion2": true,
-            "prequestion2a": "prequestion2 == 1"
+            "prequestion1a": "prequestion1 == 1"
         }
     }
 }

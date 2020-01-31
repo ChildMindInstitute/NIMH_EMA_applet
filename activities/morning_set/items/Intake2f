@@ -11,7 +11,7 @@
         ]
     },
     "question": {
-        "en": "For how long did you eat?"
+        "en": "For how long did you eat in total?"
     },
     "responseOptions": {
         "choices": [

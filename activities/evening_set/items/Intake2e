@@ -9,49 +9,5 @@
     },
     "question": {
         "en": "About what time did you eat?"
-    },
-    "responseOptions": {
-        "choices": [
-            {
-                "schema:value": 1,
-                "schema:name": "5 minutes or less",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 2,
-                "schema:name": "10 minutes",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 3,
-                "schema:name": "15 minutes",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 4,
-                "schema:name": "30 minutes",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 5,
-                "schema:name": "45 minutes",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 6,
-                "schema:name": "1 hour",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 7,
-                "schema:name": "1 hour 30 minutes",
-                "@type": "schema:option"
-            },
-            {
-                "schema:value": 8,
-                "schema:name": "2 hours or more",
-                "@type": "schema:option"
-            }
-        ]
     }
 }

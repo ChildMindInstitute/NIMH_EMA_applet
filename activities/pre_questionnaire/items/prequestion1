@@ -11,21 +11,21 @@
         ]
     },
     "question": {
-        "en": "What is your gender?"
+        "en": "Do you have a social media account?"
     },
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "male",
+                "schema:name": "Yes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F64B-200D-2642-FE0F.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F64B.png"
             },
             {
-                "schema:value": 2,
-                "schema:name": "female",
+                "schema:value": 0,
+                "schema:name": "No",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F64B-200D-2640-FE0F.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F645.png"
             }
         ]
     }

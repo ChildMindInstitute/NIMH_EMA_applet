@@ -6,12 +6,8 @@
             "@id": "pre_questionnaire:prequestion1",
             "@type": "@id"
         },
-        "prequestion2": {
-            "@id": "pre_questionnaire:prequestion2",
-            "@type": "@id"
-        },
-        "prequestion2a": {
-            "@id": "pre_questionnaire:prequestion2a",
+        "prequestion1a": {
+            "@id": "pre_questionnaire:prequestion1a",
             "@type": "@id"
         }
     }
