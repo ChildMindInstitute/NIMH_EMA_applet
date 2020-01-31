@@ -19,13 +19,13 @@
                 "schema:value": 1,
                 "schema:name": "Yes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2714.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2705.png"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/2755.png"
+                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274C.png"
             }
         ]
     }
