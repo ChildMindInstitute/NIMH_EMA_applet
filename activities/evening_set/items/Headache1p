@@ -14,19 +14,19 @@
                 "schema:value": 1,
                 "schema:name": "no medications",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/274C.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "over-the-counter medications",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F48A.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F48A.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "prescription medications",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/1F468-200D-2695-FE0F.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F468-200D-2695-FE0F.png"
             }
         ]
     },

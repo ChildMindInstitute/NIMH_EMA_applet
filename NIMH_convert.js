@@ -4,7 +4,7 @@
 const protocolName = "EMA_HBN_NIMH2"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.7"
+const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.8"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -17,7 +17,7 @@ let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${b
 let protocolDescription = "Daily questions about physical and mental health, NIMH content"
 
 //4. where are you hosting your images?
-let imagePath = 'https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/72x72/'
+let imagePath = 'https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/'
 
 /* hard coded activity display object
 let activityDisplayObj = {
