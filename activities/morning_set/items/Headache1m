@@ -20,7 +20,7 @@
                 "schema:value": 2,
                 "schema:name": "blurred or distorted vision",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/E281.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F300.png"
             },
             {
                 "schema:value": 3,

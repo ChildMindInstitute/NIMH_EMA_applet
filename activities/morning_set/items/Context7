@@ -26,7 +26,7 @@
                 "schema:value": 3,
                 "schema:name": "eating",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F60B.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F32E.png"
             },
             {
                 "schema:value": 4,
@@ -62,7 +62,7 @@
                 "schema:value": 9,
                 "schema:name": "physical leisure or sports",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F93E.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F3C0.png"
             },
             {
                 "schema:value": 10,
@@ -80,7 +80,7 @@
                 "schema:value": 12,
                 "schema:name": "traveling or commuting",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F689.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F697.png"
             },
             {
                 "schema:value": 13,

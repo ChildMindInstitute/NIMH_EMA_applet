@@ -16,7 +16,7 @@
                 "schema:value": 1,
                 "schema:name": "1",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/E097.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/lowBattery.png"
             },
             {
                 "schema:value": 2,

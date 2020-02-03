@@ -14,7 +14,7 @@
                 "schema:value": 1,
                 "schema:name": "allergies",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F33C.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F927.png"
             },
             {
                 "schema:value": 2,

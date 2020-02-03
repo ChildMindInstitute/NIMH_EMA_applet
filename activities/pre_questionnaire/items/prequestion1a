@@ -32,7 +32,7 @@
                 "schema:value": 4,
                 "schema:name": "Snapchat",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F47B.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/snapIcon.png"
             },
             {
                 "schema:value": 5,

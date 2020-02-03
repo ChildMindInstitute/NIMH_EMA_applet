@@ -49,7 +49,7 @@
                 "schema:value": 6,
                 "schema:name": "social media",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/E043.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/allSocialMedia.png"
             },
             {
                 "schema:value": 7,

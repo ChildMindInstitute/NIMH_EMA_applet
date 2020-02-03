@@ -61,7 +61,7 @@
                 "schema:value": 8,
                 "schema:name": "exercise",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F93E-200D-2640-FE0F.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F3C3.png"
             },
             {
                 "schema:value": 9,
@@ -91,7 +91,7 @@
                 "schema:value": 13,
                 "schema:name": "traveling or commuting",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F688.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F697.png"
             },
             {
                 "schema:value": 14,
