@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "About how long was your nap or rest?"
-    },
+    "question": "About how long was your nap or rest?",
     "responseOptions": {
         "choices": [
             {

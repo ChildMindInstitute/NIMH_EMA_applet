@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Does (or did) the headache make it difficult to speak, think or express yourself?"
-    },
+    "question": "Does (or did) the headache make it difficult to speak, think or express yourself?",
     "responseOptions": {
         "choices": [
             {
@@ -25,7 +23,7 @@
                 "schema:value": 0,
                 "schema:name": "No",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C .png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
             }
         ]
     }

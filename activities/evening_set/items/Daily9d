@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "How much did this (or these) gastro-intestinal/stomach symptom(s) bother you today?"
-    },
+    "question": "How much did this (or these) gastro-intestinal/stomach symptom(s) bother you today?",
     "responseOptions": {
         "choices": [
             {

@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "When did this difficulty occur with respect to the onset of the headache?"
-    },
+    "question": "When did this difficulty occur with respect to the onset of the headache?",
     "responseOptions": {
         "choices": [
             {

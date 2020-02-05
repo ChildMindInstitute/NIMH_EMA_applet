@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Did more than one event occur that significantly influenced you?"
-    },
+    "question": "Did more than one event occur that significantly influenced you?",
     "responseOptions": {
         "choices": [
             {

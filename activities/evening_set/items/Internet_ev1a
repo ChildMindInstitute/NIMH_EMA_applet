@@ -72,7 +72,5 @@
             }
         ]
     },
-    "question": {
-        "en": "What did you use the internet for today?"
-    }
+    "question": "What did you use the internet for today?"
 }

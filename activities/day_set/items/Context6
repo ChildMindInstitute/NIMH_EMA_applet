@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "What are you doing at this moment?"
-    },
+    "question": "What are you doing at this moment?",
     "responseOptions": {
         "choices": [
             {

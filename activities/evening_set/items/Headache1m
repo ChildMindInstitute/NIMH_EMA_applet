@@ -36,7 +36,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Which (if any) of the following vision changes did you experience?"
-    }
+    "question": "Which (if any) of the following vision changes did you experience?"
 }

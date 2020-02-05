@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "How many servings of alcohol did you consume?"
-    },
+    "question": "How many servings of alcohol did you consume?",
     "responseOptions": {
         "choices": [
             {

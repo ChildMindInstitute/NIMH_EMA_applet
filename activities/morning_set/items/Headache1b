@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Is this headache still present?"
-    },
+    "question": "Is this headache still present?",
     "responseOptions": {
         "choices": [
             {

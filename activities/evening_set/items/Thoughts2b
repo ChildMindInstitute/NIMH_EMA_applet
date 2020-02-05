@@ -7,9 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": {
-        "en": "How severe or disturbing would you say these thoughts were?"
-    },
+    "question": "How severe or disturbing would you say these thoughts were?",
     "responseOptions": {
         "choices": [
             {

@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Was today a relatively typical day for you in terms of routines/stress?"
-    },
+    "question": "Was today a relatively typical day for you in terms of routines/stress?",
     "responseOptions": {
         "choices": [
             {

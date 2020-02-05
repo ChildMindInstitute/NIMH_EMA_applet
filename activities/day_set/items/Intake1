@@ -54,7 +54,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Since the last questionnaire, did you drink:"
-    }
+    "question": "Since the last questionnaire, did you drink:"
 }

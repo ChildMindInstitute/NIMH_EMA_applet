@@ -7,9 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": {
-        "en": "How irritable or easily angered do you feel right now?"
-    },
+    "question": "How irritable or easily angered do you feel right now?",
     "responseOptions": {
         "choices": [
             {

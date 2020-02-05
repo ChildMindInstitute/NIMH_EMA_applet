@@ -60,7 +60,5 @@
             }
         ]
     },
-    "question": {
-        "en": "What areas were stressful for you today?"
-    }
+    "question": "What areas were stressful for you today?"
 }

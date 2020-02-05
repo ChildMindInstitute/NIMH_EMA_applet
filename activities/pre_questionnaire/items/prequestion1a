@@ -42,7 +42,5 @@
             }
         ]
     },
-    "question": {
-        "en": "What social media accounts do you use?"
-    }
+    "question": "What social media accounts do you use?"
 }

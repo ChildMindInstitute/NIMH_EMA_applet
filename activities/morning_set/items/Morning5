@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "How many times did you wake up in the night, not counting your final awakening?"
-    },
+    "question": "How many times did you wake up in the night, not counting your final awakening?",
     "responseOptions": {
         "choices": [
             {

@@ -42,7 +42,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Since you woke up, which of the following did you have?"
-    }
+    "question": "Since you woke up, which of the following did you have?"
 }

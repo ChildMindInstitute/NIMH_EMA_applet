@@ -7,9 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": {
-        "en": "How was your physical health today?"
-    },
+    "question": "How was your physical health today?",
     "responseOptions": {
         "choices": [
             {

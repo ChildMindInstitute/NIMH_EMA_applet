@@ -42,7 +42,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Where did you use the internet?"
-    }
+    "question": "Where did you use the internet?"
 }

@@ -36,7 +36,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Were these thoughts about:"
-    }
+    "question": "Were these thoughts about:"
 }

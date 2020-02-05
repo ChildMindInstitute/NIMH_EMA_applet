@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "When did this numbing or tingling occur with respect to onset of the headache pain?"
-    },
+    "question": "When did this numbing or tingling occur with respect to onset of the headache pain?",
     "responseOptions": {
         "choices": [
             {

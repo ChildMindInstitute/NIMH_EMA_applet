@@ -42,7 +42,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Which (if any) of the following gastro-intestinal/stomach symptoms did you have today?"
-    }
+    "question": "Which (if any) of the following gastro-intestinal/stomach symptoms did you have today?"
 }

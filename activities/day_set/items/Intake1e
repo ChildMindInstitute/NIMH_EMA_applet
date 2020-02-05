@@ -54,7 +54,5 @@
             }
         ]
     },
-    "question": {
-        "en": "What type of alcoholic beverage did you consume?"
-    }
+    "question": "What type of alcoholic beverage did you consume?"
 }

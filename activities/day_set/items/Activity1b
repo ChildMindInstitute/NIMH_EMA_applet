@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Did you actually fall asleep during the nap or rest?"
-    },
+    "question": "Did you actually fall asleep during the nap or rest?",
     "responseOptions": {
         "choices": [
             {

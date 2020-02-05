@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Did your use of social media impact your ability to fall asleep last night?"
-    },
+    "question": "Did your use of social media impact your ability to fall asleep last night?",
     "responseOptions": {
         "choices": [
             {

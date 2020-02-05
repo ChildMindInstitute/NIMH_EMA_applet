@@ -42,7 +42,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Where are you having pain?"
-    }
+    "question": "Where are you having pain?"
 }

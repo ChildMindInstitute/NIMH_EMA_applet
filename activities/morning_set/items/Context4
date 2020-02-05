@@ -60,7 +60,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Who is with you at this moment?"
-    }
+    "question": "Who is with you at this moment?"
 }

@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Did the headache come on suddenly?"
-    },
+    "question": "Did the headache come on suddenly?",
     "responseOptions": {
         "choices": [
             {

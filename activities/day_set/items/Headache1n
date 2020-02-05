@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Is (or was) your headache accompanied by any numbing or tingling in certain body areas?"
-    },
+    "question": "Is (or was) your headache accompanied by any numbing or tingling in certain body areas?",
     "responseOptions": {
         "choices": [
             {

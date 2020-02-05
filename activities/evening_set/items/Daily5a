@@ -72,7 +72,5 @@
             }
         ]
     },
-    "question": {
-        "en": "For which of the following conditions?"
-    }
+    "question": "For which of the following conditions?"
 }

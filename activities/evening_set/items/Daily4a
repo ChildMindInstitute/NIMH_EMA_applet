@@ -48,7 +48,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Did you take them for:"
-    }
+    "question": "Did you take them for:"
 }

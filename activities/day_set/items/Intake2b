@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "How many small meals did you have?"
-    },
+    "question": "How many small meals did you have?",
     "responseOptions": {
         "choices": [
             {

@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "If you reported a headache present at any questionnaire today, how many hours did the headache(s) last in total?"
-    },
+    "question": "If you reported a headache present at any questionnaire today, how many hours did the headache(s) last in total?",
     "responseOptions": {
         "choices": [
             {

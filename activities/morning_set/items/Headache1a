@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Is this the same headache that you reported in the last questionnaire?"
-    },
+    "question": "Is this the same headache that you reported in the last questionnaire?",
     "responseOptions": {
         "choices": [
             {

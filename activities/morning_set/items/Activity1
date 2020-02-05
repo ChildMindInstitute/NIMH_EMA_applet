@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Since the last questionnaire, did you have a nap or rest?"
-    },
+    "question": "Since the last questionnaire, did you have a nap or rest?",
     "responseOptions": {
         "choices": [
             {

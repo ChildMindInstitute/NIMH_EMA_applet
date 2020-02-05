@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "How much does (or did) noise such as music, talking, TV, bother you?"
-    },
+    "question": "How much does (or did) noise such as music, talking, TV, bother you?",
     "responseOptions": {
         "choices": [
             {

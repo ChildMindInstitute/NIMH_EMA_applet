@@ -138,7 +138,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Which of these activities have you done since you woke up?"
-    }
+    "question": "Which of these activities have you done since you woke up?"
 }

@@ -42,7 +42,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Where did this pain occur?"
-    }
+    "question": "Where did this pain occur?"
 }

@@ -30,7 +30,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Which (if any) did you take to treat your headache?"
-    }
+    "question": "Which (if any) did you take to treat your headache?"
 }

@@ -7,9 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": {
-        "en": "How would you rate the quality of your sleep?"
-    },
+    "question": "How would you rate the quality of your sleep?",
     "responseOptions": {
         "choices": [
             {

@@ -138,7 +138,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Which of these activities have you done since the last questionnaire?"
-    }
+    "question": "Which of these activities have you done since the last questionnaire?"
 }

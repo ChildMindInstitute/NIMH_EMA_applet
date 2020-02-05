@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "How many snacks (e.g. candy bar/cookie/small bag of chips) did you have?"
-    },
+    "question": "How many snacks (e.g. candy bar/cookie/small bag of chips) did you have?",
     "responseOptions": {
         "choices": [
             {

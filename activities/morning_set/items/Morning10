@@ -7,9 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": {
-        "en": "How refreshed did you feel when you woke up?"
-    },
+    "question": "How refreshed did you feel when you woke up?",
     "responseOptions": {
         "choices": [
             {

@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Have you taken your activity monitor off since your last questionnaire?"
-    },
+    "question": "Have you taken your activity monitor off since your last questionnaire?",
     "responseOptions": {
         "choices": [
             {

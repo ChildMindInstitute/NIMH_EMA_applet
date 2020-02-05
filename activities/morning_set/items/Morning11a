@@ -42,7 +42,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Were the sleep problems due to:"
-    }
+    "question": "Were the sleep problems due to:"
 }

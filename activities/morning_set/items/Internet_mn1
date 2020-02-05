@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Were you using your social media accounts after bedtime?"
-    },
+    "question": "Were you using your social media accounts after bedtime?",
     "responseOptions": {
         "choices": [
             {

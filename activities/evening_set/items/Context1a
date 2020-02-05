@@ -7,7 +7,5 @@
     "ui": {
         "inputType": "timeRange"
     },
-    "question": {
-        "en": "When did you take it off and put it back on?"
-    }
+    "question": "When did you take it off and put it back on?"
 }

@@ -90,7 +90,5 @@
             }
         ]
     },
-    "question": {
-        "en": "What do you think triggered the headache?"
-    }
+    "question": "What do you think triggered the headache?"
 }

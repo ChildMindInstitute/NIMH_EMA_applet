@@ -7,9 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": {
-        "en": "To what degree did this other event have a negative impact on you?"
-    },
+    "question": "To what degree did this other event have a negative impact on you?",
     "responseOptions": {
         "choices": [
             {

@@ -54,7 +54,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Since you woke up, did you drink:"
-    }
+    "question": "Since you woke up, did you drink:"
 }

@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "How much does (or did) certain odors such as perfume, food, smoke, bother you?"
-    },
+    "question": "How much does (or did) certain odors such as perfume, food, smoke, bother you?",
     "responseOptions": {
         "choices": [
             {

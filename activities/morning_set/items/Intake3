@@ -36,7 +36,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Since you woke up, which of the following did you use?"
-    }
+    "question": "Since you woke up, which of the following did you use?"
 }

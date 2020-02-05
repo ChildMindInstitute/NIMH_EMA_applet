@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "When did those vision changes occur with respect to the onset of the headache pain?"
-    },
+    "question": "When did those vision changes occur with respect to the onset of the headache pain?",
     "responseOptions": {
         "choices": [
             {

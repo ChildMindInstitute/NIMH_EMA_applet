@@ -7,9 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": {
-        "en": "How quick is your thinking?"
-    },
+    "question": "How quick is your thinking?",
     "responseOptions": {
         "choices": [
             {

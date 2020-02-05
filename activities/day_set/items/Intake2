@@ -42,7 +42,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Since the last questionnaire, which of the following did you have?"
-    }
+    "question": "Since the last questionnaire, which of the following did you have?"
 }

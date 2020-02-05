@@ -7,7 +7,5 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": {
-        "en": "Great job. Thank you completing the questionnaire! Tapping the Done button will exit the questionnaire."
-    }
+    "question": "Great job. Thank you completing the questionnaire! Tapping the Done button will exit the questionnaire."
 }

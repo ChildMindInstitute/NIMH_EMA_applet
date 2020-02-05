@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "How many hours did you spend on the internet today?"
-    },
+    "question": "How many hours did you spend on the internet today?",
     "responseOptions": {
         "choices": [
             {

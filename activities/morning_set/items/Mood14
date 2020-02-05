@@ -7,9 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": {
-        "en": "How fidgety or restless do you feel right now compared to your usual self?"
-    },
+    "question": "How fidgety or restless do you feel right now compared to your usual self?",
     "responseOptions": {
         "choices": [
             {

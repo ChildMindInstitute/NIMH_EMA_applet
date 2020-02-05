@@ -7,7 +7,5 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": {
-        "en": "Since the last questionnaire, please think of the ONE event that affected you the most (positively or negatively), no matter how slightly."
-    }
+    "question": "Since the last questionnaire, please think of the ONE event that affected you the most (positively or negatively), no matter how slightly."
 }

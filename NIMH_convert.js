@@ -4,7 +4,7 @@
 const protocolName = "EMA_HBN_NIMH2"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.9"
+const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.10"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -54,7 +54,8 @@ const schemaMap = {
     "Choices, Calculations, OR Slider Labels": "choices",
     "Branching Logic (Show field only if...)": "visibility",
     "multipleChoice": "multipleChoice",
-    "responseType": "@type"
+    "responseType": "@type",
+    "headerImage": "headerImage"
 
 };
 
@@ -416,12 +417,22 @@ function processRow(form, data){
             }
 
             // decode html fields
-            else if ((schemaMap[current_key] === 'question' || schemaMap[current_key] ==='schema:description'
+
+            //Parse headerImage
+            else if (schemaMap[current_key] === 'headerImage' && data[current_key] !== '') {
+                let questions = '\r\n\r\n![' + data[current_key] + '](' + imagePath + data[current_key] + '.png)\r\n\r\n';
+                //console.log(231, form, schemaMap[current_key], questions);
+                rowData[current_key] = questions;
+                }
+    
+            //Parse preamble and description
+            else if ((schemaMap[current_key] ==='schema:description'
                 || schemaMap[current_key] === 'preamble') && data[current_key] !== '') {
                 let questions = parseHtml(data[current_key]);
                 console.log(231, form, schemaMap[current_key], questions);
                 rowData[schemaMap[current_key]] = questions;
             }
+
             // non-nested schema elements
             else if (data[current_key] !== '')
                 rowData[schemaMap[current_key]] = data[current_key];
@@ -438,6 +449,15 @@ function processRow(form, data){
         // text with value in validation as ddate_mdy is of inputType - date
         // dropdown and autocomplete??
     });
+
+    //merge the header image and question text
+    if (rowData['headerImage'] !== undefined) {
+
+    rowData['question'] = rowData['headerImage'] + rowData['question']
+    delete rowData['headerImage']
+
+    };
+
     const field_name = data['Variable / Field Name'];
 
     // add field to variableMap

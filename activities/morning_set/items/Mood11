@@ -7,9 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": {
-        "en": "How well can you make decisions right now?"
-    },
+    "question": "How well can you make decisions right now?",
     "responseOptions": {
         "choices": [
             {

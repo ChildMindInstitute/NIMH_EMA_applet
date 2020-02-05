@@ -7,9 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": {
-        "en": "How happy versus sad do you feel right now?"
-    },
+    "question": "How happy versus sad do you feel right now?",
     "responseOptions": {
         "choices": [
             {

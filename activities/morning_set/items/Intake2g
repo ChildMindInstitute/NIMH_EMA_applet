@@ -84,7 +84,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Please think about all the foods you ate since you woke up. Please select all types of food you ate:"
-    }
+    "question": "Please think about all the foods you ate since you woke up. Please select all types of food you ate:"
 }

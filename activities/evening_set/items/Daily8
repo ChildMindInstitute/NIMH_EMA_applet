@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Do you have a cold, cough, or flu today?"
-    },
+    "question": "Do you have a cold, cough, or flu today?",
     "responseOptions": {
         "choices": [
             {

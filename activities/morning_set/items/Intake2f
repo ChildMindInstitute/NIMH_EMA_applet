@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "For how long did you eat in total?"
-    },
+    "question": "For how long did you eat in total?",
     "responseOptions": {
         "choices": [
             {

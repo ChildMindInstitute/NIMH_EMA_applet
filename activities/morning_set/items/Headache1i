@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Do (or did) you feel nauseated, vomit or have diarrhea?"
-    },
+    "question": "Do (or did) you feel nauseated, vomit or have diarrhea?",
     "responseOptions": {
         "choices": [
             {

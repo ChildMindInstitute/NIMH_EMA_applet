@@ -7,7 +7,5 @@
     "ui": {
         "inputType": "time"
     },
-    "question": {
-        "en": "What time did you close your eyes to try to go to sleep?"
-    }
+    "question": "What time did you close your eyes to try to go to sleep?"
 }

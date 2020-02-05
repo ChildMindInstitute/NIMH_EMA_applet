@@ -54,7 +54,5 @@
             }
         ]
     },
-    "question": {
-        "en": "Since the last questionnaire, did you do any of the following to prevent a headache?"
-    }
+    "question": "Since the last questionnaire, did you do any of the following to prevent a headache?"
 }

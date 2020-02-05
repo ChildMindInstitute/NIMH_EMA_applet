@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "Do you have a social media account?"
-    },
+    "question": "Do you have a social media account?",
     "responseOptions": {
         "choices": [
             {

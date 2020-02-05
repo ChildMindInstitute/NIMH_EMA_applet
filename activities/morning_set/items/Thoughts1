@@ -7,9 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": {
-        "en": "To what extent are you having positive thoughts, thinking about nice experiences or things that make you feel good?"
-    },
+    "question": "To what extent are you having positive thoughts, thinking about nice experiences or things that make you feel good?",
     "responseOptions": {
         "choices": [
             {

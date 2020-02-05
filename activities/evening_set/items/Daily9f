@@ -10,9 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": {
-        "en": "How much did your heart racing or pounding bother you today?"
-    },
+    "question": "How much did your heart racing or pounding bother you today?",
     "responseOptions": {
         "choices": [
             {
