@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "time"
     },
-    "question": "What time did you get out of bed for the day?"
+    "question": "\r\n\r\n![new/header/outBed](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/outBed.png)\r\n\r\nWhat time did you get out of bed for the day?"
 }

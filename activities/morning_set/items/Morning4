@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "How long did it take you to fall asleep?",
+    "question": "\r\n\r\n![new/header/timer](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/timer.png)\r\n\r\nHow long did it take you to fall asleep?",
     "responseOptions": {
         "choices": [
             {
