@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "Since the last questionnaire, how many minutes did you do vigorous activities including intensive sports or exercise (such as running or fast cycling) or intensive physical work (such as heavy lifting or digging)?",
+    "question": "\r\n\r\n![new/header/activityVigorous](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/activityVigorous.png)\r\n\r\nSince the last questionnaire, how many minutes did you do vigorous activities including intensive sports or exercise (such as running or fast cycling) or intensive physical work (such as heavy lifting or digging)?",
     "responseOptions": {
         "choices": [
             {

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "Was this vigorous activity (or activities) part of a planned workout or exercise routine?",
+    "question": "\r\n\r\n![new/header/activityVigorous](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/activityVigorous.png)\r\n\r\nWas this vigorous activity (or activities) part of a planned workout or exercise routine?",
     "responseOptions": {
         "choices": [
             {

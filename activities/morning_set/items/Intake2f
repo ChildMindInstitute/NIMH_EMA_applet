@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "For how long did you eat in total?",
+    "question": "\r\n\r\n![new/header/timer](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/timer.png)\r\n\r\nFor how long did you eat in total?",
     "responseOptions": {
         "choices": [
             {

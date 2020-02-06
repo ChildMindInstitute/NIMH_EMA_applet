@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How intense is (or was) the headache?",
+    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png)\r\n\r\nHow intense is (or was) the headache?",
     "responseOptions": {
         "choices": [
             {

@@ -26,13 +26,13 @@
                 "schema:value": 3,
                 "schema:name": "back or neck",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F3C3.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/spinePain.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "stomach/bowel",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F9CE.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/stomach.png"
             },
             {
                 "schema:value": 5,

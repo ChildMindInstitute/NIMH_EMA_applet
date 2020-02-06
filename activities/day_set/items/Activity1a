@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "About how long was your nap or rest?",
+    "question": "\r\n\r\n![new/header/timer](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/timer.png)\r\n\r\nAbout how long was your nap or rest?",
     "responseOptions": {
         "choices": [
             {

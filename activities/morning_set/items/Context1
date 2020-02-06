@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "Have you taken your activity monitor off since your last questionnaire?",
+    "question": "\r\n\r\n![new/header/wgt3x](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/wgt3x.png)\r\n\r\nHave you taken your activity monitor off since your last questionnaire?",
     "responseOptions": {
         "choices": [
             {

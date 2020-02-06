@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "How much does (or did) light bother you?",
+    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png)\r\n\r\nHow much does (or did) light bother you?",
     "responseOptions": {
         "choices": [
             {

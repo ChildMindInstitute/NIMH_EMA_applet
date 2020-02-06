@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "When did this numbing or tingling occur with respect to onset of the headache pain?",
+    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png)\r\n\r\nWhen did this numbing or tingling occur with respect to onset of the headache pain?",
     "responseOptions": {
         "choices": [
             {

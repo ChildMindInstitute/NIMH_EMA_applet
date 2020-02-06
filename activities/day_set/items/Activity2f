@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "Was this light activity (or activities) part of a planned workout or exercise routine?",
+    "question": "\r\n\r\n![new/header/activityLight](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/activityLight.png)\r\n\r\nWas this light activity (or activities) part of a planned workout or exercise routine?",
     "responseOptions": {
         "choices": [
             {

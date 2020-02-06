@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "Is (or was) the pain throbbing, beating or pulsating?",
+    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png)\r\n\r\nIs (or was) the pain throbbing, beating or pulsating?",
     "responseOptions": {
         "choices": [
             {

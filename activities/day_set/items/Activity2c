@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "Since the last questionnaire, how many minutes did you do moderate activities (activities that make you breathe somewhat harder than usual such as playing tennis, bicycling, carrying light loads)?",
+    "question": "\r\n\r\n![new/header/activityModerate](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/activityModerate.png)\r\n\r\nSince the last questionnaire, how many minutes did you do moderate activities (activities that make you breathe somewhat harder than usual such as playing tennis, bicycling, carrying light loads)?",
     "responseOptions": {
         "choices": [
             {

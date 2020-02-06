@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "When did this difficulty occur with respect to the onset of the headache?",
+    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png)\r\n\r\nWhen did this difficulty occur with respect to the onset of the headache?",
     "responseOptions": {
         "choices": [
             {
