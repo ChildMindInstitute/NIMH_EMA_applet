@@ -425,12 +425,15 @@ function processRow(form, data){
                 rowData[current_key] = questions;
                 }
     
-            //Parse preamble and description
-            else if ((schemaMap[current_key] ==='schema:description'
-                || schemaMap[current_key] === 'preamble') && data[current_key] !== '') {
-                let questions = parseHtml(data[current_key]);
-                console.log(231, form, schemaMap[current_key], questions);
-                rowData[schemaMap[current_key]] = questions;
+             //Parse question, preamble, and description
+             else if ((schemaMap[current_key] ==='question' || schemaMap[current_key] ==='schema:description'
+             || schemaMap[current_key] === 'preamble') && data[current_key] !== '') {
+             let questions = data[current_key];
+             // Keep return carriage
+             questions = questions.replace(/\\r/g, '\r');
+             questions = questions.replace(/\\n/g, '\n');
+             console.log(231, form, schemaMap[current_key], questions);
+             rowData[schemaMap[current_key]] = questions;
             }
 
             // non-nested schema elements
