@@ -4,7 +4,7 @@
 const protocolName = "EMA_HBN_NIMH2"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.12"
+const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.13"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -55,7 +55,8 @@ const schemaMap = {
     "Branching Logic (Show field only if...)": "visibility",
     "multipleChoice": "multipleChoice",
     "responseType": "@type",
-    "headerImage": "headerImage"
+    "headerImage": "headerImage",
+    "headerImageSize":"headerImageSize"
 
 };
 
@@ -420,11 +421,28 @@ function processRow(form, data){
 
             //Parse headerImage
             else if (schemaMap[current_key] === 'headerImage' && data[current_key] !== '') {
-                let questions = '\r\n\r\n![' + data[current_key] + '](' + imagePath + data[current_key] + '.png)\r\n\r\n';
+
+                let questions = '\r\n\r\n![' + data[current_key] + '](' + imagePath + data[current_key] + '.png';
                 //console.log(231, form, schemaMap[current_key], questions);
                 rowData[current_key] = questions;
                 }
-    
+
+            //Parse headerImageSize
+            else if (schemaMap[current_key] === 'headerImageSize' && data[current_key] !== '') {
+            
+            if (data[current_key] == '') {
+                let questions = ')\r\n\r\n';
+                //console.log(231, form, schemaMap[current_key], questions);
+                rowData[current_key] = questions;
+            }
+
+            else {
+                let questions = ' =' + data[current_key] + ')\r\n\r\n';
+                //console.log(231, form, schemaMap[current_key], questions);
+                rowData[current_key] = questions;
+                }
+            }
+
              //Parse question, preamble, and description
              else if ((schemaMap[current_key] ==='question' || schemaMap[current_key] ==='schema:description'
              || schemaMap[current_key] === 'preamble') && data[current_key] !== '') {
@@ -456,8 +474,9 @@ function processRow(form, data){
     //merge the header image and question text
     if (rowData['headerImage'] !== undefined) {
 
-    rowData['question'] = rowData['headerImage'] + rowData['question']
+    rowData['question'] = rowData['headerImage'] + rowData['headerImageSize'] + rowData['question']
     delete rowData['headerImage']
+    delete rowData['headerImageSize']
 
     };
 

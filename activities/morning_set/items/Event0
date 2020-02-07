@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "\r\n\r\n![new/header/thoughtBalloon](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/thoughtBalloon.png)\r\n\r\nSince you woke up, please think of the ONE event that affected you the most (positively or negatively), no matter how slightly."
+    "question": "\r\n\r\n![new/header/thoughtBalloon](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/thoughtBalloon.png =120x120)\r\n\r\nSince you woke up, please think of the ONE event that affected you the most (positively or negatively), no matter how slightly."
 }

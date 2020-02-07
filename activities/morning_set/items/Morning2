@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "time"
     },
-    "question": "\r\n\r\n![new/header/lamp](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/lamp.png)\r\n\r\nWhat time did you turn off the lights (including TV, phone, tablets)?"
+    "question": "\r\n\r\n![new/header/lamp](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/lamp.png =120x120)\r\n\r\nWhat time did you turn off the lights (including TV, phone, tablets)?"
 }

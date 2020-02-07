@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/allSocialMedia](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/allSocialMedia.png)\r\n\r\nDo you have a social media account?",
+    "question": "\r\n\r\n![new/header/allSocialMedia](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/allSocialMedia.png =120x120)\r\n\r\nDo you have a social media account?",
     "responseOptions": {
         "choices": [
             {

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/shamrock](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/shamrock.png)\r\n\r\nHow many joints (of cannabis/pot) did you have?",
+    "question": "\r\n\r\n![new/header/shamrock](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/shamrock.png =120x120)\r\n\r\nHow many joints (of cannabis/pot) did you have?",
     "responseOptions": {
         "choices": [
             {
