@@ -14,7 +14,7 @@
                 "schema:value": 1,
                 "schema:name": "birth control",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F48A.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2640.png"
             },
             {
                 "schema:value": 2,
@@ -50,7 +50,7 @@
                 "schema:value": 7,
                 "schema:name": "asthma/allergies/breathing problems",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F32C.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F637.png"
             },
             {
                 "schema:value": 8,

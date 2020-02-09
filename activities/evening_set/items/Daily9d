@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "How much did this (or these) gastro-intestinal/stomach symptom(s) bother you today?",
+    "question": "\r\n\r\n![new/header/toilet](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/toilet.png =120x120)\r\n\r\nHow much did this (or these) gastro-intestinal/stomach symptom(s) bother you today?",
     "responseOptions": {
         "choices": [
             {

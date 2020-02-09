@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "What are you doing at this moment?",
+    "question": "What are you doing at **this moment**?",
     "responseOptions": {
         "choices": [
             {
@@ -29,7 +29,7 @@
                 "schema:value": 3,
                 "schema:name": "eating",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F32E.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/allFood.png"
             },
             {
                 "schema:value": 4,

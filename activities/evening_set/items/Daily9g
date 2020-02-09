@@ -10,14 +10,14 @@
             "autoAdvance"
         ]
     },
-    "question": "Did these feelings occur in a particular situation (in a bus, in hot weather, or other condition)?",
+    "question": "\r\n\r\n![new/header/dizzy](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/dizzy.png =120x120)\r\n\r\nDid these feelings occur in a particular situation (in a bus, in hot weather, or other condition)?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F64B.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F975.png"
             },
             {
                 "schema:value": 0,

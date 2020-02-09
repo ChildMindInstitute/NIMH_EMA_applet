@@ -23,19 +23,19 @@
                 "schema:value": 2,
                 "schema:name": "once",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F62A.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F644.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "twice",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F61F.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/awakeFace2.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "3 or more times",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F644.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/awakeFace3.png"
             }
         ]
     }

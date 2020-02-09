@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "time"
     },
-    "question": "\r\n\r\n![new/header/clock](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/clock.png =120x120)\r\n\r\nAbout what time did you eat your most recent snack/meal?"
+    "question": "\r\n\r\n![new/header/forkKnifeTime](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/forkKnifeTime.png =120x120)\r\n\r\nAbout what time did you eat your most recent snack/meal?"
 }

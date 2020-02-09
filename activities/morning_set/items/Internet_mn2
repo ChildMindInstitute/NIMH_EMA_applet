@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/nightPhone](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/nightPhone.png =120x120)\r\n\r\nDid your use of social media impact your ability to fall asleep last night?",
+    "question": "\r\n\r\n![new/header/allSocialMedia](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/allSocialMedia.png =120x120)\r\n\r\nDid your use of social media impact your ability to fall asleep last night?",
     "responseOptions": {
         "choices": [
             {

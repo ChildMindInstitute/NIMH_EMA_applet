@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "How much did your heart racing or pounding bother you today?",
+    "question": "\r\n\r\n![new/header/heartPound](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/heartPound.png =120x120)\r\n\r\nHow much did your heart racing or pounding bother you today?",
     "responseOptions": {
         "choices": [
             {
@@ -29,7 +29,7 @@
                 "schema:value": 3,
                 "schema:name": "moderately",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F630.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F627.png"
             },
             {
                 "schema:value": 4,

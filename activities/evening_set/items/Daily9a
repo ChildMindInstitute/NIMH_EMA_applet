@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "How much did your allergies bother you today?",
+    "question": "\r\n\r\n![new/header/sneeze](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/sneeze.png =120x120)\r\n\r\nHow much did your allergies bother you today?",
     "responseOptions": {
         "choices": [
             {
@@ -29,13 +29,13 @@
                 "schema:value": 3,
                 "schema:name": "moderately",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F927.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F627.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "severely",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F629.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F62B.png"
             }
         ]
     }

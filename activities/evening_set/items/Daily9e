@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "How much did your muscle/joint pain bother you today?",
+    "question": "\r\n\r\n![new/header/pain](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/pain.png =120x120)\r\n\r\nHow much did your muscle/joint pain bother you today?",
     "responseOptions": {
         "choices": [
             {

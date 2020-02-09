@@ -20,7 +20,7 @@
                 "schema:value": 2,
                 "schema:name": "asthma or respiratory difficulties",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F32C.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F637.png"
             },
             {
                 "schema:value": 3,

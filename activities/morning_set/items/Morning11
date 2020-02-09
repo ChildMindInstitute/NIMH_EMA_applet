@@ -26,7 +26,7 @@
                 "schema:value": 3,
                 "schema:name": "awakening too early",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F644.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F304.png"
             },
             {
                 "schema:value": 4,
@@ -44,7 +44,7 @@
                 "schema:value": 6,
                 "schema:name": "sleep walking",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F6B6.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/sleepWalk.png"
             },
             {
                 "schema:value": 7,

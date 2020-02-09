@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "How much did your asthma or respiratory difficulties bother you today?",
+    "question": "\r\n\r\n![new/header/sick](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/sick.png =120x120)\r\n\r\nHow much did your asthma or respiratory difficulties bother you today?",
     "responseOptions": {
         "choices": [
             {
@@ -29,13 +29,13 @@
                 "schema:value": 3,
                 "schema:name": "moderately",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F92D.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F627.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "severely",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F637.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F62B.png"
             }
         ]
     }
