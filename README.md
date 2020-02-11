@@ -15,7 +15,7 @@ Most icons in this applet directly pulled or derived from [Openmoji 12.1](https:
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
-![spinePain](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/spinePain.svg)
+![spinePain](imageAttribution/spinePain.svg =72x72)
 ![Tiktok](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/tiktok.svg)
 ![closedEye](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/closedEye.svg)
 ![eyelash](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/eyelash.svg)
