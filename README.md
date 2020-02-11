@@ -15,51 +15,48 @@ Most icons in this applet directly pulled or derived from [Openmoji 12.1](https:
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
-![spinePain](imageAttribution/spinePain.svg =72x72)
-![Tiktok](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/tiktok.svg)
-![closedEye](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/closedEye.svg)
-![eyelash](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/eyelash.svg)
-![prescriptionMeds](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/prescriptionMeds.svg)
-![lung](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/lung.svg)
+<img src="imageAttribution/spinePain.svg" width="100" height="100">
+<img src="imageAttribution/closedEye.svg" width="100" height="100">
+<img src="imageAttribution/eyelash.svg" width="100" height="100">
+<img src="imageAttribution/prescriptionMeds.svg" width="100" height="100">
+<img src="imageAttribution/lung.svg" width="100" height="100">
 
 
 <br>
 
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-![snapIcon](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/snapIcon.svg)
-
+<img src="imageAttribution/snapIcon.svg" width="100" height="100">
 
 <br>
 
 Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-![stomachIntestine](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/stomachIntestine.svg)
+<img src="imageAttribution/stomachIntestine.svg" width="100" height="100">
 
 <br>
 
 Icons made by <a href="https://www.flaticon.com/authors/smalllikeart" title="smalllikeart">smalllikeart</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-![lamp](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/lamp.svg)
+<img src="imageAttribution/lamp.svg" width="100" height="100">
 
 <br>
 
 Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-![marajuana](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/marajuana.svg)
+<img src="imageAttribution/marijuana.svg" width="100" height="100">
 
 <br>
 
 Icons made by <a href="https://www.flaticon.com/authors/photo3idea-studio" title="photo3idea_studio">photo3idea_studio</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-![energyDrink](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/energyDrink.svg)
+<img src="imageAttribution/energyDrink.svg" width="100" height="100">
 
 <br>
 
 Icons made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-![energyBar](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/energyBar.svg)
-
+<img src="imageAttribution/energyBar.svg" width="100" height="100">
 
 
 
