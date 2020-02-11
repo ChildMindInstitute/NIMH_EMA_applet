@@ -3,26 +3,68 @@ A test repo for HBN EMA applet with NIMH content.
  
 <br>
 
-There are three applets in this repo:
 
-### 1. master branch applet
+### Icon and images attribution
 
-+ This applet was converted using data_dic_noTR2.csv in the **master** branch. All single time selection questions were replaced with dropdowns
-+ This applet has the ideal conditional logic in the activity_schema files
-+ However, this causes a few activities to not display at all: morning_sleep_and_behavior, intake, headache<br/>
+## Openmoji 
+Most icons in this applet directly pulled or derived from [Openmoji 12.1](https://openmoji.org/). All emojis are free to use under the CC BY-SA 4.0 license.
+
+<br>
+
+## Flaticon
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+spinePain.svg
+Tiktok.svg
+closedEye
+Eyelash
+prescriptionMeds
+lung
+
+<br>
+
+Icons made by <a href="https://www.flaticon.com/authors/kiranshastry" title="Kiranshastry">Kiranshastry</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+stomach.svg
+
+<br>
+
+Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+snapIcon.svg
 
 
-_Preview the applet here:_<br/>
-https://schema-ui.anisha.pizza/#/activities/12?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhotavocado%2FHBN_EMA_NIMH%2Fmaster%2Fprotocols%2FEMA_HBN%2FEMA_HBN_schema
+<br>
 
-### 2. noCL branch applet
+Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-+ this applet has no conditional logic, visibility for all items set to `true`
-+ **you should be able to preview all questions in the assessment with this applet**
-+ This applet was converted using data_dic_noTR2_noCL.csv in the **noCL** branch. All single time selection questions were replaced with dropdowns<br/>
+stomachIntestine
 
-_Preview the applet here:_<br/>
-https://schema-ui.anisha.pizza/#/activities/1?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhotavocado%2FHBN_EMA_NIMH%2FnoCL%2Fprotocols%2FEMA_HBN%2FEMA_HBN_schema
+<br>
+
+Icons made by <a href="https://www.flaticon.com/authors/smalllikeart" title="smalllikeart">smalllikeart</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+lamp
+
+<br>
+
+Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+Marajuana
+
+<br>
+
+Icons made by <a href="https://www.flaticon.com/authors/photo3idea-studio" title="photo3idea_studio">photo3idea_studio</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+energyDrink
+
+<br>
+
+Icons made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+energyBar
+
 
 
 
