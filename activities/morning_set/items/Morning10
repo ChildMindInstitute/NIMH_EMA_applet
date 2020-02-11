@@ -14,7 +14,7 @@
                 "schema:value": 1,
                 "schema:name": "1",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/E280.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E280.svg"
             },
             {
                 "schema:value": 2,
@@ -45,7 +45,7 @@
                 "schema:value": 7,
                 "schema:name": "7",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F600.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F600.svg"
             }
         ],
         "schema:minValue": "not at all refreshed",

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/socialMediaTime](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/socialMediaTime.png =120x120)\r\n\r\nHow many hours did you spend on social media today?",
+    "question": "\r\n\r\n![new/socialMediaTimer.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/socialMediaTimer.svg =150x150)\r\n\r\nHow many hours did you spend on social media today?",
     "responseOptions": {
         "choices": [
             {

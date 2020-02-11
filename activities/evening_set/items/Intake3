@@ -14,25 +14,25 @@
                 "schema:value": 1,
                 "schema:name": "cigarettes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F6AC.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F6AC.svg"
             },
             {
                 "schema:value": 2,
                 "schema:name": "cannabis/pot",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2618.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/marajuana.svg"
             },
             {
                 "schema:value": 3,
                 "schema:name": "other drug",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2754.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2754.svg"
             },
             {
                 "schema:value": 4,
                 "schema:name": "none",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F6AB.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F6AB.svg"
             }
         ]
     },

@@ -14,31 +14,37 @@
                 "schema:value": 1,
                 "schema:name": "Twitter",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/E040.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E040.svg"
             },
             {
                 "schema:value": 2,
                 "schema:name": "Instagram",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/E043.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E043.svg"
             },
             {
                 "schema:value": 3,
                 "schema:name": "Facebook",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/E042.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E042.svg"
             },
             {
                 "schema:value": 4,
                 "schema:name": "Snapchat",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/snapIcon.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/snapIcon.svg"
             },
             {
                 "schema:value": 5,
+                "schema:name": "Tik-tok ",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/tiktok.svg"
+            },
+            {
+                "schema:value": 6,
                 "schema:name": "other",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2754.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2754.svg"
             }
         ]
     },

@@ -10,20 +10,18 @@
             "autoAdvance"
         ]
     },
-    "question": "Did more than one event occur that significantly influenced you?",
+    "question": "\r\n\r\n![new/thoughtBalloon2.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/thoughtBalloon2.svg =150x150)\r\n\r\nDid more than one event occur that significantly influenced you?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2705.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "@type": "schema:option"
             }
         ]
     }

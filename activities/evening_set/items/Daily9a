@@ -10,32 +10,32 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/sneeze](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/sneeze.png =120x120)\r\n\r\nHow much did your allergies bother you today?",
+    "question": "\r\n\r\n![new/allergies.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/allergies.svg =150x150)\r\n\r\nHow much did your allergies bother you today?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "not at all",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F642.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F642.svg"
             },
             {
                 "schema:value": 2,
                 "schema:name": "mildly",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F610.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F610.svg"
             },
             {
                 "schema:value": 3,
                 "schema:name": "moderately",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F627.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F627.svg"
             },
             {
                 "schema:value": 4,
                 "schema:name": "severely",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F62B.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F62B.svg"
             }
         ]
     }

@@ -10,20 +10,18 @@
             "autoAdvance"
         ]
     },
-    "question": "Are you having pain right now?",
+    "question": "\r\n\r\n![new/pain.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/pain.svg =150x150)\r\n\r\nAre you having pain right now?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/pain.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274E.png"
+                "@type": "schema:option"
             }
         ]
     }

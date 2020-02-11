@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/internetTime](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/internetTime.png =120x120)\r\n\r\nHow many hours did you spend on the internet today?",
+    "question": "\r\n\r\n![new/internetTimer.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/internetTimer.svg =150x150)\r\n\r\nHow many hours did you spend on the internet today?",
     "responseOptions": {
         "choices": [
             {

@@ -10,20 +10,18 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/allSocialMedia](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/allSocialMedia.png =120x120)\r\n\r\nWere you using your social media accounts after bedtime?",
+    "question": "\r\n\r\n![new/socialMediaBed.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/socialMediaBed.svg =150x150)\r\n\r\nWere you using your social media accounts after bedtime?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2705.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "@type": "schema:option"
             }
         ]
     }

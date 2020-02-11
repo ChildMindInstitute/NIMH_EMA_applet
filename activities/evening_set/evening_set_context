@@ -402,6 +402,10 @@
             "@id": "evening_set:Daily2",
             "@type": "@id"
         },
+        "Daily2.5": {
+            "@id": "evening_set:Daily2.5",
+            "@type": "@id"
+        },
         "Daily3": {
             "@id": "evening_set:Daily3",
             "@type": "@id"

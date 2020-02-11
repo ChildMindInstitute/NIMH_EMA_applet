@@ -10,32 +10,32 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png =120x120)\r\n\r\nHow much does (or did) the headache interfere with your activities?",
+    "question": "\r\n\r\n![new/headacheActivity.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheActivity.svg =150x150)\r\n\r\nHow much does (or did) the headache interfere with your activities?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "not at all",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F9D1.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F642.svg"
             },
             {
                 "schema:value": 2,
                 "schema:name": "mildly",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F937.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F610.svg"
             },
             {
                 "schema:value": 3,
                 "schema:name": "moderately",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F64D.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F627.svg"
             },
             {
                 "schema:value": 4,
                 "schema:name": "severely",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F647.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F62B.svg"
             }
         ]
     }

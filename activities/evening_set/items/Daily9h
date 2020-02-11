@@ -10,20 +10,18 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/dizzy](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/dizzy.png =120x120)\r\n\r\nDid you actually faint today?",
+    "question": "\r\n\r\n![new/dizzyFaint.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/dizzyFaint.svg =150x150)\r\n\r\nDid you actually faint today?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F635.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "@type": "schema:option"
             }
         ]
     }

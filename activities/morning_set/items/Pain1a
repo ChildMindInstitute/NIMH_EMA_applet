@@ -14,33 +14,33 @@
                 "schema:value": 1,
                 "schema:name": "headache",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F926.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headache.svg"
             },
             {
                 "schema:value": 2,
                 "schema:name": "joint/muscle",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F9BF.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/jointPain.svg"
             },
             {
                 "schema:value": 3,
                 "schema:name": "back or neck",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/spinePain.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/spinePain.svg"
             },
             {
                 "schema:value": 4,
                 "schema:name": "stomach/bowel",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/stomach.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/stomachIntestine.svg"
             },
             {
                 "schema:value": 5,
                 "schema:name": "other",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2753.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2753.svg"
             }
         ]
     },
-    "question": "Where are you having pain?"
+    "question": "\r\n\r\n![new/pain.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/pain.svg =150x150)\r\n\r\nWhere are you having pain?"
 }

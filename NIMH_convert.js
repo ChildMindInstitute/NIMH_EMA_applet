@@ -4,7 +4,7 @@
 const protocolName = "EMA_HBN_NIMH2"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.14"
+const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.15"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -17,7 +17,7 @@ let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${b
 let protocolDescription = "Daily questions about physical and mental health, NIMH content"
 
 //4. where are you hosting your images?
-let imagePath = 'https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/'
+let imagePath = 'https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/'
 
 /* hard coded activity display object
 let activityDisplayObj = {
@@ -343,7 +343,7 @@ function processRow(form, data){
                         let cnameList = cs[1];
                         choiceObj['schema:name'] = cnameList;
                         choiceObj['@type'] = "schema:option";
-                        choiceObj['schema:image'] = imagePath + cs[2] + '.png';
+                        choiceObj['schema:image'] = imagePath + cs[2] + '.svg';
                         choiceList.push(choiceObj);
                     } else {
                     // for no image, create name and value pair for each choice option
@@ -422,7 +422,7 @@ function processRow(form, data){
             //Parse headerImage
             else if (schemaMap[current_key] === 'headerImage' && data[current_key] !== '') {
 
-                let questions = '\r\n\r\n![' + data[current_key] + '](' + imagePath + data[current_key] + '.png';
+                let questions = '\r\n\r\n![' + data[current_key] + '](' + imagePath + data[current_key];
                 //console.log(231, form, schemaMap[current_key], questions);
                 rowData[current_key] = questions;
                 }

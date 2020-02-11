@@ -10,20 +10,18 @@
             "autoAdvance"
         ]
     },
-    "question": "Did you take sleeping pills or anything else to help you sleep last night?",
+    "question": "\r\n\r\n![new/sleepPill.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/sleepPill.svg =150x150)\r\n\r\nDid you take sleeping pills or anything else to help you sleep last night?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F48A.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "@type": "schema:option"
             }
         ]
     }

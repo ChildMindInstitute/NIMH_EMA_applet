@@ -10,92 +10,92 @@
             "autoAdvance"
         ]
     },
-    "question": "Which of the following categories best describes the area of your life in which the event occurred?",
+    "question": "\r\n\r\n![new/thoughtBalloon.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/thoughtBalloon.svg =150x150)\r\n\r\nWhich of the following categories best describes the area of your life in which the event occurred?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "work",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F558.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F558.svg"
             },
             {
                 "schema:value": 2,
                 "schema:name": "education",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F469-200D-1F393.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F469-200D-1F393.svg"
             },
             {
                 "schema:value": 3,
                 "schema:name": "family or friend relationships",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F468-200D-1F469-200D-1F466.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F468-200D-1F469-200D-1F466.svg"
             },
             {
                 "schema:value": 4,
                 "schema:name": "interactions with colleagues",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F468-200D-1F4BC.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F468-200D-1F4BC.svg"
             },
             {
                 "schema:value": 5,
                 "schema:name": "interactions with strangers",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F465.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F465.svg"
             },
             {
                 "schema:value": 6,
                 "schema:name": "housing or residence",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F3E1.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3E1.svg"
             },
             {
                 "schema:value": 7,
                 "schema:name": "leisure",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F646.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F646.svg"
             },
             {
                 "schema:value": 8,
                 "schema:name": "exercise",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F3C3.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3C3.svg"
             },
             {
                 "schema:value": 9,
                 "schema:name": "health",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2665.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2665.svg"
             },
             {
                 "schema:value": 10,
                 "schema:name": "finances",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F4B5.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4B5.svg"
             },
             {
                 "schema:value": 11,
                 "schema:name": "religion or spirituality",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F6D0.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F6D0.svg"
             },
             {
                 "schema:value": 12,
                 "schema:name": "legal or judicial",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F468-200D-2696-FE0F.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F468-200D-2696-FE0F.svg"
             },
             {
                 "schema:value": 13,
                 "schema:name": "traveling or commuting",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F697.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F697.svg"
             },
             {
                 "schema:value": 14,
                 "schema:name": "other",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2754.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2754.svg"
             }
         ]
     }

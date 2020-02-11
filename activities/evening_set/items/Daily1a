@@ -14,51 +14,51 @@
                 "schema:value": 1,
                 "schema:name": "physical health",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2764.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2764.svg"
             },
             {
                 "schema:value": 2,
                 "schema:name": "education or work",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F468-200D-1F4BC.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/educationWork.svg"
             },
             {
                 "schema:value": 3,
                 "schema:name": "financial matters",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F4B5.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4B5.svg"
             },
             {
                 "schema:value": 4,
                 "schema:name": "relationship with friends",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F91D.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F91D.svg"
             },
             {
                 "schema:value": 5,
                 "schema:name": "relationships with family",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F46A.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F46A.svg"
             },
             {
                 "schema:value": 6,
                 "schema:name": "relationships with spouse/partner",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F49C.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F49C.svg"
             },
             {
                 "schema:value": 7,
                 "schema:name": "interaction with strangers",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F465.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F465.svg"
             },
             {
                 "schema:value": 8,
                 "schema:name": "other",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2753.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2753.svg"
             }
         ]
     },
-    "question": "What areas were stressful for you today?"
+    "question": "\r\n\r\n![new/stress.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/stress.svg =150x150)\r\n\r\nWhat areas were stressful for you today?"
 }

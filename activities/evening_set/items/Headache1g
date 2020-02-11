@@ -10,20 +10,18 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png =120x120)\r\n\r\nIs (or was) the pain throbbing, beating or pulsating?",
+    "question": "\r\n\r\n![new/headacheDrum.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheDrum.svg =150x150)\r\n\r\nIs (or was) the pain throbbing, beating or pulsating?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F941.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "@type": "schema:option"
             }
         ]
     }

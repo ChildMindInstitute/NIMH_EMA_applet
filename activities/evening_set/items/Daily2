@@ -10,20 +10,20 @@
             "autoAdvance"
         ]
     },
-    "question": "Was today a relatively typical day for you in terms of routines/stress?",
+    "question": "\r\n\r\n![new/stress.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/stress.svg =150x150)\r\n\r\nWas today a relatively typical day for you in terms of stress?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2705.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2611.svg"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/exclamation.svg"
             }
         ]
     }

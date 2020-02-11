@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/cookie](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/cookie.png =120x120)\r\n\r\nHow many snacks (e.g. candy bar/cookie/small bag of chips) did you have?",
+    "question": "\r\n\r\n![new/cookie.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/cookie.svg =150x150)\r\n\r\nHow many snacks (e.g. candy bar/cookie/small bag of chips) did you have?",
     "responseOptions": {
         "choices": [
             {

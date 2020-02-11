@@ -10,20 +10,18 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png =120x120)\r\n\r\nDoes (or did) the headache pain increase with routine physical activity such as bending over or climbing stairs?",
+    "question": "\r\n\r\n![new/headacheStairs.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheStairs.svg =150x150)\r\n\r\nDoes (or did) the headache pain increase with routine physical activity such as bending over or climbing stairs?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/E086.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "@type": "schema:option"
             }
         ]
     }

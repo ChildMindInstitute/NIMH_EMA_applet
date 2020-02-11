@@ -10,20 +10,20 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png =120x120)\r\n\r\nDid something in particular trigger the headache?",
+    "question": "\r\n\r\n![new/headacheTrigger.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheTrigger.svg =150x150)\r\n\r\nDid something in particular trigger the headache?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2705.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2705.svg"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg"
             }
         ]
     }

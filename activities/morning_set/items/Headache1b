@@ -10,20 +10,20 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png =120x120)\r\n\r\nIs this headache still present?",
+    "question": "\r\n\r\n![new/headacheCurrent.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheCurrent.svg =150x150)\r\n\r\nIs this headache still present?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 2,
                 "schema:name": "Yes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2705.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2705.svg"
             },
             {
                 "schema:value": 1,
                 "schema:name": "No",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg"
             }
         ]
     }

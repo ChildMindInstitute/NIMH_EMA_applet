@@ -413,6 +413,10 @@
             "isAbout": "Daily2"
         },
         {
+            "variableName": "Daily2.5",
+            "isAbout": "Daily2.5"
+        },
+        {
             "variableName": "Daily3",
             "isAbout": "Daily3"
         },
@@ -611,6 +615,7 @@
             "Daily1",
             "Daily1a",
             "Daily2",
+            "Daily2.5",
             "Daily3",
             "Daily4",
             "Daily4a",
@@ -738,6 +743,7 @@
             "Daily1": true,
             "Daily1a": "Daily1 > 1",
             "Daily2": true,
+            "Daily2.5": true,
             "Daily3": true,
             "Daily4": true,
             "Daily4a": "Daily4 == 1",

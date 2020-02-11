@@ -7,14 +7,14 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png =120x120)\r\n\r\nHow intense is (or was) the headache?",
+    "question": "\r\n\r\n![new/headache.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headache.svg =150x150)\r\n\r\nHow intense is (or was) the headache?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "1",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/E0A3.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E0A3.svg"
             },
             {
                 "schema:value": 2,
@@ -45,7 +45,7 @@
                 "schema:value": 7,
                 "schema:name": "7",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F6A8.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F6A8.svg"
             }
         ],
         "schema:minValue": "very minor",

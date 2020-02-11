@@ -10,20 +10,18 @@
             "autoAdvance"
         ]
     },
-    "question": "Did you eat chocolate?",
+    "question": "\r\n\r\n![1F36B.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F36B.svg =150x150)\r\n\r\nDid you eat chocolate?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F36B.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "@type": "schema:option"
             }
         ]
     }

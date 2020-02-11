@@ -10,20 +10,18 @@
             "autoAdvance"
         ]
     },
-    "question": "Have you experienced a headache since the last questionnaire?",
+    "question": "\r\n\r\n![new/headache.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headache.svg =150x150)\r\n\r\nHave you experienced a headache since the last questionnaire?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F926.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "@type": "schema:option"
             }
         ]
     }

@@ -10,32 +10,32 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/header/headache](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/header/headache.png =120x120)\r\n\r\nWhere is (or was) the headache?",
+    "question": "\r\n\r\n![new/headache.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headache.svg =150x150)\r\n\r\nWhere is (or was) the headache?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "both sides of your head",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2194.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2194.svg"
             },
             {
                 "schema:value": 2,
                 "schema:name": "left side only",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2B05.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2B05.svg"
             },
             {
                 "schema:value": 3,
                 "schema:name": "right side only",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/27A1.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/27A1.svg"
             },
             {
                 "schema:value": 4,
                 "schema:name": "moved from one side to another",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F504.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F504.svg"
             }
         ]
     }

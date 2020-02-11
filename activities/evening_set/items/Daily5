@@ -10,20 +10,18 @@
             "autoAdvance"
         ]
     },
-    "question": "Did you take any prescription medications today?",
+    "question": "\r\n\r\n![new/prescriptionMeds.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/prescriptionMeds.svg =150x150)\r\n\r\nDid you take any prescription medications today?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F469-200D-2695-FE0F.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/274C.png"
+                "@type": "schema:option"
             }
         ]
     }

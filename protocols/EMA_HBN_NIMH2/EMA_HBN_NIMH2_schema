@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "EMA_HBN_NIMH2_schema",
-    "skos:prefLabel": "Healthy Brain Network (NIMH content) v0.14",
+    "skos:prefLabel": "Healthy Brain Network (NIMH content) v0.15",
     "skos:altLabel": "EMA_HBN_NIMH2_schema",
     "schema:description": "Daily questions about physical and mental health, NIMH content",
     "schema:about": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/protocols/EMA_HBN_NIMH2/README.md",

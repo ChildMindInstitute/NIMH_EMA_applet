@@ -14,39 +14,39 @@
                 "schema:value": 1,
                 "schema:name": "pain (headache/muscle/joint pain etc.)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/new/pain.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/pain.svg"
             },
             {
                 "schema:value": 2,
                 "schema:name": "allergies/cold",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F927.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F927.svg"
             },
             {
                 "schema:value": 3,
                 "schema:name": "fever/acute illness",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F912.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F912.svg"
             },
             {
                 "schema:value": 4,
                 "schema:name": "headache",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F926.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headache.svg"
             },
             {
                 "schema:value": 5,
                 "schema:name": "sleep problems",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/1F4A4.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4A4.svg"
             },
             {
                 "schema:value": 6,
                 "schema:name": "other",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/72x72/2753.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2753.svg"
             }
         ]
     },
-    "question": "Did you take them for:"
+    "question": "\r\n\r\n![new/pill.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/pill.svg =150x150)\r\n\r\nDid you take them for:"
 }
