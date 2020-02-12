@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/cigarette.svg?sanitize=true\" width=\"150\" height=\"150\"></p>How many cigarettes did you have?",
+    "question": "\r\n\r\n![new/cigarette.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/cigarette.png =150x150)\r\n\r\nHow many cigarettes did you have?",
     "responseOptions": {
         "choices": [
             {

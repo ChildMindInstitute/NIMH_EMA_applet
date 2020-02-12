@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheDrum.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Is (or was) the pain throbbing, beating or pulsating?",
+    "question": "\r\n\r\n![new/headacheDrum.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheDrum.png =150x150)\r\n\r\nIs (or was) the pain throbbing, beating or pulsating?",
     "responseOptions": {
         "choices": [
             {

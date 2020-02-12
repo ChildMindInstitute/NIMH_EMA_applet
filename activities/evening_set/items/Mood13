@@ -14,7 +14,7 @@
                 "schema:value": 1,
                 "schema:name": "1",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F610.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F610.png"
             },
             {
                 "schema:value": 2,
@@ -45,7 +45,7 @@
                 "schema:value": 7,
                 "schema:name": "7",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F929.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F929.png"
             }
         ],
         "schema:minValue": "no pleasure or enjoyment",

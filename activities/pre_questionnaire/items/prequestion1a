@@ -14,37 +14,37 @@
                 "schema:value": 1,
                 "schema:name": "Twitter",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E040.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/E040.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "Instagram",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E043.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/E043.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "Facebook",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E042.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/E042.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "Snapchat",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/snapIcon.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/snapIcon.png"
             },
             {
                 "schema:value": 5,
                 "schema:name": "Tik-tok ",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/tiktok.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/tiktok.png"
             },
             {
                 "schema:value": 6,
                 "schema:name": "other",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2754.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2754.png"
             }
         ]
     },

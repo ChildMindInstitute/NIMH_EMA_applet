@@ -17,31 +17,31 @@
                 "schema:value": 1,
                 "schema:name": "cocaine",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/26AA.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/26AA.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "tranquilizers",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F7E6.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F7E6.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "stimulants",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F53A.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F53A.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "heroin or other opiate",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2B1C.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2B1C.png"
             },
             {
                 "schema:value": 5,
                 "schema:name": "other drug",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2754.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2754.png"
             }
         ]
     }

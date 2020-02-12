@@ -10,32 +10,32 @@
             "autoAdvance"
         ]
     },
-    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheNausea.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Do (or did) you feel nauseated, vomit or have diarrhea?",
+    "question": "\r\n\r\n![new/headacheNausea.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheNausea.png =150x150)\r\n\r\nDo (or did) you feel nauseated, vomit or have diarrhea?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "not at all",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F642.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F642.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "mildly",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F610.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F610.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "moderately",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F627.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F627.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "severely",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F62B.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F62B.png"
             }
         ]
     }

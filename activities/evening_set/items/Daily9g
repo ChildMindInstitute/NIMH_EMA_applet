@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/dizzyHot.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Did these feelings of dizziness occur in a particular situation (in a bus, in hot weather, or other condition)?",
+    "question": "\r\n\r\n![new/dizzyHot.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/dizzyHot.png =150x150)\r\n\r\nDid these feelings of dizziness occur in a particular situation (in a bus, in hot weather, or other condition)?",
     "responseOptions": {
         "choices": [
             {

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/socialMediaBed.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Were you using your social media accounts after bedtime?",
+    "question": "\r\n\r\n![new/socialMediaBed.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/socialMediaBed.png =150x150)\r\n\r\nWere you using your social media accounts after bedtime?",
     "responseOptions": {
         "choices": [
             {

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityVigorousTimer.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Since the last questionnaire, how many minutes did you do vigorous activities including intensive sports or exercise (such as running or fast cycling) or intensive physical work (such as heavy lifting or digging)?",
+    "question": "\r\n\r\n![new/activityVigorousTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/activityVigorousTimer.png =150x150)\r\n\r\nSince the last questionnaire, how many minutes did you do vigorous activities including intensive sports or exercise (such as running or fast cycling) or intensive physical work (such as heavy lifting or digging)?",
     "responseOptions": {
         "choices": [
             {

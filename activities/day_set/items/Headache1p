@@ -14,21 +14,21 @@
                 "schema:value": 1,
                 "schema:name": "over-the-counter medications",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F48A.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F48A.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "prescription medications",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/prescriptionMeds.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/prescriptionMeds.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "no medications",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
             }
         ]
     },
-    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheTreat.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Which (if any) did you take to treat your headache?"
+    "question": "\r\n\r\n![new/headacheTreat.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheTreat.png =150x150)\r\n\r\nWhich (if any) did you take to treat your headache?"
 }

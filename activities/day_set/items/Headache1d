@@ -10,20 +10,20 @@
             "autoAdvance"
         ]
     },
-    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheSudden.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Did the headache come on suddenly?",
+    "question": "\r\n\r\n![new/headacheSudden.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheSudden.png =150x150)\r\n\r\nDid the headache come on suddenly?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4A5.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F4A5.png"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg?sanitize=true"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
             }
         ]
     }

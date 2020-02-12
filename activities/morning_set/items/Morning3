@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "time"
     },
-    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/closedEyeClock.svg?sanitize=true\" width=\"150\" height=\"150\"></p>What time did you **close your eyes** to try to go to sleep?"
+    "question": "\r\n\r\n![new/closedEyeClock.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/closedEyeClock.png =150x150)\r\n\r\nWhat time did you **close your eyes** to try to go to sleep?"
 }
