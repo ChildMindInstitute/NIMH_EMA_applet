@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/activityLightTimer.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityLightTimer.svg =150x150)\r\n\r\nSince the last questionnaire, how many minutes did you do light activities (activities that may not make you breathe somewhat harder than usual such as walking, climbing stairs, routine household chores, etc.)?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityLightTimer.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Since the last questionnaire, how many minutes did you do light activities (activities that may not make you breathe somewhat harder than usual such as walking, climbing stairs, routine household chores, etc.)?",
     "responseOptions": {
         "choices": [
             {

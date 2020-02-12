@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/marajuana.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/marajuana.svg =150x150)\r\n\r\nHow many joints (of cannabis/pot) did you have?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/marajuana.svg?sanitize=true\" width=\"150\" height=\"150\"></p>How many joints (of cannabis/pot) did you have?",
     "responseOptions": {
         "choices": [
             {

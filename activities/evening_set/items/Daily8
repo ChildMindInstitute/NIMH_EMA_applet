@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/coldFever.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/coldFever.svg =150x150)\r\n\r\nDo you have a cold, cough, or flu today?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/coldFever.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Do you have a cold, cough, or flu today?",
     "responseOptions": {
         "choices": [
             {

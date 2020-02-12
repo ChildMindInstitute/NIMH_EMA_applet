@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/alcohol.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/alcohol.svg =150x150)\r\n\r\nHow many servings of alcohol did you consume?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/alcohol.svg?sanitize=true\" width=\"150\" height=\"150\"></p>How many servings of alcohol did you consume?",
     "responseOptions": {
         "choices": [
             {

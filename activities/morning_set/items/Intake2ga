@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![1F36B.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F36B.svg =150x150)\r\n\r\nDid you eat chocolate?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F36B.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Did you eat chocolate?",
     "responseOptions": {
         "choices": [
             {

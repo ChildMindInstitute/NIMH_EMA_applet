@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "\r\n\r\n![new/partyPopper.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/partyPopper.svg =200x200)\r\n\r\nGreat job, thank you completing the questionnaire! Tapping the **Done** button will exit the questionnaire."
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/partyPopper.svg?sanitize=true\" width=\"200\" height=\"200\"></p>Great job, thank you completing the questionnaire! Tapping the **Done** button will exit the questionnaire."
 }

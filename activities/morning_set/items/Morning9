@@ -7,14 +7,14 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How would you rate the quality of your sleep?",
+    "question": "How would you rate the **quality** of your sleep?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "1",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2639.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2639.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
@@ -45,7 +45,7 @@
                 "schema:value": 7,
                 "schema:name": "7",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F634.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F634.svg?sanitize=true"
             }
         ],
         "schema:minValue": "very poor",

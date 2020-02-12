@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheTimer.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheTimer.svg =150x150)\r\n\r\nIf you reported a headache present at any questionnaire today, how many hours did the headache(s) last in total?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheTimer.svg?sanitize=true\" width=\"150\" height=\"150\"></p>If you reported a headache present at any questionnaire today, how many hours did the headache(s) last in total?",
     "responseOptions": {
         "choices": [
             {

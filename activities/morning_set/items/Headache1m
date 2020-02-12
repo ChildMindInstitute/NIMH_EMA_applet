@@ -14,27 +14,27 @@
                 "schema:value": 1,
                 "schema:name": "blurred or distorted vision",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F300.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F300.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
                 "schema:name": "flashing lights/shapes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4AB.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4AB.svg?sanitize=true"
             },
             {
                 "schema:value": 3,
                 "schema:name": "blind spots or missing parts",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F616.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F616.svg?sanitize=true"
             },
             {
                 "schema:value": 4,
                 "schema:name": "no vision changes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg?sanitize=true"
             }
         ]
     },
-    "question": "\r\n\r\n![new/headacheVision.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheVision.svg =150x150)\r\n\r\nWhich (if any) of the following vision changes did you experience?"
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheVision.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Which (if any) of the following vision changes did you experience?"
 }

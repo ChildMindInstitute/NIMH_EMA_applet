@@ -10,20 +10,20 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/activityVigorousPlanned.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityVigorousPlanned.svg =150x150)\r\n\r\nWas this vigorous activity (or activities) part of a planned workout or exercise routine?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityVigorousPlanned.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Was this vigorous activity (or activities) part of a planned workout or exercise routine?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2705.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2705.svg?sanitize=true"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg?sanitize=true"
             }
         ]
     }

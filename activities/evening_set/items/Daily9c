@@ -14,33 +14,33 @@
                 "schema:value": 1,
                 "schema:name": "pain in your abdomen",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/pain.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/pain.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
                 "schema:name": "diarrhea",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F6BD.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F6BD.svg?sanitize=true"
             },
             {
                 "schema:value": 3,
                 "schema:name": "nausea",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F922.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F922.svg?sanitize=true"
             },
             {
                 "schema:value": 4,
                 "schema:name": "vomiting",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F92E.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F92E.svg?sanitize=true"
             },
             {
                 "schema:value": 5,
                 "schema:name": "other",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2753.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2753.svg?sanitize=true"
             }
         ]
     },
-    "question": "\r\n\r\n![new/stomachIntestine.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/stomachIntestine.svg =150x150)\r\n\r\nWhich (if any) of the following gastro-intestinal/stomach symptoms did you have today?"
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/stomachIntestine.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Which (if any) of the following gastro-intestinal/stomach symptoms did you have today?"
 }

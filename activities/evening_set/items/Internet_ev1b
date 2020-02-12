@@ -14,33 +14,33 @@
                 "schema:value": 1,
                 "schema:name": "home",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3E0.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3E0.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
                 "schema:name": "school",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3EB.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3EB.svg?sanitize=true"
             },
             {
                 "schema:value": 3,
                 "schema:name": "coffee shop or cafe",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E200.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E200.svg?sanitize=true"
             },
             {
                 "schema:value": 4,
                 "schema:name": "library",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4DA.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4DA.svg?sanitize=true"
             },
             {
                 "schema:value": 5,
                 "schema:name": "friend or family's house",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3D8.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3D8.svg?sanitize=true"
             }
         ]
     },
-    "question": "\r\n\r\n![new/wifi.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/wifi.svg =150x150)\r\n\r\nWhere did you use the internet?"
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/wifi.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Where did you use the internet?"
 }

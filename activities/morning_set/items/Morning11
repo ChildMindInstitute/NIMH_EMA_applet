@@ -14,49 +14,49 @@
                 "schema:value": 1,
                 "schema:name": "difficulty falling asleep",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F636.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F636.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
                 "schema:name": "awakening during the night",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/awakeNight.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/awakeNight.svg?sanitize=true"
             },
             {
                 "schema:value": 3,
                 "schema:name": "awakening too early",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F304.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F304.svg?sanitize=true"
             },
             {
                 "schema:value": 4,
                 "schema:name": "feeling unrefreshed or unrestored despite enough hours of sleep",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E280.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E280.svg?sanitize=true"
             },
             {
                 "schema:value": 5,
                 "schema:name": "nightmares",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F9DB.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F9DB.svg?sanitize=true"
             },
             {
                 "schema:value": 6,
                 "schema:name": "sleep walking",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/sleepWalk.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/sleepWalk.svg?sanitize=true"
             },
             {
                 "schema:value": 7,
                 "schema:name": "other sleep problem",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2753.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2753.svg?sanitize=true"
             },
             {
                 "schema:value": 8,
                 "schema:name": "no sleep problem",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274E.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274E.svg?sanitize=true"
             }
         ]
     },

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/dizzyFaint.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/dizzyFaint.svg =150x150)\r\n\r\nDid you actually faint today?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/dizzyFaint.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Did you actually faint today?",
     "responseOptions": {
         "choices": [
             {

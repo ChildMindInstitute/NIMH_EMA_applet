@@ -14,43 +14,43 @@
                 "schema:value": 1,
                 "schema:name": "water",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/water.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/water.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
                 "schema:name": "milk",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F95B.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F95B.svg?sanitize=true"
             },
             {
                 "schema:value": 3,
                 "schema:name": "a caffeinated beverage (like coffee/tea/soda etc.)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/caffeine.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/caffeine.svg?sanitize=true"
             },
             {
                 "schema:value": 4,
                 "schema:name": "an alcoholic beverage (wine/beer/liquor etc.)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F377.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F377.svg?sanitize=true"
             },
             {
                 "schema:value": 5,
                 "schema:name": "a beverage containing sugar like juice or caffeine free soda",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F9C3.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F9C3.svg?sanitize=true"
             },
             {
                 "schema:value": 6,
                 "schema:name": "another type of drink",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2754.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2754.svg?sanitize=true"
             },
             {
                 "schema:value": 7,
                 "schema:name": "none",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg?sanitize=true"
             }
         ]
     },

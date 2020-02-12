@@ -14,45 +14,45 @@
                 "schema:value": 1,
                 "schema:name": "take prescribed medication",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F469-200D-2695-FE0F.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F469-200D-2695-FE0F.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
                 "schema:name": "take over-the-counter medication",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F48A.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F48A.svg?sanitize=true"
             },
             {
                 "schema:value": 3,
                 "schema:name": "reduce or change activities",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F504.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F504.svg?sanitize=true"
             },
             {
                 "schema:value": 4,
                 "schema:name": "use relaxation/yoga/other techniques",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F9D8-200D-2640-FE0F.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F9D8-200D-2640-FE0F.svg?sanitize=true"
             },
             {
                 "schema:value": 5,
                 "schema:name": "rest or take a nap",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F6CF.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F6CF.svg?sanitize=true"
             },
             {
                 "schema:value": 6,
                 "schema:name": "other prevention strategy",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2754.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2754.svg?sanitize=true"
             },
             {
                 "schema:value": 7,
                 "schema:name": "none",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg?sanitize=true"
             }
         ]
     },
-    "question": "\r\n\r\n![new/headachePrevent.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headachePrevent.svg =150x150)\r\n\r\nSince the last questionnaire, did you do any of the following to prevent a headache?"
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headachePrevent.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Since the last questionnaire, did you do any of the following to prevent a headache?"
 }

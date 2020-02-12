@@ -14,19 +14,19 @@
                 "schema:value": 1,
                 "schema:name": "vigorous activities (e.g. running/fast cycling/heavy lifting or digging)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityVigorous.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityVigorous.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
                 "schema:name": "moderate activities (e.g. tennis/bicycling/carrying light loads)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityModerate.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityModerate.svg?sanitize=true"
             },
             {
                 "schema:value": 3,
                 "schema:name": "light activities (e.g. walking/climbing stairs/routine household chores)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityLight.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityLight.svg?sanitize=true"
             }
         ]
     },

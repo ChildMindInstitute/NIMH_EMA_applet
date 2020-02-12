@@ -14,55 +14,55 @@
                 "schema:value": 1,
                 "schema:name": "allergies",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/allergies.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/allergies.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
                 "schema:name": "asthma or respiratory difficulties",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/lung.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/lung.svg?sanitize=true"
             },
             {
                 "schema:value": 3,
                 "schema:name": "gastrointestinal/nausea/vomiting/bowel or stomach problems",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/stomachIntestine.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/stomachIntestine.svg?sanitize=true"
             },
             {
                 "schema:value": 4,
                 "schema:name": "muscle/joint pain",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/jointPain.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/jointPain.svg?sanitize=true"
             },
             {
                 "schema:value": 5,
                 "schema:name": "heart racing or pounding",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F493.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F493.svg?sanitize=true"
             },
             {
                 "schema:value": 6,
                 "schema:name": "headache",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headache.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headache.svg?sanitize=true"
             },
             {
                 "schema:value": 7,
                 "schema:name": "dizziness/feeling light-headed or faint",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4AB.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4AB.svg?sanitize=true"
             },
             {
                 "schema:value": 8,
                 "schema:name": "hit or hurt your head",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F915.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F915.svg?sanitize=true"
             },
             {
                 "schema:value": 9,
                 "schema:name": "none",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/274C.svg?sanitize=true"
             }
         ]
     },

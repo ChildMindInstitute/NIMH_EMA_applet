@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/allFoodTimer.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/allFoodTimer.svg =150x150)\r\n\r\nFor how long did you eat?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/allFoodTimer.svg?sanitize=true\" width=\"150\" height=\"150\"></p>For how long did you eat?",
     "responseOptions": {
         "choices": [
             {

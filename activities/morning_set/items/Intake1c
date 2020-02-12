@@ -14,33 +14,33 @@
                 "schema:value": 1,
                 "schema:name": "soda (coke/pepsi/other caffeinated soda)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F964.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F964.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
                 "schema:name": "energy drink",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/energyDrink.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/energyDrink.svg?sanitize=true"
             },
             {
                 "schema:value": 3,
                 "schema:name": "coffee",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2615.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2615.svg?sanitize=true"
             },
             {
                 "schema:value": 4,
                 "schema:name": "tea",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F375.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F375.svg?sanitize=true"
             },
             {
                 "schema:value": 5,
                 "schema:name": "other",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2754.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2754.svg?sanitize=true"
             }
         ]
     },
-    "question": "\r\n\r\n![new/caffeine.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/caffeine.svg =150x150)\r\n\r\nWhat type of caffeinated beverage did you consume?"
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/caffeine.svg?sanitize=true\" width=\"150\" height=\"150\"></p>What type of caffeinated beverage did you consume?"
 }

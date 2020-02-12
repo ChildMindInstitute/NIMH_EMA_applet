@@ -4,7 +4,7 @@
 const protocolName = "EMA_HBN_NIMH2"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.15"
+const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.16"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -343,7 +343,7 @@ function processRow(form, data){
                         let cnameList = cs[1];
                         choiceObj['schema:name'] = cnameList;
                         choiceObj['@type'] = "schema:option";
-                        choiceObj['schema:image'] = imagePath + cs[2] + '.svg';
+                        choiceObj['schema:image'] = imagePath + cs[2] + '.svg?sanitize=true';
                         choiceList.push(choiceObj);
                     } else {
                     // for no image, create name and value pair for each choice option
@@ -422,22 +422,32 @@ function processRow(form, data){
             //Parse headerImage
             else if (schemaMap[current_key] === 'headerImage' && data[current_key] !== '') {
 
-                let questions = '\r\n\r\n![' + data[current_key] + '](' + imagePath + data[current_key];
+                //sanitze .svg images 
+                if (data[current_key].includes('.svg')) {
+                let questions = '<p align="center"><img src="' + imagePath + data[current_key] + '?sanitize=true"';
                 //console.log(231, form, schemaMap[current_key], questions);
                 rowData[current_key] = questions;
                 }
+                
+                else {
+                let questions = '<p align="center"><img src="' + imagePath + data[current_key] + '"';
+                //console.log(231, form, schemaMap[current_key], questions);
+                rowData[current_key] = questions;
+                }
+            }
 
             //Parse headerImageSize
             else if (schemaMap[current_key] === 'headerImageSize' && data[current_key] !== '') {
             
             if (data[current_key] == '') {
-                let questions = ')\r\n\r\n';
+                let questions = '></p>';
                 //console.log(231, form, schemaMap[current_key], questions);
                 rowData[current_key] = questions;
             }
 
             else {
-                let questions = ' =' + data[current_key] + ')\r\n\r\n';
+                let c = data[current_key].split('x');
+                let questions = ' width="' + c[0] + '"' + ' height="' + c[1] + '"></p>';
                 //console.log(231, form, schemaMap[current_key], questions);
                 rowData[current_key] = questions;
                 }
@@ -447,7 +457,7 @@ function processRow(form, data){
              else if ((schemaMap[current_key] ==='question' || schemaMap[current_key] ==='schema:description'
              || schemaMap[current_key] === 'preamble') && data[current_key] !== '') {
              let questions = data[current_key];
-             // Keep return carriage
+             // Keep return carriage and quotation marks
              questions = questions.replace(/\\r/g, '\r');
              questions = questions.replace(/\\n/g, '\n');
              console.log(231, form, schemaMap[current_key], questions);

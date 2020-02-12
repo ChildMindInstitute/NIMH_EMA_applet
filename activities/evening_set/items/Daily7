@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/weighted.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/weighted.svg =150x150)\r\n\r\nDid you feel like you had no physical energy, as if you were weighted down or had a heavy feeling in your arms or legs for most of the day?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/weighted.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Did you feel like you had no physical energy, as if you were weighted down or had a heavy feeling in your arms or legs for most of the day?",
     "responseOptions": {
         "choices": [
             {

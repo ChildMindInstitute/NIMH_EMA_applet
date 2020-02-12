@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/awakeNight.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/awakeNight.svg =150x150)\r\n\r\nHow many times did you wake up in the night, not counting your final awakening?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/awakeNight.svg?sanitize=true\" width=\"150\" height=\"150\"></p>How many times did you wake up in the night, not counting your final awakening?",
     "responseOptions": {
         "choices": [
             {

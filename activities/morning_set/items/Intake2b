@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/sandwich.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/sandwich.svg =150x150)\r\n\r\nHow many small meals did you have?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/sandwich.svg?sanitize=true\" width=\"150\" height=\"150\"></p>How many small meals did you have?",
     "responseOptions": {
         "choices": [
             {

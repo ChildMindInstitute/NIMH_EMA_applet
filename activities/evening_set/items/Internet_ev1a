@@ -14,63 +14,63 @@
                 "schema:value": 1,
                 "schema:name": "chat rooms",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E246.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E246.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
                 "schema:name": "blogs",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F5E8.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F5E8.svg?sanitize=true"
             },
             {
                 "schema:value": 3,
                 "schema:name": "music (Spotify/iTunes/etc.)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3A7.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3A7.svg?sanitize=true"
             },
             {
                 "schema:value": 4,
                 "schema:name": "news",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4F0.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4F0.svg?sanitize=true"
             },
             {
                 "schema:value": 5,
                 "schema:name": "direct messenger",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E248.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E248.svg?sanitize=true"
             },
             {
                 "schema:value": 6,
                 "schema:name": "gaming",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3AE.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F3AE.svg?sanitize=true"
             },
             {
                 "schema:value": 7,
                 "schema:name": "shopping",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F6D2.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F6D2.svg?sanitize=true"
             },
             {
                 "schema:value": 8,
                 "schema:name": "social networking",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E249.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E249.svg?sanitize=true"
             },
             {
                 "schema:value": 9,
                 "schema:name": "web browsing",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F310.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F310.svg?sanitize=true"
             },
             {
                 "schema:value": 10,
                 "schema:name": "internet TV (Hulu/Netflix/etc.)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4FA.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4FA.svg?sanitize=true"
             }
         ]
     },
-    "question": "\r\n\r\n![new/wifi.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/wifi.svg =150x150)\r\n\r\nWhat did you use the internet for today?"
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/wifi.svg?sanitize=true\" width=\"150\" height=\"150\"></p>What did you use the internet for today?"
 }

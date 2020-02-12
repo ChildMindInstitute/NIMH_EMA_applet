@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheTingle.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheTingle.svg =150x150)\r\n\r\nIs (or was) your headache accompanied by any numbing or tingling in certain body areas?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/headacheTingle.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Is (or was) your headache accompanied by any numbing or tingling in certain body areas?",
     "responseOptions": {
         "choices": [
             {

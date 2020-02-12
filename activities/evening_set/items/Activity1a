@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/zzzBedTimer.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/zzzBedTimer.svg =150x150)\r\n\r\nAbout how long was your nap or rest?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/zzzBedTimer.svg?sanitize=true\" width=\"150\" height=\"150\"></p>About how long was your nap or rest?",
     "responseOptions": {
         "choices": [
             {

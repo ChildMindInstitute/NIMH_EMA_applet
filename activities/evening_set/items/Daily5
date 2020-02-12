@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/prescriptionMeds.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/prescriptionMeds.svg =150x150)\r\n\r\nDid you take any prescription medications today?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/prescriptionMeds.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Did you take any prescription medications today?",
     "responseOptions": {
         "choices": [
             {

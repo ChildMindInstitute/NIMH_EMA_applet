@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/bed.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/bed.svg =150x150)\r\n\r\nSince the last questionnaire, did you have a nap or rest?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/bed.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Since the last questionnaire, did you have a nap or rest?",
     "responseOptions": {
         "choices": [
             {

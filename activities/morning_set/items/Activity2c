@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/activityModerateTimer.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityModerateTimer.svg =150x150)\r\n\r\nSince the last questionnaire, how many minutes did you do moderate activities (activities that make you breathe somewhat harder than usual such as playing tennis, bicycling, carrying light loads)?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/activityModerateTimer.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Since the last questionnaire, how many minutes did you do moderate activities (activities that make you breathe somewhat harder than usual such as playing tennis, bicycling, carrying light loads)?",
     "responseOptions": {
         "choices": [
             {

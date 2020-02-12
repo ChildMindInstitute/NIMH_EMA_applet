@@ -14,25 +14,25 @@
                 "schema:value": 1,
                 "schema:name": "things you did that you regret",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F614.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F614.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
                 "schema:name": "things that happened to you or to others",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F329.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F329.svg?sanitize=true"
             },
             {
                 "schema:value": 3,
                 "schema:name": "worries that you have",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4AD.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F4AD.svg?sanitize=true"
             },
             {
                 "schema:value": 4,
                 "schema:name": "other negative thoughts",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2753.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/2753.svg?sanitize=true"
             }
         ]
     },

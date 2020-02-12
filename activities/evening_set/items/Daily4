@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/pill.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/pill.svg =150x150)\r\n\r\nDid you take any over-the-counter medications today?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/pill.svg?sanitize=true\" width=\"150\" height=\"150\"></p>Did you take any over-the-counter medications today?",
     "responseOptions": {
         "choices": [
             {

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/zzzEyeTimer.svg](https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/zzzEyeTimer.svg =150x150)\r\n\r\nHow long did it take you to fall asleep?",
+    "question": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/new/zzzEyeTimer.svg?sanitize=true\" width=\"150\" height=\"150\"></p>How long did it take you to fall asleep?",
     "responseOptions": {
         "choices": [
             {

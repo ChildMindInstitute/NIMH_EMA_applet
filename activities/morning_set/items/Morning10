@@ -7,14 +7,14 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How refreshed did you feel when you woke up?",
+    "question": "How **refreshed** did you feel when you woke up?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "1",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E280.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/E280.svg?sanitize=true"
             },
             {
                 "schema:value": 2,
@@ -45,7 +45,7 @@
                 "schema:value": 7,
                 "schema:name": "7",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F600.svg"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/openmoji/master/color/svg/1F600.svg?sanitize=true"
             }
         ],
         "schema:minValue": "not at all refreshed",
