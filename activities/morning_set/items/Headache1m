@@ -20,13 +20,13 @@
                 "schema:value": 2,
                 "schema:name": "flashing lights/shapes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F4AB.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/sparkleShapes.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "blind spots or missing parts",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F616.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/blindspot.png"
             },
             {
                 "schema:value": 4,

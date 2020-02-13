@@ -16,14 +16,12 @@
             {
                 "schema:value": 2,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2705.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 1,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
+                "@type": "schema:option"
             }
         ]
     }

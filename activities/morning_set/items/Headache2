@@ -14,7 +14,7 @@
                 "schema:value": 1,
                 "schema:name": "take prescribed medication",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F469-200D-2695-FE0F.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/prescriptionMeds.png"
             },
             {
                 "schema:value": 2,

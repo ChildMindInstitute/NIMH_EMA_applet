@@ -15,27 +15,13 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "not at all",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F642.png"
+                "schema:name": "Yes",
+                "@type": "schema:option"
             },
             {
-                "schema:value": 2,
-                "schema:name": "mildly",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F610.png"
-            },
-            {
-                "schema:value": 3,
-                "schema:name": "moderately",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F627.png"
-            },
-            {
-                "schema:value": 4,
-                "schema:name": "severely",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F62B.png"
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
             }
         ]
     }

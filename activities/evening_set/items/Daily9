@@ -50,7 +50,7 @@
                 "schema:value": 7,
                 "schema:name": "dizziness/feeling light-headed or faint",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F4AB.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/dizzy.png"
             },
             {
                 "schema:value": 8,

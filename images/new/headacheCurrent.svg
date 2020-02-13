@@ -7,6 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="824"
+   inkscape:export-xdpi="824"
+   inkscape:export-filename="/Users/mike.xiao/Documents/GitHub/openmoji/color/svg/new/headacheCurrent.png"
    id="emoji"
    x="0"
    y="0"
@@ -22,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,57 +41,24 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1073"
-     inkscape:window-height="818"
+     inkscape:window-width="1614"
+     inkscape:window-height="864"
      id="namedview1449"
      showgrid="false"
      showguides="false"
-     inkscape:zoom="9.0555556"
-     inkscape:cx="36"
-     inkscape:cy="36"
-     inkscape:window-x="177"
-     inkscape:window-y="69"
+     inkscape:zoom="8.4325886"
+     inkscape:cx="47.068665"
+     inkscape:cy="36.238587"
+     inkscape:window-x="1155"
+     inkscape:window-y="213"
      inkscape:window-maximized="0"
-     inkscape:current-layer="emoji">
+     inkscape:current-layer="emoji"
+     inkscape:snap-text-baseline="true">
     <sodipodi:guide
        position="12.611465,73.375796"
        orientation="0,-1"
        id="guide1455" />
   </sodipodi:namedview>
-  <g
-     transform="matrix(0.51020197,0,0,0.51020197,34.756761,-2.1515758)"
-     id="g1477">
-    <g
-       id="color-0">
-      <polygon
-         id="_x27A1__xFE0F_"
-         fill="#3F3F3F"
-         stroke="none"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-miterlimit="10"
-         stroke-width="2"
-         points="49.2124,51.5343 67,35.0363 49.2124,18.5382 45.4234,22.6138 55.8191,32.2554 5,32.2554 5,37.8171 55.8191,37.8171 45.4234,47.4587 " />
-    </g>
-    <g
-       id="hair-0" />
-    <g
-       id="skin-5" />
-    <g
-       id="skin-shadow-6" />
-    <g
-       id="line-7">
-      <polygon
-         id="polygon1460"
-         fill="none"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-miterlimit="10"
-         stroke-width="2"
-         points="49.2124,51.5343 67,35.0363 49.2124,18.5382 45.4234,22.6138 55.8191,32.2554 5,32.2554 5,37.8171 55.8191,37.8171 45.4234,47.4587 " />
-    </g>
-  </g>
   <g
      id="skin-shadow" />
   <g
@@ -318,4 +288,16 @@
       </g>
     </g>
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.6468px;line-height:1.25;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;stroke-width:0.774253"
+     x="35.505955"
+     y="-6.1626182"
+     id="text66"
+     transform="rotate(30.430598)"><tspan
+       sodipodi:role="line"
+       id="tspan64"
+       x="35.505955"
+       y="-6.1626182"
+       style="stroke-width:0.774253">now</tspan></text>
 </svg>

@@ -20,7 +20,7 @@
                 "schema:value": 2,
                 "schema:name": "cannabis/pot",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/marajuana.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/marijuana.png"
             },
             {
                 "schema:value": 3,

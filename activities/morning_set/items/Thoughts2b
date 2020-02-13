@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How severe or disturbing would you say these thoughts were?",
+    "question": "\r\n\r\n![new/thoughtBalloon.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/thoughtBalloon.png =150x150)\r\n\r\nHow severe or disturbing would you say these thoughts were?",
     "responseOptions": {
         "choices": [
             {

@@ -14,13 +14,13 @@
                 "schema:value": 1,
                 "schema:name": "headache",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headache.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F926.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "joint/muscle",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/jointPain.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F9BF.png"
             },
             {
                 "schema:value": 3,

@@ -7,6 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="824"
+   inkscape:export-xdpi="824"
+   inkscape:export-filename="/Users/mike.xiao/Documents/GitHub/openmoji/color/svg/new/dizzyFaint.png"
    id="emoji"
    viewBox="0 0 72 72"
    version="1.1"
@@ -20,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,107 +39,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1112"
-     inkscape:window-height="840"
+     inkscape:window-width="1403"
+     inkscape:window-height="895"
      id="namedview5229"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="7.0740457"
+     inkscape:zoom="10.125"
      inkscape:cx="36"
      inkscape:cy="36"
-     inkscape:window-x="114"
-     inkscape:window-y="32"
+     inkscape:window-x="172"
+     inkscape:window-y="86"
      inkscape:window-maximized="0"
      inkscape:current-layer="emoji" />
-  <g
-     transform="translate(-8.2930828,0.75407384)"
-     id="g79">
-    <g
-       id="color-9">
-      <path
-         inkscape:connector-curvature="0"
-         fill="#FCEA2B"
-         d="M 36,13 C 23.3177,13 13,23.3177 13,36 13,48.6822 23.3177,59 36,59 48.6822,59 59,48.6822 59,36 59,23.3177 48.6822,13 36,13 Z"
-         id="path41" />
-    </g>
-    <g
-       id="hair-0" />
-    <g
-       id="skin-5" />
-    <g
-       id="skin-shadow-2" />
-    <g
-       id="line-2">
-      <circle
-         cx="36"
-         cy="36"
-         r="23"
-         fill="none"
-         stroke="#000000"
-         stroke-miterlimit="10"
-         stroke-width="2"
-         id="circle47" />
-      <path
-         inkscape:connector-curvature="0"
-         fill="none"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-miterlimit="10"
-         stroke-width="2"
-         d="m 29.5,43 c 1.2841,-0.6376 3.9847,-1.0308 6.8421,-0.9981 2.6235,0.03 4.9897,0.4146 6.1579,0.9981"
-         id="path49" />
-      <line
-         x1="47.5"
-         x2="42.5"
-         y1="29"
-         y2="33"
-         fill="none"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-miterlimit="10"
-         stroke-width="2"
-         id="line51" />
-      <line
-         x1="42.5"
-         x2="47.5"
-         y1="29"
-         y2="33"
-         fill="none"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-miterlimit="10"
-         stroke-width="2"
-         id="line53" />
-      <line
-         x1="29.5"
-         x2="24.5"
-         y1="29"
-         y2="33"
-         fill="none"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-miterlimit="10"
-         stroke-width="2"
-         id="line55" />
-      <line
-         x1="24.5"
-         x2="29.5"
-         y1="29"
-         y2="33"
-         fill="none"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-miterlimit="10"
-         stroke-width="2"
-         id="line57" />
-    </g>
-  </g>
   <g
      id="hair" />
   <g
@@ -144,51 +59,199 @@
   <g
      id="skin-shadow" />
   <g
-     id="g5291"
-     transform="matrix(0.65759705,0,0,0.63491591,23.523083,5.1299501)">
+     transform="matrix(1.1701794,0,0,1.1701794,-4.4289741,-5.1650949)"
+     id="g1185">
     <g
-       transform="translate(8.607647,-6.1798491)"
-       id="color">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5213"
-         d="M 14.8274,18.535 C 14.4913,18.3095 95.0224,7.785 44.7893,57.9791 L 32.69,48.4801 c 0,0 47.7492,-18.5731 -17.8626,-29.9451 z"
-         stroke="none"
-         fill="#fcea2b" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5215"
-         d="m 31.2981,48.3615 3.791,3.1118 C 46.153,46.4821 74.6907,30.8985 34.642,17.6286 24.0006,17.1618 14,18.535 14,18.535 78.0026,29.5837 31.2981,48.3615 31.2981,48.3615 Z"
-         stroke="none"
-         fill="#f1b31c" />
-      <polygon
-         id="polygon5217"
-         points="30.0557,40.4214 35,30.4033 39.9443,40.4214 51,42.0279 43,49.826 44.8885,60.8371 35,55.6384 25.1115,60.8371 27,49.826 19,42.0279 "
-         stroke="none"
-         fill="#fcea2b" />
+       id="g79"
+       transform="matrix(0.59110622,0.40629891,-0.40629891,0.59110622,28.803383,3.3482661)">
+      <g
+         id="color-9">
+        <path
+           id="path41"
+           d="M 36,13 C 23.3177,13 13,23.3177 13,36 13,48.6822 23.3177,59 36,59 48.6822,59 59,48.6822 59,36 59,23.3177 48.6822,13 36,13 Z"
+           fill="#FCEA2B"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="hair-0" />
+      <g
+         id="skin-5" />
+      <g
+         id="skin-shadow-2" />
+      <g
+         id="line-2">
+        <circle
+           id="circle47"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke="#000000"
+           fill="none"
+           r="23"
+           cy="36"
+           cx="36" />
+        <path
+           id="path49"
+           d="m 29.5,43 c 1.2841,-0.6376 3.9847,-1.0308 6.8421,-0.9981 2.6235,0.03 4.9897,0.4146 6.1579,0.9981"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke-linejoin="round"
+           stroke-linecap="round"
+           stroke="#000000"
+           fill="none"
+           inkscape:connector-curvature="0" />
+        <line
+           id="line51"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke-linejoin="round"
+           stroke-linecap="round"
+           stroke="#000000"
+           fill="none"
+           y2="33"
+           y1="29"
+           x2="42.5"
+           x1="47.5" />
+        <line
+           id="line53"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke-linejoin="round"
+           stroke-linecap="round"
+           stroke="#000000"
+           fill="none"
+           y2="33"
+           y1="29"
+           x2="47.5"
+           x1="42.5" />
+        <line
+           id="line55"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke-linejoin="round"
+           stroke-linecap="round"
+           stroke="#000000"
+           fill="none"
+           y2="33"
+           y1="29"
+           x2="24.5"
+           x1="29.5" />
+        <line
+           id="line57"
+           stroke-width="2"
+           stroke-miterlimit="10"
+           stroke-linejoin="round"
+           stroke-linecap="round"
+           stroke="#000000"
+           fill="none"
+           y2="33"
+           y1="29"
+           x2="29.5"
+           x1="24.5" />
+      </g>
     </g>
     <g
-       transform="translate(8.607647,-6.1798491)"
-       id="line">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5223"
-         d="m 48.6648,34.784 c 0.7196,-5.4552 -6.5085,-11.5508 -33.8374,-16.2489 0,0 72.9938,-9.9979 34.8066,33.0676"
-         stroke-width="2"
-         stroke-miterlimit="10"
-         stroke-linejoin="round"
-         stroke-linecap="round"
-         stroke="#000000"
-         fill="none" />
-      <polygon
-         id="polygon5225"
-         points="30.0557,40.4214 35,30.4033 39.9443,40.4214 51,42.0279 44,49.826 45.8885,60.8371 35,55.6384 25.1115,60.8371 27,49.826 19,42.0279 "
-         stroke-width="2"
-         stroke-miterlimit="10"
-         stroke-linejoin="round"
-         stroke-linecap="round"
-         stroke="#000000"
-         fill="none" />
+       id="g1152"
+       transform="translate(-1.2839506,7.6049382)">
+      <g
+         id="g5291"
+         transform="matrix(0.37550162,0.02759078,-0.02663916,0.36255021,29.895998,-0.06613519)">
+        <g
+           transform="translate(8.607647,-6.1798491)"
+           id="color">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5213"
+             d="M 14.8274,18.535 C 14.4913,18.3095 95.0224,7.785 44.7893,57.9791 L 32.69,48.4801 c 0,0 47.7492,-18.5731 -17.8626,-29.9451 z"
+             stroke="none"
+             fill="#fcea2b" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path5215"
+             d="m 31.2981,48.3615 3.791,3.1118 C 46.153,46.4821 74.6907,30.8985 34.642,17.6286 24.0006,17.1618 14,18.535 14,18.535 78.0026,29.5837 31.2981,48.3615 31.2981,48.3615 Z"
+             stroke="none"
+             fill="#f1b31c" />
+          <polygon
+             id="polygon5217"
+             points="51,42.0279 43,49.826 44.8885,60.8371 35,55.6384 25.1115,60.8371 27,49.826 19,42.0279 30.0557,40.4214 35,30.4033 39.9443,40.4214 "
+             stroke="none"
+             fill="#fcea2b" />
+        </g>
+        <g
+           transform="translate(8.607647,-6.1798491)"
+           id="line">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5223"
+             d="m 48.6648,34.784 c 0.7196,-5.4552 -6.5085,-11.5508 -33.8374,-16.2489 0,0 72.9938,-9.9979 34.8066,33.0676"
+             stroke-width="2"
+             stroke-miterlimit="10"
+             stroke-linejoin="round"
+             stroke-linecap="round"
+             stroke="#000000"
+             fill="none" />
+          <polygon
+             id="polygon5225"
+             points="51,42.0279 44,49.826 45.8885,60.8371 35,55.6384 25.1115,60.8371 27,49.826 19,42.0279 30.0557,40.4214 35,30.4033 39.9443,40.4214 "
+             stroke-width="2"
+             stroke-miterlimit="10"
+             stroke-linejoin="round"
+             stroke-linecap="round"
+             stroke="#000000"
+             fill="none" />
+        </g>
+      </g>
+      <g
+         transform="matrix(-0.36768654,-0.08105132,0.07825579,-0.35500469,33.306127,28.019014)"
+         id="g5291-8">
+        <g
+           id="g1429"
+           transform="matrix(0.99704491,-0.07956514,0.07417124,0.99704491,-21.288155,9.1469212)">
+          <g
+             transform="translate(8.607647,-6.1798491)"
+             id="color-3">
+            <path
+               inkscape:connector-curvature="0"
+               id="path5213-0"
+               d="M 14.8274,18.535 C 14.4913,18.3095 95.0224,7.785 44.7893,57.9791 L 32.69,48.4801 c 0,0 47.7492,-18.5731 -17.8626,-29.9451 z"
+               stroke="none"
+               fill="#fcea2b" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5215-6"
+               d="m 31.2981,48.3615 3.791,3.1118 C 46.153,46.4821 74.6907,30.8985 34.642,17.6286 24.0006,17.1618 14,18.535 14,18.535 78.0026,29.5837 31.2981,48.3615 31.2981,48.3615 Z"
+               stroke="none"
+               fill="#f1b31c" />
+            <polygon
+               id="polygon5217-2"
+               points="39.9443,40.4214 51,42.0279 43,49.826 44.8885,60.8371 35,55.6384 25.1115,60.8371 27,49.826 19,42.0279 30.0557,40.4214 35,30.4033 "
+               stroke="none"
+               fill="#fcea2b" />
+          </g>
+          <g
+             transform="translate(8.607647,-6.1798491)"
+             id="line-25">
+            <path
+               inkscape:connector-curvature="0"
+               id="path5223-2"
+               d="m 48.6648,34.784 c 0.7196,-5.4552 -6.5085,-11.5508 -33.8374,-16.2489 0,0 72.9938,-9.9979 34.8066,33.0676"
+               stroke-width="2"
+               stroke-miterlimit="10"
+               stroke-linejoin="round"
+               stroke-linecap="round"
+               stroke="#000000"
+               fill="none" />
+            <polygon
+               id="polygon5225-2"
+               points="39.9443,40.4214 51,42.0279 44,49.826 45.8885,60.8371 35,55.6384 25.1115,60.8371 27,49.826 19,42.0279 30.0557,40.4214 35,30.4033 "
+               stroke-width="2"
+               stroke-miterlimit="10"
+               stroke-linejoin="round"
+               stroke-linecap="round"
+               stroke="#000000"
+               fill="none" />
+          </g>
+        </g>
+      </g>
     </g>
   </g>
 </svg>
