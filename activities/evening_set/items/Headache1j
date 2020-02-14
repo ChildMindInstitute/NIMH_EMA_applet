@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheLight.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheLight.png =150x150)\r\n\r\nHow much does (or did) light bother you?",
+    "question": "\r\n\r\n![new/headacheLight.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheLight.png =150x150)\r\n\r\nHow much does (or did) **light** bother you?",
     "responseOptions": {
         "choices": [
             {

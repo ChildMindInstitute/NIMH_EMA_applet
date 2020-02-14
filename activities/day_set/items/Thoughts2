@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "\r\n\r\n![new/thoughtBalloon.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/thoughtBalloon.png =150x150)\r\n\r\nTo what extent are you having negative thoughts, thinking about unpleasant experiences or things that make you feel bad?",
+    "question": "\r\n\r\n![new/thoughtBalloon.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/thoughtBalloon.png =150x150)\r\n\r\nTo what extent are you having **negative thoughts**, thinking about unpleasant experiences or things that make you feel bad?",
     "responseOptions": {
         "choices": [
             {

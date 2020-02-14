@@ -38,14 +38,6 @@
             "@id": "day_set:Mood1",
             "@type": "@id"
         },
-        "Mood2": {
-            "@id": "day_set:Mood2",
-            "@type": "@id"
-        },
-        "Mood3": {
-            "@id": "day_set:Mood3",
-            "@type": "@id"
-        },
         "Mood4": {
             "@id": "day_set:Mood4",
             "@type": "@id"

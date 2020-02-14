@@ -54,5 +54,5 @@
             }
         ]
     },
-    "question": "\r\n\r\n![new/alcohol.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/alcohol.png =150x150)\r\n\r\nWhat type of alcoholic beverage did you consume?"
+    "question": "\r\n\r\n![new/alcohol.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/alcohol.png =150x150)\r\n\r\nWhat type of **alcoholic beverage** did you consume?"
 }

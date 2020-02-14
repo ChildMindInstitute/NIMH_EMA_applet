@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/lung.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/lung.png =150x150)\r\n\r\nHow much did your asthma or respiratory difficulties bother you today?",
+    "question": "\r\n\r\n![new/lung.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/lung.png =150x150)\r\n\r\nHow much did your **asthma or respiratory difficulties** bother you today?",
     "responseOptions": {
         "choices": [
             {

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheTingle.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheTingle.png =150x150)\r\n\r\nIs (or was) your headache accompanied by any numbing or tingling in certain body areas?",
+    "question": "\r\n\r\n![new/headacheTingle.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheTingle.png =150x150)\r\n\r\nIs (or was) your headache accompanied by any **numbing or tingling** in certain body areas?",
     "responseOptions": {
         "choices": [
             {

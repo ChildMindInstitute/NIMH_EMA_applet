@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "What is the main way you communicated with your friends today?",
+    "question": "What is the **main way** you communicated with your friends today?",
     "responseOptions": {
         "choices": [
             {

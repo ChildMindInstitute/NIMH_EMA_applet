@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How relaxed versus anxious do you feel right now?",
+    "question": "How **relaxed versus anxious** do you feel right now?",
     "responseOptions": {
         "choices": [
             {

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheCurrent.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheCurrent.png =150x150)\r\n\r\nIs this headache still present?",
+    "question": "\r\n\r\n![new/headacheCurrent.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheCurrent.png =150x150)\r\n\r\nIs this headache **still present**?",
     "responseOptions": {
         "choices": [
             {

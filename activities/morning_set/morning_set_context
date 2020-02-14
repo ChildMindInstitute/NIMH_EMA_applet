@@ -98,14 +98,6 @@
             "@id": "morning_set:Mood1",
             "@type": "@id"
         },
-        "Mood2": {
-            "@id": "morning_set:Mood2",
-            "@type": "@id"
-        },
-        "Mood3": {
-            "@id": "morning_set:Mood3",
-            "@type": "@id"
-        },
         "Mood4": {
             "@id": "morning_set:Mood4",
             "@type": "@id"

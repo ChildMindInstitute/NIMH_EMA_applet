@@ -54,5 +54,5 @@
             }
         ]
     },
-    "question": "\r\n\r\n![new/headachePrevent.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headachePrevent.png =150x150)\r\n\r\nSince the last questionnaire, did you do any of the following to prevent a headache?"
+    "question": "\r\n\r\n![new/headachePrevent.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headachePrevent.png =150x150)\r\n\r\nSince the last questionnaire, did you do any of the following to **prevent a headache**?"
 }

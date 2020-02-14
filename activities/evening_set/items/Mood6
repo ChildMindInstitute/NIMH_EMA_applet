@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How tired vs. energetic do you feel right now?",
+    "question": "How **tired vs. energetic** do you feel right now?",
     "responseOptions": {
         "choices": [
             {

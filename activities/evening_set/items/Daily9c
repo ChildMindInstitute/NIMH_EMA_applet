@@ -42,5 +42,5 @@
             }
         ]
     },
-    "question": "\r\n\r\n![new/stomachIntestine.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/stomachIntestine.png =150x150)\r\n\r\nWhich (if any) of the following gastro-intestinal/stomach symptoms did you have today?"
+    "question": "\r\n\r\n![new/stomachIntestine.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/stomachIntestine.png =150x150)\r\n\r\nWhich (if any) of the following **gastro-intestinal/stomach** symptoms did you have today?"
 }

@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How hungry do you feel right now?",
+    "question": "How **hungry** do you feel right now?",
     "responseOptions": {
         "choices": [
             {

@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How much are you able to enjoy and feel pleasure in things?",
+    "question": "How much are you able to **enjoy and feel pleasure** in things?",
     "responseOptions": {
         "choices": [
             {

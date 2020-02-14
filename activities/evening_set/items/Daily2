@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/stress.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/stress.png =150x150)\r\n\r\nWas today a relatively typical day for you in terms of stress?",
+    "question": "\r\n\r\n![new/stress.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/stress.png =150x150)\r\n\r\nWas today a relatively **typical day** for you in terms of **stress**?",
     "responseOptions": {
         "choices": [
             {

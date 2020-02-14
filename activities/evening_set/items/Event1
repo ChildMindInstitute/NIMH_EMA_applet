@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/thoughtBalloon.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/thoughtBalloon.png =150x150)\r\n\r\nWhich of the following categories best describes the area of your life in which the event occurred?",
+    "question": "\r\n\r\n![new/thoughtBalloon.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/thoughtBalloon.png =150x150)\r\n\r\nWhich of the **following categories** best describes the area of your life in which the **event occurred**?",
     "responseOptions": {
         "choices": [
             {

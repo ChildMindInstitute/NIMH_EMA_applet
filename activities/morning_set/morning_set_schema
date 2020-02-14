@@ -109,14 +109,6 @@
             "isAbout": "Mood1"
         },
         {
-            "variableName": "Mood2",
-            "isAbout": "Mood2"
-        },
-        {
-            "variableName": "Mood3",
-            "isAbout": "Mood3"
-        },
-        {
             "variableName": "Mood4",
             "isAbout": "Mood4"
         },
@@ -491,8 +483,6 @@
             "Context6",
             "Context7",
             "Mood1",
-            "Mood2",
-            "Mood3",
             "Mood4",
             "Mood5",
             "Mood6",
@@ -607,8 +597,6 @@
             "Context6": true,
             "Context7": true,
             "Mood1": true,
-            "Mood2": true,
-            "Mood3": true,
             "Mood4": true,
             "Mood5": true,
             "Mood6": true,

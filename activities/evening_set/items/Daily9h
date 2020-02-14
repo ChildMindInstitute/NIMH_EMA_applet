@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/dizzyFaint.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/dizzyFaint.png =150x150)\r\n\r\nDid you actually faint today?",
+    "question": "\r\n\r\n![new/dizzyFaint.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/dizzyFaint.png =150x150)\r\n\r\nDid you actually **faint** today?",
     "responseOptions": {
         "choices": [
             {

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheNoise.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheNoise.png =150x150)\r\n\r\nHow much does (or did) noise such as music, talking, TV, bother you?",
+    "question": "\r\n\r\n![new/headacheNoise.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheNoise.png =150x150)\r\n\r\nHow much does (or did) **noise** such as music, talking, TV, bother you?",
     "responseOptions": {
         "choices": [
             {

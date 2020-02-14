@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheOdor.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheOdor.png =150x150)\r\n\r\nHow much does (or did) certain odors such as perfume, food, smoke, bother you?",
+    "question": "\r\n\r\n![new/headacheOdor.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheOdor.png =150x150)\r\n\r\nHow much does (or did) **certain odors** such as perfume, food, smoke, bother you?",
     "responseOptions": {
         "choices": [
             {

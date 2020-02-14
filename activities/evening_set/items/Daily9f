@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/heartPound.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/heartPound.png =150x150)\r\n\r\nHow much did your heart racing or pounding bother you today?",
+    "question": "\r\n\r\n![new/heartPound.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/heartPound.png =150x150)\r\n\r\nHow much did your **heart racing or pounding** bother you today?",
     "responseOptions": {
         "choices": [
             {

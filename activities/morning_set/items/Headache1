@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headache.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headache.png =150x150)\r\n\r\nHave you experienced a headache since the last questionnaire?",
+    "question": "\r\n\r\n![new/headache.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headache.png =150x150)\r\n\r\nHave you experienced a **headache** since the last questionnaire?",
     "responseOptions": {
         "choices": [
             {

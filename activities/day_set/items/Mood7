@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How well can you concentrate or focus right now?",
+    "question": "How well can you **concentrate or focus** right now?",
     "responseOptions": {
         "choices": [
             {

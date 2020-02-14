@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How guilty do you feel right now?",
+    "question": "How **guilty** do you feel right now?",
     "responseOptions": {
         "choices": [
             {

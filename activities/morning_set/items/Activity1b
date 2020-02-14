@@ -10,20 +10,18 @@
             "autoAdvance"
         ]
     },
-    "question": "Did you actually fall asleep during the nap or rest?",
+    "question": "\r\n\r\n![new/sleepFace.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/sleepFace.png =150x150)\r\n\r\nDid you actually **fall asleep** during the nap or rest?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F4A4.png"
+                "@type": "schema:option"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
+                "@type": "schema:option"
             }
         ]
     }

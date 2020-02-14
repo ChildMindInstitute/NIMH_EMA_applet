@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How stressful was your day overall?",
+    "question": "How **stressful** was your day overall?",
     "responseOptions": {
         "choices": [
             {

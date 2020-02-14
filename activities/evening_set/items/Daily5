@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/prescriptionMeds.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/prescriptionMeds.png =150x150)\r\n\r\nDid you take any prescription medications today?",
+    "question": "\r\n\r\n![new/prescriptionMeds.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/prescriptionMeds.png =150x150)\r\n\r\nDid you take any **prescription medications** today?",
     "responseOptions": {
         "choices": [
             {

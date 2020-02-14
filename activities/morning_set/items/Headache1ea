@@ -90,5 +90,5 @@
             }
         ]
     },
-    "question": "\r\n\r\n![new/headacheTrigger.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheTrigger.png =150x150)\r\n\r\nWhat do you think triggered the headache?"
+    "question": "\r\n\r\n![new/headacheTrigger.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheTrigger.png =150x150)\r\n\r\nWhat do you think **triggered** the headache?"
 }

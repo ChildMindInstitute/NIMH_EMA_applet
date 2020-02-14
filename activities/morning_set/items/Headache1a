@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheSame.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheSame.png =150x150)\r\n\r\nIs this the same headache that you reported in the last questionnaire?",
+    "question": "\r\n\r\n![new/headacheSame.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheSame.png =150x150)\r\n\r\nIs this the **same headache** that you reported in the last questionnaire?",
     "responseOptions": {
         "choices": [
             {

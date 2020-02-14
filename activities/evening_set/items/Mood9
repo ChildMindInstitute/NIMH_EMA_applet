@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "How worried do you feel right now?",
+    "question": "How **worried** do you feel right now?",
     "responseOptions": {
         "choices": [
             {
