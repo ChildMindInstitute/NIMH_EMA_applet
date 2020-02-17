@@ -1,0 +1,70 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "day-problem-categories",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "allergies",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/allergies.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "asthma or respiratory difficulties",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/lung.png"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "gastrointestinal/nausea/vomiting/bowel or stomach problems",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/stomachIntestine.png"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "muscle/joint pain",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/jointPain.png"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "heart racing or pounding",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F493.png"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "headache",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headache.png"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "dizziness/feeling light-headed or faint",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/dizzy.png"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "hit or hurt your head",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F915.png"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "none",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
+            }
+        ]
+    },
+    "question": "Did you have any of the **following problems** today?"
+}

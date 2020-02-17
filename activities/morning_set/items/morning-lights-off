@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "morning-lights-off",
+    "ui": {
+        "inputType": "time"
+    },
+    "question": "\r\n\r\n![new/lampClock.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/lampClock.png =150x150)\r\n\r\nWhat time did you **turn off the lights** (including TV, phone, tablets)?"
+}

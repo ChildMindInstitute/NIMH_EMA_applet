@@ -1,0 +1,43 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "since-had-drink-caffeinated-quantity",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "\r\n\r\n![new/caffeine.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/caffeine.png =150x150)\r\n\r\nHow many 8 oz glasses of **caffeinated drinks** did you consume?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "1 glass",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "2 glasses",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "3 glasses",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "4 glasses",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "5 or more glasses",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

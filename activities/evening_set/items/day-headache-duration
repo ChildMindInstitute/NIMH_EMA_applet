@@ -1,0 +1,138 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "day-headache-duration",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "\r\n\r\n![new/headacheTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheTimer.png =150x150)\r\n\r\nIf you reported a headache present at any questionnaire today, how many **hours did the headache(s) last in total**?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "1 hour",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "2 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "3 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "4 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "5 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "6 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "7 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "8 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "9 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 10,
+                "schema:name": "10 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 11,
+                "schema:name": "11 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 12,
+                "schema:name": "12 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 13,
+                "schema:name": "13 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 14,
+                "schema:name": "14 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 15,
+                "schema:name": "15 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 16,
+                "schema:name": "16 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 17,
+                "schema:name": "17 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 18,
+                "schema:name": "18 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 19,
+                "schema:name": "19 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 20,
+                "schema:name": "20 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 21,
+                "schema:name": "21 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 22,
+                "schema:name": "22 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 23,
+                "schema:name": "23 hours",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 24,
+                "schema:name": "24 or more hours",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

@@ -13,23 +13,23 @@
     "scoringLogic": {},
     "variableMap": [
         {
-            "variableName": "prequestion1",
-            "isAbout": "prequestion1"
+            "variableName": "socialmedia",
+            "isAbout": "socialmedia"
         },
         {
-            "variableName": "prequestion1a",
-            "isAbout": "prequestion1a"
+            "variableName": "socialmedia-type",
+            "isAbout": "socialmedia-type"
         }
     ],
     "ui": {
         "order": [
-            "prequestion1",
-            "prequestion1a"
+            "socialmedia",
+            "socialmedia-type"
         ],
         "shuffle": false,
         "visibility": {
-            "prequestion1": true,
-            "prequestion1a": "prequestion1 == 1"
+            "socialmedia": true,
+            "socialmedia-type": "prequestion1 == 1"
         }
     }
 }

@@ -2,12 +2,12 @@
     "@context": {
         "@version": 1.1,
         "pre_questionnaire": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/activities/pre_questionnaire/items/",
-        "prequestion1": {
-            "@id": "pre_questionnaire:prequestion1",
+        "socialmedia": {
+            "@id": "pre_questionnaire:socialmedia",
             "@type": "@id"
         },
-        "prequestion1a": {
-            "@id": "pre_questionnaire:prequestion1a",
+        "socialmedia-type": {
+            "@id": "pre_questionnaire:socialmedia-type",
             "@type": "@id"
         }
     }

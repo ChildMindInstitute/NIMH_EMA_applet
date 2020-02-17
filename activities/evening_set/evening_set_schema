@@ -13,492 +13,496 @@
     "scoringLogic": {},
     "variableMap": [
         {
-            "variableName": "Context1",
-            "isAbout": "Context1"
+            "variableName": "since-activity-monitor",
+            "isAbout": "since-activity-monitor"
         },
         {
-            "variableName": "Context1a",
-            "isAbout": "Context1a"
+            "variableName": "since-activity-monitor-time",
+            "isAbout": "since-activity-monitor-time"
         },
         {
-            "variableName": "Context2",
-            "isAbout": "Context2"
+            "variableName": "now-where",
+            "isAbout": "now-where"
         },
         {
-            "variableName": "Context3",
-            "isAbout": "Context3"
+            "variableName": "since-where",
+            "isAbout": "since-where"
         },
         {
-            "variableName": "Context4",
-            "isAbout": "Context4"
+            "variableName": "now-company",
+            "isAbout": "now-company"
         },
         {
-            "variableName": "Context5",
-            "isAbout": "Context5"
+            "variableName": "since-company",
+            "isAbout": "since-company"
         },
         {
-            "variableName": "Context6",
-            "isAbout": "Context6"
+            "variableName": "now-activity",
+            "isAbout": "now-activity"
         },
         {
-            "variableName": "Context7",
-            "isAbout": "Context7"
+            "variableName": "since-activity",
+            "isAbout": "since-activity"
         },
         {
-            "variableName": "Mood1",
-            "isAbout": "Mood1"
+            "variableName": "now-sadness",
+            "isAbout": "now-sadness"
         },
         {
-            "variableName": "Mood4",
-            "isAbout": "Mood4"
+            "variableName": "now-anxiousness",
+            "isAbout": "now-anxiousness"
         },
         {
-            "variableName": "Mood5",
-            "isAbout": "Mood5"
+            "variableName": "now-excited",
+            "isAbout": "now-excited"
         },
         {
-            "variableName": "Mood6",
-            "isAbout": "Mood6"
+            "variableName": "now-energy",
+            "isAbout": "now-energy"
         },
         {
-            "variableName": "Mood7",
-            "isAbout": "Mood7"
+            "variableName": "now-distracted",
+            "isAbout": "now-distracted"
         },
         {
-            "variableName": "Mood8",
-            "isAbout": "Mood8"
+            "variableName": "now-irritable",
+            "isAbout": "now-irritable"
         },
         {
-            "variableName": "Mood9",
-            "isAbout": "Mood9"
+            "variableName": "now-worried",
+            "isAbout": "now-worried"
         },
         {
-            "variableName": "Mood10",
-            "isAbout": "Mood10"
+            "variableName": "now-guilty",
+            "isAbout": "now-guilty"
         },
         {
-            "variableName": "Mood11",
-            "isAbout": "Mood11"
+            "variableName": "now-decisions",
+            "isAbout": "now-decisions"
         },
         {
-            "variableName": "Mood12",
-            "isAbout": "Mood12"
+            "variableName": "now-quick-thinking",
+            "isAbout": "now-quick-thinking"
         },
         {
-            "variableName": "Mood13",
-            "isAbout": "Mood13"
+            "variableName": "now-enjoyment",
+            "isAbout": "now-enjoyment"
         },
         {
-            "variableName": "Mood14",
-            "isAbout": "Mood14"
+            "variableName": "now-fidgety",
+            "isAbout": "now-fidgety"
         },
         {
-            "variableName": "Mood15",
-            "isAbout": "Mood15"
+            "variableName": "now-hungry",
+            "isAbout": "now-hungry"
         },
         {
-            "variableName": "Mood16",
-            "isAbout": "Mood16"
+            "variableName": "now-sleepy",
+            "isAbout": "now-sleepy"
         },
         {
-            "variableName": "Thoughts1",
-            "isAbout": "Thoughts1"
+            "variableName": "now-thoughts-positive",
+            "isAbout": "now-thoughts-positive"
         },
         {
-            "variableName": "Thoughts2",
-            "isAbout": "Thoughts2"
+            "variableName": "now-thoughts-negative",
+            "isAbout": "now-thoughts-negative"
         },
         {
-            "variableName": "Thoughts2a",
-            "isAbout": "Thoughts2a"
+            "variableName": "now-thoughts-negative-about",
+            "isAbout": "now-thoughts-negative-about"
         },
         {
-            "variableName": "Thoughts2b",
-            "isAbout": "Thoughts2b"
+            "variableName": "now-thoughts-negative-severity",
+            "isAbout": "now-thoughts-negative-severity"
         },
         {
-            "variableName": "Activity1",
-            "isAbout": "Activity1"
+            "variableName": "since-rest",
+            "isAbout": "since-rest"
         },
         {
-            "variableName": "Activity1a",
-            "isAbout": "Activity1a"
+            "variableName": "since-rest-duration",
+            "isAbout": "since-rest-duration"
         },
         {
-            "variableName": "Activity1b",
-            "isAbout": "Activity1b"
+            "variableName": "since-rest-fell-asleep",
+            "isAbout": "since-rest-fell-asleep"
         },
         {
-            "variableName": "Activity2",
-            "isAbout": "Activity2"
+            "variableName": "since-physical-activity",
+            "isAbout": "since-physical-activity"
         },
         {
-            "variableName": "Activity2a",
-            "isAbout": "Activity2a"
+            "variableName": "since-vigorous-activity",
+            "isAbout": "since-vigorous-activity"
         },
         {
-            "variableName": "Activity2b",
-            "isAbout": "Activity2b"
+            "variableName": "since-vigorous-activity-planned",
+            "isAbout": "since-vigorous-activity-planned"
         },
         {
-            "variableName": "Activity2c",
-            "isAbout": "Activity2c"
+            "variableName": "since-moderate-activity",
+            "isAbout": "since-moderate-activity"
         },
         {
-            "variableName": "Activity2d",
-            "isAbout": "Activity2d"
+            "variableName": "since-moderate-activity-planned",
+            "isAbout": "since-moderate-activity-planned"
         },
         {
-            "variableName": "Activity2e",
-            "isAbout": "Activity2e"
+            "variableName": "since-light-activity",
+            "isAbout": "since-light-activity"
         },
         {
-            "variableName": "Activity2f",
-            "isAbout": "Activity2f"
+            "variableName": "since-light-activity-planned",
+            "isAbout": "since-light-activity-planned"
         },
         {
-            "variableName": "Intake1",
-            "isAbout": "Intake1"
+            "variableName": "since-had-drink",
+            "isAbout": "since-had-drink"
         },
         {
-            "variableName": "Intake1a",
-            "isAbout": "Intake1a"
+            "variableName": "since-had-drink-water-quantity",
+            "isAbout": "since-had-drink-water-quantity"
         },
         {
-            "variableName": "Intake1b",
-            "isAbout": "Intake1b"
+            "variableName": "since-had-drink-milk-quantity",
+            "isAbout": "since-had-drink-milk-quantity"
         },
         {
-            "variableName": "Intake1c",
-            "isAbout": "Intake1c"
+            "variableName": "since-had-drink-caffeinated-type",
+            "isAbout": "since-had-drink-caffeinated-type"
         },
         {
-            "variableName": "Intake1d",
-            "isAbout": "Intake1d"
+            "variableName": "since-had-drink-caffeinated-quantity",
+            "isAbout": "since-had-drink-caffeinated-quantity"
         },
         {
-            "variableName": "Intake1e",
-            "isAbout": "Intake1e"
+            "variableName": "since-had-drink-alcohol-type",
+            "isAbout": "since-had-drink-alcohol-type"
         },
         {
-            "variableName": "Intake1f",
-            "isAbout": "Intake1f"
+            "variableName": "since-had-drink-alcohol-quantity",
+            "isAbout": "since-had-drink-alcohol-quantity"
         },
         {
-            "variableName": "Intake1g",
-            "isAbout": "Intake1g"
+            "variableName": "since-had-drink-sugar-quantity",
+            "isAbout": "since-had-drink-sugar-quantity"
         },
         {
-            "variableName": "Intake2",
-            "isAbout": "Intake2"
+            "variableName": "since-eaten-amount",
+            "isAbout": "since-eaten-amount"
         },
         {
-            "variableName": "Intake2a",
-            "isAbout": "Intake2a"
+            "variableName": "since-eaten-snacks-quantity",
+            "isAbout": "since-eaten-snacks-quantity"
         },
         {
-            "variableName": "Intake2b",
-            "isAbout": "Intake2b"
+            "variableName": "since-eaten-small-meal-quantity",
+            "isAbout": "since-eaten-small-meal-quantity"
         },
         {
-            "variableName": "Intake2c",
-            "isAbout": "Intake2c"
+            "variableName": "since-eaten-regular-meal-quantity",
+            "isAbout": "since-eaten-regular-meal-quantity"
         },
         {
-            "variableName": "Intake2d",
-            "isAbout": "Intake2d"
+            "variableName": "since-eaten-large-meal-quantity",
+            "isAbout": "since-eaten-large-meal-quantity"
         },
         {
-            "variableName": "Intake2e",
-            "isAbout": "Intake2e"
+            "variableName": "since-eaten-when",
+            "isAbout": "since-eaten-when"
         },
         {
-            "variableName": "Intake2f",
-            "isAbout": "Intake2f"
+            "variableName": "since-eaten-duration",
+            "isAbout": "since-eaten-duration"
         },
         {
-            "variableName": "Intake2g",
-            "isAbout": "Intake2g"
+            "variableName": "since-eaten-type",
+            "isAbout": "since-eaten-type"
         },
         {
-            "variableName": "Intake2ga",
-            "isAbout": "Intake2ga"
+            "variableName": "since-eaten-chocolate",
+            "isAbout": "since-eaten-chocolate"
         },
         {
-            "variableName": "Intake3",
-            "isAbout": "Intake3"
+            "variableName": "since-substances",
+            "isAbout": "since-substances"
         },
         {
-            "variableName": "Intake3a",
-            "isAbout": "Intake3a"
+            "variableName": "since-substances-cigarettes",
+            "isAbout": "since-substances-cigarettes"
         },
         {
-            "variableName": "Intake3b",
-            "isAbout": "Intake3b"
+            "variableName": "since-substances-cannabis",
+            "isAbout": "since-substances-cannabis"
         },
         {
-            "variableName": "Intake3c",
-            "isAbout": "Intake3c"
+            "variableName": "since-substances-other",
+            "isAbout": "since-substances-other"
         },
         {
-            "variableName": "Event0",
-            "isAbout": "Event0"
+            "variableName": "event-instructions",
+            "isAbout": "event-instructions"
         },
         {
-            "variableName": "Event1",
-            "isAbout": "Event1"
+            "variableName": "event-category",
+            "isAbout": "event-category"
         },
         {
-            "variableName": "Event2",
-            "isAbout": "Event2"
+            "variableName": "event-impact-positive",
+            "isAbout": "event-impact-positive"
         },
         {
-            "variableName": "Event3",
-            "isAbout": "Event3"
+            "variableName": "event-impact-negative",
+            "isAbout": "event-impact-negative"
         },
         {
-            "variableName": "Event4",
-            "isAbout": "Event4"
+            "variableName": "event-other",
+            "isAbout": "event-other"
         },
         {
-            "variableName": "Event4a",
-            "isAbout": "Event4a"
+            "variableName": "event-other-impact-positive",
+            "isAbout": "event-other-impact-positive"
         },
         {
-            "variableName": "Event4b",
-            "isAbout": "Event4b"
+            "variableName": "event-other-impact-negative",
+            "isAbout": "event-other-impact-negative"
         },
         {
-            "variableName": "Pain1",
-            "isAbout": "Pain1"
+            "variableName": "now-pain",
+            "isAbout": "now-pain"
         },
         {
-            "variableName": "Pain1a",
-            "isAbout": "Pain1a"
+            "variableName": "now-pain-where",
+            "isAbout": "now-pain-where"
         },
         {
-            "variableName": "Pain1b",
-            "isAbout": "Pain1b"
+            "variableName": "now-pain-level",
+            "isAbout": "now-pain-level"
         },
         {
-            "variableName": "Pain2",
-            "isAbout": "Pain2"
+            "variableName": "since-pain",
+            "isAbout": "since-pain"
         },
         {
-            "variableName": "Pain2a",
-            "isAbout": "Pain2a"
+            "variableName": "since-pain-where",
+            "isAbout": "since-pain-where"
         },
         {
-            "variableName": "Pain2b",
-            "isAbout": "Pain2b"
+            "variableName": "since-pain-level",
+            "isAbout": "since-pain-level"
         },
         {
-            "variableName": "Headache1",
-            "isAbout": "Headache1"
+            "variableName": "headache",
+            "isAbout": "headache"
         },
         {
-            "variableName": "Headache1a",
-            "isAbout": "Headache1a"
+            "variableName": "headache-same",
+            "isAbout": "headache-same"
         },
         {
-            "variableName": "Headache2",
-            "isAbout": "Headache2"
+            "variableName": "headache-prevent",
+            "isAbout": "headache-prevent"
         },
         {
-            "variableName": "Headache1aa",
-            "isAbout": "Headache1aa"
+            "variableName": "headache-start",
+            "isAbout": "headache-start"
         },
         {
-            "variableName": "Headache1b",
-            "isAbout": "Headache1b"
+            "variableName": "headache-current",
+            "isAbout": "headache-current"
         },
         {
-            "variableName": "Headache1ba",
-            "isAbout": "Headache1ba"
+            "variableName": "headache-end",
+            "isAbout": "headache-end"
         },
         {
-            "variableName": "Headache1c",
-            "isAbout": "Headache1c"
+            "variableName": "headache-intensity",
+            "isAbout": "headache-intensity"
         },
         {
-            "variableName": "Headache1d",
-            "isAbout": "Headache1d"
+            "variableName": "headache-sudden",
+            "isAbout": "headache-sudden"
         },
         {
-            "variableName": "Headache1e",
-            "isAbout": "Headache1e"
+            "variableName": "headache-trigger",
+            "isAbout": "headache-trigger"
         },
         {
-            "variableName": "Headache1ea",
-            "isAbout": "Headache1ea"
+            "variableName": "headache-trigger-category",
+            "isAbout": "headache-trigger-category"
         },
         {
-            "variableName": "Headache1f",
-            "isAbout": "Headache1f"
+            "variableName": "headache-location",
+            "isAbout": "headache-location"
         },
         {
-            "variableName": "Headache1g",
-            "isAbout": "Headache1g"
+            "variableName": "headache-pulsating",
+            "isAbout": "headache-pulsating"
         },
         {
-            "variableName": "Headache1h",
-            "isAbout": "Headache1h"
+            "variableName": "headache-effort",
+            "isAbout": "headache-effort"
         },
         {
-            "variableName": "Headache1i",
-            "isAbout": "Headache1i"
+            "variableName": "headache-nausea",
+            "isAbout": "headache-nausea"
         },
         {
-            "variableName": "Headache1j",
-            "isAbout": "Headache1j"
+            "variableName": "headache-light",
+            "isAbout": "headache-light"
         },
         {
-            "variableName": "Headache1k",
-            "isAbout": "Headache1k"
+            "variableName": "headache-noise",
+            "isAbout": "headache-noise"
         },
         {
-            "variableName": "Headache1l",
-            "isAbout": "Headache1l"
+            "variableName": "headache-smell",
+            "isAbout": "headache-smell"
         },
         {
-            "variableName": "Headache1m",
-            "isAbout": "Headache1m"
+            "variableName": "headache-vision-changes",
+            "isAbout": "headache-vision-changes"
         },
         {
-            "variableName": "Headache1ma",
-            "isAbout": "Headache1ma"
+            "variableName": "headache-vision-change-time",
+            "isAbout": "headache-vision-change-time"
         },
         {
-            "variableName": "Headache1n",
-            "isAbout": "Headache1n"
+            "variableName": "headache-numbing",
+            "isAbout": "headache-numbing"
         },
         {
-            "variableName": "Headache1na",
-            "isAbout": "Headache1na"
+            "variableName": "headache-numbing-time",
+            "isAbout": "headache-numbing-time"
         },
         {
-            "variableName": "Headache1o",
-            "isAbout": "Headache1o"
+            "variableName": "headache-confusing",
+            "isAbout": "headache-confusing"
         },
         {
-            "variableName": "Headache1oa",
-            "isAbout": "Headache1oa"
+            "variableName": "headache-confusing-time",
+            "isAbout": "headache-confusing-time"
         },
         {
-            "variableName": "Headache1p",
-            "isAbout": "Headache1p"
+            "variableName": "headache-medication",
+            "isAbout": "headache-medication"
         },
         {
-            "variableName": "Headache1q",
-            "isAbout": "Headache1q"
+            "variableName": "headache-interference",
+            "isAbout": "headache-interference"
         },
         {
-            "variableName": "Daily1",
-            "isAbout": "Daily1"
+            "variableName": "day-instructions",
+            "isAbout": "day-instructions"
         },
         {
-            "variableName": "Daily1a",
-            "isAbout": "Daily1a"
+            "variableName": "day-stress",
+            "isAbout": "day-stress"
         },
         {
-            "variableName": "Daily2",
-            "isAbout": "Daily2"
+            "variableName": "day-stress-category",
+            "isAbout": "day-stress-category"
         },
         {
-            "variableName": "Daily2.5",
-            "isAbout": "Daily2.5"
+            "variableName": "day-stress-typical",
+            "isAbout": "day-stress-typical"
         },
         {
-            "variableName": "Daily3",
-            "isAbout": "Daily3"
+            "variableName": "day-routine-typical",
+            "isAbout": "day-routine-typical"
         },
         {
-            "variableName": "Daily4",
-            "isAbout": "Daily4"
+            "variableName": "day-phyiscal-health",
+            "isAbout": "day-phyiscal-health"
         },
         {
-            "variableName": "Daily4a",
-            "isAbout": "Daily4a"
+            "variableName": "day-cold-cough-flu",
+            "isAbout": "day-cold-cough-flu"
         },
         {
-            "variableName": "Daily5",
-            "isAbout": "Daily5"
+            "variableName": "day-problem-categories",
+            "isAbout": "day-problem-categories"
         },
         {
-            "variableName": "Daily5a",
-            "isAbout": "Daily5a"
+            "variableName": "day-problems-allergies",
+            "isAbout": "day-problems-allergies"
         },
         {
-            "variableName": "Daily6",
-            "isAbout": "Daily6"
+            "variableName": "day-problems-breath",
+            "isAbout": "day-problems-breath"
         },
         {
-            "variableName": "Daily7",
-            "isAbout": "Daily7"
+            "variableName": "day-problems-belly-symptoms",
+            "isAbout": "day-problems-belly-symptoms"
         },
         {
-            "variableName": "Daily8",
-            "isAbout": "Daily8"
+            "variableName": "day-problems-belly",
+            "isAbout": "day-problems-belly"
         },
         {
-            "variableName": "Daily9",
-            "isAbout": "Daily9"
+            "variableName": "day-problems-muscle",
+            "isAbout": "day-problems-muscle"
         },
         {
-            "variableName": "Daily9a",
-            "isAbout": "Daily9a"
+            "variableName": "day-problems-heart",
+            "isAbout": "day-problems-heart"
         },
         {
-            "variableName": "Daily9b",
-            "isAbout": "Daily9b"
+            "variableName": "diziness-situation",
+            "isAbout": "diziness-situation"
         },
         {
-            "variableName": "Daily9c",
-            "isAbout": "Daily9c"
+            "variableName": "diziness-faint",
+            "isAbout": "diziness-faint"
         },
         {
-            "variableName": "Daily9d",
-            "isAbout": "Daily9d"
+            "variableName": "day-over-medication",
+            "isAbout": "day-over-medication"
         },
         {
-            "variableName": "Daily9e",
-            "isAbout": "Daily9e"
+            "variableName": "day-over-medication-why",
+            "isAbout": "day-over-medication-why"
         },
         {
-            "variableName": "Daily9f",
-            "isAbout": "Daily9f"
+            "variableName": "day-prescribed-medication",
+            "isAbout": "day-prescribed-medication"
         },
         {
-            "variableName": "Daily9g",
-            "isAbout": "Daily9g"
+            "variableName": "day-prescribed-medication-conditions",
+            "isAbout": "day-prescribed-medication-conditions"
         },
         {
-            "variableName": "Daily9h",
-            "isAbout": "Daily9h"
+            "variableName": "day-period",
+            "isAbout": "day-period"
         },
         {
-            "variableName": "Daily9i",
-            "isAbout": "Daily9i"
+            "variableName": "day-lethargic",
+            "isAbout": "day-lethargic"
         },
         {
-            "variableName": "Internet_ev1",
-            "isAbout": "Internet_ev1"
+            "variableName": "day-headache-duration",
+            "isAbout": "day-headache-duration"
         },
         {
-            "variableName": "Internet_ev1a",
-            "isAbout": "Internet_ev1a"
+            "variableName": "internet-use-duration",
+            "isAbout": "internet-use-duration"
         },
         {
-            "variableName": "Internet_ev1b",
-            "isAbout": "Internet_ev1b"
+            "variableName": "internet-use-category",
+            "isAbout": "internet-use-category"
         },
         {
-            "variableName": "Internet_ev2",
-            "isAbout": "Internet_ev2"
+            "variableName": "internet-use-location",
+            "isAbout": "internet-use-location"
         },
         {
-            "variableName": "Internet_ev3",
-            "isAbout": "Internet_ev3"
+            "variableName": "friends-communication-method",
+            "isAbout": "friends-communication-method"
+        },
+        {
+            "variableName": "socialmedia-duration",
+            "isAbout": "socialmedia-duration"
         },
         {
             "variableName": "FinalScreen",
@@ -507,254 +511,256 @@
     ],
     "ui": {
         "order": [
-            "Context1",
-            "Context1a",
-            "Context2",
-            "Context3",
-            "Context4",
-            "Context5",
-            "Context6",
-            "Context7",
-            "Mood1",
-            "Mood4",
-            "Mood5",
-            "Mood6",
-            "Mood7",
-            "Mood8",
-            "Mood9",
-            "Mood10",
-            "Mood11",
-            "Mood12",
-            "Mood13",
-            "Mood14",
-            "Mood15",
-            "Mood16",
-            "Thoughts1",
-            "Thoughts2",
-            "Thoughts2a",
-            "Thoughts2b",
-            "Activity1",
-            "Activity1a",
-            "Activity1b",
-            "Activity2",
-            "Activity2a",
-            "Activity2b",
-            "Activity2c",
-            "Activity2d",
-            "Activity2e",
-            "Activity2f",
-            "Intake1",
-            "Intake1a",
-            "Intake1b",
-            "Intake1c",
-            "Intake1d",
-            "Intake1e",
-            "Intake1f",
-            "Intake1g",
-            "Intake2",
-            "Intake2a",
-            "Intake2b",
-            "Intake2c",
-            "Intake2d",
-            "Intake2e",
-            "Intake2f",
-            "Intake2g",
-            "Intake2ga",
-            "Intake3",
-            "Intake3a",
-            "Intake3b",
-            "Intake3c",
-            "Event0",
-            "Event1",
-            "Event2",
-            "Event3",
-            "Event4",
-            "Event4a",
-            "Event4b",
-            "Pain1",
-            "Pain1a",
-            "Pain1b",
-            "Pain2",
-            "Pain2a",
-            "Pain2b",
-            "Headache1",
-            "Headache1a",
-            "Headache2",
-            "Headache1aa",
-            "Headache1b",
-            "Headache1ba",
-            "Headache1c",
-            "Headache1d",
-            "Headache1e",
-            "Headache1ea",
-            "Headache1f",
-            "Headache1g",
-            "Headache1h",
-            "Headache1i",
-            "Headache1j",
-            "Headache1k",
-            "Headache1l",
-            "Headache1m",
-            "Headache1ma",
-            "Headache1n",
-            "Headache1na",
-            "Headache1o",
-            "Headache1oa",
-            "Headache1p",
-            "Headache1q",
-            "Daily1",
-            "Daily1a",
-            "Daily2",
-            "Daily2.5",
-            "Daily3",
-            "Daily4",
-            "Daily4a",
-            "Daily5",
-            "Daily5a",
-            "Daily6",
-            "Daily7",
-            "Daily8",
-            "Daily9",
-            "Daily9a",
-            "Daily9b",
-            "Daily9c",
-            "Daily9d",
-            "Daily9e",
-            "Daily9f",
-            "Daily9g",
-            "Daily9h",
-            "Daily9i",
-            "Internet_ev1",
-            "Internet_ev1a",
-            "Internet_ev1b",
-            "Internet_ev2",
-            "Internet_ev3",
+            "since-activity-monitor",
+            "since-activity-monitor-time",
+            "now-where",
+            "since-where",
+            "now-company",
+            "since-company",
+            "now-activity",
+            "since-activity",
+            "now-sadness",
+            "now-anxiousness",
+            "now-excited",
+            "now-energy",
+            "now-distracted",
+            "now-irritable",
+            "now-worried",
+            "now-guilty",
+            "now-decisions",
+            "now-quick-thinking",
+            "now-enjoyment",
+            "now-fidgety",
+            "now-hungry",
+            "now-sleepy",
+            "now-thoughts-positive",
+            "now-thoughts-negative",
+            "now-thoughts-negative-about",
+            "now-thoughts-negative-severity",
+            "since-rest",
+            "since-rest-duration",
+            "since-rest-fell-asleep",
+            "since-physical-activity",
+            "since-vigorous-activity",
+            "since-vigorous-activity-planned",
+            "since-moderate-activity",
+            "since-moderate-activity-planned",
+            "since-light-activity",
+            "since-light-activity-planned",
+            "since-had-drink",
+            "since-had-drink-water-quantity",
+            "since-had-drink-milk-quantity",
+            "since-had-drink-caffeinated-type",
+            "since-had-drink-caffeinated-quantity",
+            "since-had-drink-alcohol-type",
+            "since-had-drink-alcohol-quantity",
+            "since-had-drink-sugar-quantity",
+            "since-eaten-amount",
+            "since-eaten-snacks-quantity",
+            "since-eaten-small-meal-quantity",
+            "since-eaten-regular-meal-quantity",
+            "since-eaten-large-meal-quantity",
+            "since-eaten-when",
+            "since-eaten-duration",
+            "since-eaten-type",
+            "since-eaten-chocolate",
+            "since-substances",
+            "since-substances-cigarettes",
+            "since-substances-cannabis",
+            "since-substances-other",
+            "event-instructions",
+            "event-category",
+            "event-impact-positive",
+            "event-impact-negative",
+            "event-other",
+            "event-other-impact-positive",
+            "event-other-impact-negative",
+            "now-pain",
+            "now-pain-where",
+            "now-pain-level",
+            "since-pain",
+            "since-pain-where",
+            "since-pain-level",
+            "headache",
+            "headache-same",
+            "headache-prevent",
+            "headache-start",
+            "headache-current",
+            "headache-end",
+            "headache-intensity",
+            "headache-sudden",
+            "headache-trigger",
+            "headache-trigger-category",
+            "headache-location",
+            "headache-pulsating",
+            "headache-effort",
+            "headache-nausea",
+            "headache-light",
+            "headache-noise",
+            "headache-smell",
+            "headache-vision-changes",
+            "headache-vision-change-time",
+            "headache-numbing",
+            "headache-numbing-time",
+            "headache-confusing",
+            "headache-confusing-time",
+            "headache-medication",
+            "headache-interference",
+            "day-instructions",
+            "day-stress",
+            "day-stress-category",
+            "day-stress-typical",
+            "day-routine-typical",
+            "day-phyiscal-health",
+            "day-cold-cough-flu",
+            "day-problem-categories",
+            "day-problems-allergies",
+            "day-problems-breath",
+            "day-problems-belly-symptoms",
+            "day-problems-belly",
+            "day-problems-muscle",
+            "day-problems-heart",
+            "diziness-situation",
+            "diziness-faint",
+            "day-over-medication",
+            "day-over-medication-why",
+            "day-prescribed-medication",
+            "day-prescribed-medication-conditions",
+            "day-period",
+            "day-lethargic",
+            "day-headache-duration",
+            "internet-use-duration",
+            "internet-use-category",
+            "internet-use-location",
+            "friends-communication-method",
+            "socialmedia-duration",
             "FinalScreen"
         ],
         "shuffle": false,
         "visibility": {
-            "Context1": true,
-            "Context1a": "Context1 == 1",
-            "Context2": true,
-            "Context3": true,
-            "Context4": true,
-            "Context5": true,
-            "Context6": true,
-            "Context7": true,
-            "Mood1": true,
-            "Mood4": true,
-            "Mood5": true,
-            "Mood6": true,
-            "Mood7": true,
-            "Mood8": true,
-            "Mood9": true,
-            "Mood10": true,
-            "Mood11": true,
-            "Mood12": true,
-            "Mood13": true,
-            "Mood14": true,
-            "Mood15": true,
-            "Mood16": true,
-            "Thoughts1": true,
-            "Thoughts2": true,
-            "Thoughts2a": "Thoughts2 > 1",
-            "Thoughts2b": "Thoughts2 > 1",
-            "Activity1": true,
-            "Activity1a": "Activity1 == 1",
-            "Activity1b": "Activity1 == 1",
-            "Activity2": true,
-            "Activity2a": "Activity2.includes(1)",
-            "Activity2b": "Activity2.includes(1)",
-            "Activity2c": "Activity2.includes(2)",
-            "Activity2d": "Activity2.includes(2)",
-            "Activity2e": "Activity2.includes(3)",
-            "Activity2f": "Activity2.includes(3)",
-            "Intake1": true,
-            "Intake1a": "Intake1.includes(1)",
-            "Intake1b": "Intake1.includes(2)",
-            "Intake1c": "Intake1.includes(3)",
-            "Intake1d": "Intake1.includes(4)",
-            "Intake1e": "Intake1.includes(4)",
-            "Intake1f": "Intake1.includes(4)",
-            "Intake1g": "Intake1.includes(5)",
-            "Intake2": true,
-            "Intake2a": "Intake2.includes(1)",
-            "Intake2b": "Intake2.includes(2)",
-            "Intake2c": "Intake2.includes(3)",
-            "Intake2d": "Intake2.includes(4)",
-            "Intake2e": "Intake2.includes(1) || Intake2.includes(2) || Intake2.includes(3) || Intake2.includes(4)",
-            "Intake2f": "Intake2.includes(1) || Intake2.includes(2) || Intake2.includes(3) || Intake2.includes(4)",
-            "Intake2g": "Intake2.includes(1) || Intake2.includes(2) || Intake2.includes(3) || Intake2.includes(4)",
-            "Intake2ga": "Intake2g.includes(9)",
-            "Intake3": true,
-            "Intake3a": "Intake3.includes(1)",
-            "Intake3b": "Intake3.includes(2)",
-            "Intake3c": "Intake3.includes(3)",
-            "Event0": true,
-            "Event1": true,
-            "Event2": true,
-            "Event3": true,
-            "Event4": true,
-            "Event4a": "Event4 == 1",
-            "Event4b": "Event4 == 1",
-            "Pain1": true,
-            "Pain1a": "Pain1 == 1",
-            "Pain1b": "Pain1 == 1",
-            "Pain2": true,
-            "Pain2a": "Pain2 == 1",
-            "Pain2b": "Pain2 == 1",
-            "Headache1": true,
-            "Headache1a": "Headache1 == 1",
-            "Headache2": true,
-            "Headache1aa": "Headache1a == 1",
-            "Headache1b": "Headache1 == 2",
-            "Headache1ba": "Headache1b == 1",
-            "Headache1c": "Headache1 == 2",
-            "Headache1d": "Headache1 == 2",
-            "Headache1e": "Headache1 == 2",
-            "Headache1ea": "Headache1 == 2",
-            "Headache1f": "Headache1 == 2",
-            "Headache1g": "Headache1 == 2",
-            "Headache1h": "Headache1 == 2",
-            "Headache1i": "Headache1 == 2",
-            "Headache1j": "Headache1 == 2",
-            "Headache1k": "Headache1 == 2",
-            "Headache1l": "Headache1 == 2",
-            "Headache1m": "Headache1 == 2",
-            "Headache1ma": "Headache1m.includes(2) || Headache1m.includes(3) || Headache1m.includes(4)",
-            "Headache1n": "Headache1 == 2",
-            "Headache1na": "Headache1n == 1",
-            "Headache1o": "Headache1 == 2",
-            "Headache1oa": "Headache1o == 1",
-            "Headache1p": "Headache1 == 2",
-            "Headache1q": "Headache1 == 2",
-            "Daily1": true,
-            "Daily1a": "Daily1 > 1",
-            "Daily2": true,
-            "Daily2.5": true,
-            "Daily3": true,
-            "Daily4": true,
-            "Daily4a": "Daily4 == 1",
-            "Daily5": true,
-            "Daily5a": "Daily5 == 1",
-            "Daily6": true,
-            "Daily7": true,
-            "Daily8": true,
-            "Daily9": true,
-            "Daily9a": "Daily9.includes(1)",
-            "Daily9b": "Daily9.includes(2)",
-            "Daily9c": "Daily9.includes(3)",
-            "Daily9d": "Daily9.includes(3)",
-            "Daily9e": "Daily9.includes(4)",
-            "Daily9f": "Daily9.includes(5)",
-            "Daily9g": "Daily9.includes(7)",
-            "Daily9h": "Daily9.includes(7)",
-            "Daily9i": "Daily9.includes(6)",
-            "Internet_ev1": true,
-            "Internet_ev1a": "Internet_ev1 !== 1",
-            "Internet_ev1b": "Internet_ev1 !== 1",
-            "Internet_ev2": true,
-            "Internet_ev3": true,
+            "since-activity-monitor": true,
+            "since-activity-monitor-time": "Context1 == 1",
+            "now-where": true,
+            "since-where": true,
+            "now-company": true,
+            "since-company": true,
+            "now-activity": true,
+            "since-activity": true,
+            "now-sadness": true,
+            "now-anxiousness": true,
+            "now-excited": true,
+            "now-energy": true,
+            "now-distracted": true,
+            "now-irritable": true,
+            "now-worried": true,
+            "now-guilty": true,
+            "now-decisions": true,
+            "now-quick-thinking": true,
+            "now-enjoyment": true,
+            "now-fidgety": true,
+            "now-hungry": true,
+            "now-sleepy": true,
+            "now-thoughts-positive": true,
+            "now-thoughts-negative": true,
+            "now-thoughts-negative-about": "Thoughts2 > 1",
+            "now-thoughts-negative-severity": "Thoughts2 > 1",
+            "since-rest": true,
+            "since-rest-duration": "Activity1 == 1",
+            "since-rest-fell-asleep": "Activity1 == 1",
+            "since-physical-activity": true,
+            "since-vigorous-activity": "Activity2.includes(1)",
+            "since-vigorous-activity-planned": "Activity2.includes(1)",
+            "since-moderate-activity": "Activity2.includes(2)",
+            "since-moderate-activity-planned": "Activity2.includes(2)",
+            "since-light-activity": "Activity2.includes(3)",
+            "since-light-activity-planned": "Activity2.includes(3)",
+            "since-had-drink": true,
+            "since-had-drink-water-quantity": "Intake1.includes(1)",
+            "since-had-drink-milk-quantity": "Intake1.includes(2)",
+            "since-had-drink-caffeinated-type": "Intake1.includes(3)",
+            "since-had-drink-caffeinated-quantity": "Intake1.includes(4)",
+            "since-had-drink-alcohol-type": "Intake1.includes(4)",
+            "since-had-drink-alcohol-quantity": "Intake1.includes(4)",
+            "since-had-drink-sugar-quantity": "Intake1.includes(5)",
+            "since-eaten-amount": true,
+            "since-eaten-snacks-quantity": "Intake2.includes(1)",
+            "since-eaten-small-meal-quantity": "Intake2.includes(2)",
+            "since-eaten-regular-meal-quantity": "Intake2.includes(3)",
+            "since-eaten-large-meal-quantity": "Intake2.includes(4)",
+            "since-eaten-when": "Intake2.includes(1) || Intake2.includes(2) || Intake2.includes(3) || Intake2.includes(4)",
+            "since-eaten-duration": "Intake2.includes(1) || Intake2.includes(2) || Intake2.includes(3) || Intake2.includes(4)",
+            "since-eaten-type": "Intake2.includes(1) || Intake2.includes(2) || Intake2.includes(3) || Intake2.includes(4)",
+            "since-eaten-chocolate": "Intake2g.includes(9)",
+            "since-substances": true,
+            "since-substances-cigarettes": "Intake3.includes(1)",
+            "since-substances-cannabis": "Intake3.includes(2)",
+            "since-substances-other": "Intake3.includes(3)",
+            "event-instructions": true,
+            "event-category": true,
+            "event-impact-positive": true,
+            "event-impact-negative": true,
+            "event-other": true,
+            "event-other-impact-positive": "Event4 == 1",
+            "event-other-impact-negative": "Event4 == 1",
+            "now-pain": true,
+            "now-pain-where": "Pain1 == 1",
+            "now-pain-level": "Pain1 == 1",
+            "since-pain": true,
+            "since-pain-where": "Pain2 == 1",
+            "since-pain-level": "Pain2 == 1",
+            "headache": true,
+            "headache-same": "Headache1 == 1",
+            "headache-prevent": true,
+            "headache-start": "Headache1a == 1",
+            "headache-current": "Headache1 == 2",
+            "headache-end": "Headache1b == 1",
+            "headache-intensity": "Headache1 == 2",
+            "headache-sudden": "Headache1 == 2",
+            "headache-trigger": "Headache1 == 2",
+            "headache-trigger-category": "Headache1 == 2",
+            "headache-location": "Headache1 == 2",
+            "headache-pulsating": "Headache1 == 2",
+            "headache-effort": "Headache1 == 2",
+            "headache-nausea": "Headache1 == 2",
+            "headache-light": "Headache1 == 2",
+            "headache-noise": "Headache1 == 2",
+            "headache-smell": "Headache1 == 2",
+            "headache-vision-changes": "Headache1 == 2",
+            "headache-vision-change-time": "Headache1m.includes(2) || Headache1m.includes(3) || Headache1m.includes(4)",
+            "headache-numbing": "Headache1 == 2",
+            "headache-numbing-time": "Headache1n == 1",
+            "headache-confusing": "Headache1 == 2",
+            "headache-confusing-time": "Headache1o == 1",
+            "headache-medication": "Headache1 == 2",
+            "headache-interference": "Headache1 == 2",
+            "day-instructions": true,
+            "day-stress": true,
+            "day-stress-category": "Daily1 > 1",
+            "day-stress-typical": true,
+            "day-routine-typical": true,
+            "day-phyiscal-health": true,
+            "day-cold-cough-flu": true,
+            "day-problem-categories": true,
+            "day-problems-allergies": "Daily9.includes(1)",
+            "day-problems-breath": "Daily9.includes(2)",
+            "day-problems-belly-symptoms": "Daily9.includes(3)",
+            "day-problems-belly": "Daily9.includes(3)",
+            "day-problems-muscle": "Daily9.includes(4)",
+            "day-problems-heart": "Daily9.includes(5)",
+            "diziness-situation": "Daily9.includes(7)",
+            "diziness-faint": "Daily9.includes(7)",
+            "day-over-medication": true,
+            "day-over-medication-why": "Daily4 == 1",
+            "day-prescribed-medication": true,
+            "day-prescribed-medication-conditions": "Daily5 == 1",
+            "day-period": true,
+            "day-lethargic": true,
+            "day-headache-duration": "Daily9.includes(6)",
+            "internet-use-duration": true,
+            "internet-use-category": "Internet_ev1 !== 1",
+            "internet-use-location": "Internet_ev1 !== 1",
+            "friends-communication-method": true,
+            "socialmedia-duration": true,
             "FinalScreen": true
         }
     }

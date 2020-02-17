@@ -1,0 +1,53 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "since-vigorous-activity",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "\r\n\r\n![new/activityVigorousTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/activityVigorousTimer.png =150x150)\r\n\r\nSince the last questionnaire, how many minutes did you do **vigorous activities** including intensive sports or exercise (such as running or fast cycling) or intensive physical work (such as heavy lifting or digging)?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "5 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "10 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "20 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "30 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "40 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "50 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "60 minutes or more",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

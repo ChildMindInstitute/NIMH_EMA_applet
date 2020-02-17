@@ -1,0 +1,58 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "since-substances-cigarettes",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "\r\n\r\n![new/cigarette.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/cigarette.png =150x150)\r\n\r\nHow many **cigarettes** did you have?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "1 cigarette",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "2 cigarettes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "3 cigarettes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "4 cigarettes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "5 cigarettes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "6-10 cigarettes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "10-20 cigarettes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "over 20 cigarettes",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

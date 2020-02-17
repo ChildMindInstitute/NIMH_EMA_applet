@@ -2,384 +2,384 @@
     "@context": {
         "@version": 1.1,
         "day_set": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/activities/day_set/items/",
-        "Context1": {
-            "@id": "day_set:Context1",
+        "since-activity-monitor": {
+            "@id": "day_set:since-activity-monitor",
             "@type": "@id"
         },
-        "Context1a": {
-            "@id": "day_set:Context1a",
+        "since-activity-monitor-time": {
+            "@id": "day_set:since-activity-monitor-time",
             "@type": "@id"
         },
-        "Context2": {
-            "@id": "day_set:Context2",
+        "now-where": {
+            "@id": "day_set:now-where",
             "@type": "@id"
         },
-        "Context3": {
-            "@id": "day_set:Context3",
+        "since-where": {
+            "@id": "day_set:since-where",
             "@type": "@id"
         },
-        "Context4": {
-            "@id": "day_set:Context4",
+        "now-company": {
+            "@id": "day_set:now-company",
             "@type": "@id"
         },
-        "Context5": {
-            "@id": "day_set:Context5",
+        "since-company": {
+            "@id": "day_set:since-company",
             "@type": "@id"
         },
-        "Context6": {
-            "@id": "day_set:Context6",
+        "now-activity": {
+            "@id": "day_set:now-activity",
             "@type": "@id"
         },
-        "Context7": {
-            "@id": "day_set:Context7",
+        "since-activity": {
+            "@id": "day_set:since-activity",
             "@type": "@id"
         },
-        "Mood1": {
-            "@id": "day_set:Mood1",
+        "now-sadness": {
+            "@id": "day_set:now-sadness",
             "@type": "@id"
         },
-        "Mood4": {
-            "@id": "day_set:Mood4",
+        "now-anxiousness": {
+            "@id": "day_set:now-anxiousness",
             "@type": "@id"
         },
-        "Mood5": {
-            "@id": "day_set:Mood5",
+        "now-excited": {
+            "@id": "day_set:now-excited",
             "@type": "@id"
         },
-        "Mood6": {
-            "@id": "day_set:Mood6",
+        "now-energy": {
+            "@id": "day_set:now-energy",
             "@type": "@id"
         },
-        "Mood7": {
-            "@id": "day_set:Mood7",
+        "now-distracted": {
+            "@id": "day_set:now-distracted",
             "@type": "@id"
         },
-        "Mood8": {
-            "@id": "day_set:Mood8",
+        "now-irritable": {
+            "@id": "day_set:now-irritable",
             "@type": "@id"
         },
-        "Mood9": {
-            "@id": "day_set:Mood9",
+        "now-worried": {
+            "@id": "day_set:now-worried",
             "@type": "@id"
         },
-        "Mood10": {
-            "@id": "day_set:Mood10",
+        "now-guilty": {
+            "@id": "day_set:now-guilty",
             "@type": "@id"
         },
-        "Mood11": {
-            "@id": "day_set:Mood11",
+        "now-decisions": {
+            "@id": "day_set:now-decisions",
             "@type": "@id"
         },
-        "Mood12": {
-            "@id": "day_set:Mood12",
+        "now-quick-thinking": {
+            "@id": "day_set:now-quick-thinking",
             "@type": "@id"
         },
-        "Mood13": {
-            "@id": "day_set:Mood13",
+        "now-enjoyment": {
+            "@id": "day_set:now-enjoyment",
             "@type": "@id"
         },
-        "Mood14": {
-            "@id": "day_set:Mood14",
+        "now-fidgety": {
+            "@id": "day_set:now-fidgety",
             "@type": "@id"
         },
-        "Mood15": {
-            "@id": "day_set:Mood15",
+        "now-hungry": {
+            "@id": "day_set:now-hungry",
             "@type": "@id"
         },
-        "Mood16": {
-            "@id": "day_set:Mood16",
+        "now-sleepy": {
+            "@id": "day_set:now-sleepy",
             "@type": "@id"
         },
-        "Thoughts1": {
-            "@id": "day_set:Thoughts1",
+        "now-thoughts-positive": {
+            "@id": "day_set:now-thoughts-positive",
             "@type": "@id"
         },
-        "Thoughts2": {
-            "@id": "day_set:Thoughts2",
+        "now-thoughts-negative": {
+            "@id": "day_set:now-thoughts-negative",
             "@type": "@id"
         },
-        "Thoughts2a": {
-            "@id": "day_set:Thoughts2a",
+        "now-thoughts-negative-about": {
+            "@id": "day_set:now-thoughts-negative-about",
             "@type": "@id"
         },
-        "Thoughts2b": {
-            "@id": "day_set:Thoughts2b",
+        "now-thoughts-negative-severity": {
+            "@id": "day_set:now-thoughts-negative-severity",
             "@type": "@id"
         },
-        "Activity1": {
-            "@id": "day_set:Activity1",
+        "since-rest": {
+            "@id": "day_set:since-rest",
             "@type": "@id"
         },
-        "Activity1a": {
-            "@id": "day_set:Activity1a",
+        "since-rest-duration": {
+            "@id": "day_set:since-rest-duration",
             "@type": "@id"
         },
-        "Activity1b": {
-            "@id": "day_set:Activity1b",
+        "since-rest-fell-asleep": {
+            "@id": "day_set:since-rest-fell-asleep",
             "@type": "@id"
         },
-        "Activity2": {
-            "@id": "day_set:Activity2",
+        "since-physical-activity": {
+            "@id": "day_set:since-physical-activity",
             "@type": "@id"
         },
-        "Activity2a": {
-            "@id": "day_set:Activity2a",
+        "since-vigorous-activity": {
+            "@id": "day_set:since-vigorous-activity",
             "@type": "@id"
         },
-        "Activity2b": {
-            "@id": "day_set:Activity2b",
+        "since-vigorous-activity-planned": {
+            "@id": "day_set:since-vigorous-activity-planned",
             "@type": "@id"
         },
-        "Activity2c": {
-            "@id": "day_set:Activity2c",
+        "since-moderate-activity": {
+            "@id": "day_set:since-moderate-activity",
             "@type": "@id"
         },
-        "Activity2d": {
-            "@id": "day_set:Activity2d",
+        "since-moderate-activity-planned": {
+            "@id": "day_set:since-moderate-activity-planned",
             "@type": "@id"
         },
-        "Activity2e": {
-            "@id": "day_set:Activity2e",
+        "since-light-activity": {
+            "@id": "day_set:since-light-activity",
             "@type": "@id"
         },
-        "Activity2f": {
-            "@id": "day_set:Activity2f",
+        "since-light-activity-planned": {
+            "@id": "day_set:since-light-activity-planned",
             "@type": "@id"
         },
-        "Intake1": {
-            "@id": "day_set:Intake1",
+        "since-had-drink": {
+            "@id": "day_set:since-had-drink",
             "@type": "@id"
         },
-        "Intake1a": {
-            "@id": "day_set:Intake1a",
+        "since-had-drink-water-quantity": {
+            "@id": "day_set:since-had-drink-water-quantity",
             "@type": "@id"
         },
-        "Intake1b": {
-            "@id": "day_set:Intake1b",
+        "since-had-drink-milk-quantity": {
+            "@id": "day_set:since-had-drink-milk-quantity",
             "@type": "@id"
         },
-        "Intake1c": {
-            "@id": "day_set:Intake1c",
+        "since-had-drink-caffeinated-type": {
+            "@id": "day_set:since-had-drink-caffeinated-type",
             "@type": "@id"
         },
-        "Intake1d": {
-            "@id": "day_set:Intake1d",
+        "since-had-drink-caffeinated-quantity": {
+            "@id": "day_set:since-had-drink-caffeinated-quantity",
             "@type": "@id"
         },
-        "Intake1e": {
-            "@id": "day_set:Intake1e",
+        "since-had-drink-alcohol-type": {
+            "@id": "day_set:since-had-drink-alcohol-type",
             "@type": "@id"
         },
-        "Intake1f": {
-            "@id": "day_set:Intake1f",
+        "since-had-drink-alcohol-quantity": {
+            "@id": "day_set:since-had-drink-alcohol-quantity",
             "@type": "@id"
         },
-        "Intake1g": {
-            "@id": "day_set:Intake1g",
+        "since-had-drink-sugar-quantity": {
+            "@id": "day_set:since-had-drink-sugar-quantity",
             "@type": "@id"
         },
-        "Intake2": {
-            "@id": "day_set:Intake2",
+        "since-eaten-amount": {
+            "@id": "day_set:since-eaten-amount",
             "@type": "@id"
         },
-        "Intake2a": {
-            "@id": "day_set:Intake2a",
+        "since-eaten-snacks-quantity": {
+            "@id": "day_set:since-eaten-snacks-quantity",
             "@type": "@id"
         },
-        "Intake2b": {
-            "@id": "day_set:Intake2b",
+        "since-eaten-small-meal-quantity": {
+            "@id": "day_set:since-eaten-small-meal-quantity",
             "@type": "@id"
         },
-        "Intake2c": {
-            "@id": "day_set:Intake2c",
+        "since-eaten-regular-meal-quantity": {
+            "@id": "day_set:since-eaten-regular-meal-quantity",
             "@type": "@id"
         },
-        "Intake2d": {
-            "@id": "day_set:Intake2d",
+        "since-eaten-large-meal-quantity": {
+            "@id": "day_set:since-eaten-large-meal-quantity",
             "@type": "@id"
         },
-        "Intake2e": {
-            "@id": "day_set:Intake2e",
+        "since-eaten-when": {
+            "@id": "day_set:since-eaten-when",
             "@type": "@id"
         },
-        "Intake2f": {
-            "@id": "day_set:Intake2f",
+        "since-eaten-duration": {
+            "@id": "day_set:since-eaten-duration",
             "@type": "@id"
         },
-        "Intake2g": {
-            "@id": "day_set:Intake2g",
+        "since-eaten-type": {
+            "@id": "day_set:since-eaten-type",
             "@type": "@id"
         },
-        "Intake2ga": {
-            "@id": "day_set:Intake2ga",
+        "since-eaten-chocolate": {
+            "@id": "day_set:since-eaten-chocolate",
             "@type": "@id"
         },
-        "Intake3": {
-            "@id": "day_set:Intake3",
+        "since-substances": {
+            "@id": "day_set:since-substances",
             "@type": "@id"
         },
-        "Intake3a": {
-            "@id": "day_set:Intake3a",
+        "since-substances-cigarettes": {
+            "@id": "day_set:since-substances-cigarettes",
             "@type": "@id"
         },
-        "Intake3b": {
-            "@id": "day_set:Intake3b",
+        "since-substances-cannabis": {
+            "@id": "day_set:since-substances-cannabis",
             "@type": "@id"
         },
-        "Intake3c": {
-            "@id": "day_set:Intake3c",
+        "since-substances-other": {
+            "@id": "day_set:since-substances-other",
             "@type": "@id"
         },
-        "Event0": {
-            "@id": "day_set:Event0",
+        "event-instructions": {
+            "@id": "day_set:event-instructions",
             "@type": "@id"
         },
-        "Event1": {
-            "@id": "day_set:Event1",
+        "event-category": {
+            "@id": "day_set:event-category",
             "@type": "@id"
         },
-        "Event2": {
-            "@id": "day_set:Event2",
+        "event-impact-positive": {
+            "@id": "day_set:event-impact-positive",
             "@type": "@id"
         },
-        "Event3": {
-            "@id": "day_set:Event3",
+        "event-impact-negative": {
+            "@id": "day_set:event-impact-negative",
             "@type": "@id"
         },
-        "Event4": {
-            "@id": "day_set:Event4",
+        "event-other": {
+            "@id": "day_set:event-other",
             "@type": "@id"
         },
-        "Event4a": {
-            "@id": "day_set:Event4a",
+        "event-other-impact-positive": {
+            "@id": "day_set:event-other-impact-positive",
             "@type": "@id"
         },
-        "Event4b": {
-            "@id": "day_set:Event4b",
+        "event-other-impact-negative": {
+            "@id": "day_set:event-other-impact-negative",
             "@type": "@id"
         },
-        "Pain1": {
-            "@id": "day_set:Pain1",
+        "now-pain": {
+            "@id": "day_set:now-pain",
             "@type": "@id"
         },
-        "Pain1a": {
-            "@id": "day_set:Pain1a",
+        "now-pain-where": {
+            "@id": "day_set:now-pain-where",
             "@type": "@id"
         },
-        "Pain1b": {
-            "@id": "day_set:Pain1b",
+        "now-pain-level": {
+            "@id": "day_set:now-pain-level",
             "@type": "@id"
         },
-        "Pain2": {
-            "@id": "day_set:Pain2",
+        "since-pain": {
+            "@id": "day_set:since-pain",
             "@type": "@id"
         },
-        "Pain2a": {
-            "@id": "day_set:Pain2a",
+        "since-pain-where": {
+            "@id": "day_set:since-pain-where",
             "@type": "@id"
         },
-        "Pain2b": {
-            "@id": "day_set:Pain2b",
+        "since-pain-level": {
+            "@id": "day_set:since-pain-level",
             "@type": "@id"
         },
-        "Headache1": {
-            "@id": "day_set:Headache1",
+        "headache": {
+            "@id": "day_set:headache",
             "@type": "@id"
         },
-        "Headache1a": {
-            "@id": "day_set:Headache1a",
+        "headache-same": {
+            "@id": "day_set:headache-same",
             "@type": "@id"
         },
-        "Headache2": {
-            "@id": "day_set:Headache2",
+        "headache-prevent": {
+            "@id": "day_set:headache-prevent",
             "@type": "@id"
         },
-        "Headache1aa": {
-            "@id": "day_set:Headache1aa",
+        "headache-start": {
+            "@id": "day_set:headache-start",
             "@type": "@id"
         },
-        "Headache1b": {
-            "@id": "day_set:Headache1b",
+        "headache-current": {
+            "@id": "day_set:headache-current",
             "@type": "@id"
         },
-        "Headache1ba": {
-            "@id": "day_set:Headache1ba",
+        "headache-end": {
+            "@id": "day_set:headache-end",
             "@type": "@id"
         },
-        "Headache1c": {
-            "@id": "day_set:Headache1c",
+        "headache-intensity": {
+            "@id": "day_set:headache-intensity",
             "@type": "@id"
         },
-        "Headache1d": {
-            "@id": "day_set:Headache1d",
+        "headache-sudden": {
+            "@id": "day_set:headache-sudden",
             "@type": "@id"
         },
-        "Headache1e": {
-            "@id": "day_set:Headache1e",
+        "headache-trigger": {
+            "@id": "day_set:headache-trigger",
             "@type": "@id"
         },
-        "Headache1ea": {
-            "@id": "day_set:Headache1ea",
+        "headache-trigger-category": {
+            "@id": "day_set:headache-trigger-category",
             "@type": "@id"
         },
-        "Headache1f": {
-            "@id": "day_set:Headache1f",
+        "headache-location": {
+            "@id": "day_set:headache-location",
             "@type": "@id"
         },
-        "Headache1g": {
-            "@id": "day_set:Headache1g",
+        "headache-pulsating": {
+            "@id": "day_set:headache-pulsating",
             "@type": "@id"
         },
-        "Headache1h": {
-            "@id": "day_set:Headache1h",
+        "headache-effort": {
+            "@id": "day_set:headache-effort",
             "@type": "@id"
         },
-        "Headache1i": {
-            "@id": "day_set:Headache1i",
+        "headache-nausea": {
+            "@id": "day_set:headache-nausea",
             "@type": "@id"
         },
-        "Headache1j": {
-            "@id": "day_set:Headache1j",
+        "headache-light": {
+            "@id": "day_set:headache-light",
             "@type": "@id"
         },
-        "Headache1k": {
-            "@id": "day_set:Headache1k",
+        "headache-noise": {
+            "@id": "day_set:headache-noise",
             "@type": "@id"
         },
-        "Headache1l": {
-            "@id": "day_set:Headache1l",
+        "headache-smell": {
+            "@id": "day_set:headache-smell",
             "@type": "@id"
         },
-        "Headache1m": {
-            "@id": "day_set:Headache1m",
+        "headache-vision-changes": {
+            "@id": "day_set:headache-vision-changes",
             "@type": "@id"
         },
-        "Headache1ma": {
-            "@id": "day_set:Headache1ma",
+        "headache-vision-change-time": {
+            "@id": "day_set:headache-vision-change-time",
             "@type": "@id"
         },
-        "Headache1n": {
-            "@id": "day_set:Headache1n",
+        "headache-numbing": {
+            "@id": "day_set:headache-numbing",
             "@type": "@id"
         },
-        "Headache1na": {
-            "@id": "day_set:Headache1na",
+        "headache-numbing-time": {
+            "@id": "day_set:headache-numbing-time",
             "@type": "@id"
         },
-        "Headache1o": {
-            "@id": "day_set:Headache1o",
+        "headache-confusing": {
+            "@id": "day_set:headache-confusing",
             "@type": "@id"
         },
-        "Headache1oa": {
-            "@id": "day_set:Headache1oa",
+        "headache-confusing-time": {
+            "@id": "day_set:headache-confusing-time",
             "@type": "@id"
         },
-        "Headache1p": {
-            "@id": "day_set:Headache1p",
+        "headache-medication": {
+            "@id": "day_set:headache-medication",
             "@type": "@id"
         },
-        "Headache1q": {
-            "@id": "day_set:Headache1q",
+        "headache-interference": {
+            "@id": "day_set:headache-interference",
             "@type": "@id"
         },
         "FinalScreen": {

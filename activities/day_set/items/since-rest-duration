@@ -1,0 +1,38 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "since-rest-duration",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "\r\n\r\n![new/zzzBedTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/zzzBedTimer.png =150x150)\r\n\r\nAbout **how long** was your nap or rest?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "less than 30 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "30-60 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "60-120 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "longer than 120 minutes",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}
