@@ -29,7 +29,7 @@
         "shuffle": false,
         "visibility": {
             "socialmedia": true,
-            "socialmedia-type": "prequestion1 == 1"
+            "socialmedia-type": "socialmedia == 1"
         }
     }
 }
