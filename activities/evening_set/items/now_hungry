@@ -48,7 +48,7 @@
                 "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F62C.png"
             }
         ],
-        "schema:minValue": "not at all hungry/full",
+        "schema:minValue": "feeling full/not at all hungry",
         "schema:maxValue": "extremely hungry"
     }
 }
