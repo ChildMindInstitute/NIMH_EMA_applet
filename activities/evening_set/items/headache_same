@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "headache_same",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "\r\n\r\n![new/headacheSame.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheSame.png =150x150)\r\n\r\nIs this the **same headache** that you reported in the last questionnaire?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 2,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "No",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

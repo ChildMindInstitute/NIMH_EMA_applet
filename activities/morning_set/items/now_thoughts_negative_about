@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "now_thoughts_negative_about",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "things you did that you regret",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F614.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "things that happened to you or to others",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F329.png"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "worries that you have",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F4AD.png"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "other negative thoughts",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2753.png"
+            }
+        ]
+    },
+    "question": "\r\n\r\n![new/thoughtBalloon.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/thoughtBalloon.png =150x150)\r\n\r\nWere these thoughts about:"
+}

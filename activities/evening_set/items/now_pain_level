@@ -1,0 +1,54 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "now_pain_level",
+    "ui": {
+        "inputType": "slider"
+    },
+    "question": "\r\n\r\n![new/pain.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/pain.png =150x150)\r\n\r\nHow severe is your pain right now?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "1",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/E0A3.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "2",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "3",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "4",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "5",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "6",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "7",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F6A8.png"
+            }
+        ],
+        "schema:minValue": "very minor pain",
+        "schema:maxValue": "extreme pain"
+    }
+}

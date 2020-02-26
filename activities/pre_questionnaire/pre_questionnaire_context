@@ -6,8 +6,8 @@
             "@id": "pre_questionnaire:socialmedia",
             "@type": "@id"
         },
-        "socialmedia-type": {
-            "@id": "pre_questionnaire:socialmedia-type",
+        "socialmedia_type": {
+            "@id": "pre_questionnaire:socialmedia_type",
             "@type": "@id"
         }
     }

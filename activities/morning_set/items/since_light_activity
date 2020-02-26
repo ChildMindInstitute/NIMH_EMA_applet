@@ -1,0 +1,53 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "since_light_activity",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "\r\n\r\n![new/activityLightTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/activityLightTimer.png =150x150)\r\n\r\nSince you woke up, how many minutes did you do **light activities** (activities that may not make you breathe somewhat harder than usual such as walking, climbing stairs, routine household chores, etc.)?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "5 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "10 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "20 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "30 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "40 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "50 minutes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "60 minutes or more",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

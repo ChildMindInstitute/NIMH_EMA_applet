@@ -1,0 +1,33 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "since_eaten_large_meal_quantity",
+    "ui": {
+        "inputType": "radio",
+        "allow": [
+            "autoAdvance"
+        ]
+    },
+    "question": "\r\n\r\n![new/largeMeal.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/largeMeal.png =150x150)\r\n\r\nHow many **large meals** did you have?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "1 large meal",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "2 large meals",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "more than 2 large meals",
+                "@type": "schema:option"
+            }
+        ]
+    }
+}

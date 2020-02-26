@@ -13,444 +13,444 @@
     "scoringLogic": {},
     "variableMap": [
         {
-            "variableName": "morning-bedtime",
-            "isAbout": "morning-bedtime"
+            "variableName": "morning_bedtime",
+            "isAbout": "morning_bedtime"
         },
         {
-            "variableName": "morning-lights-off",
-            "isAbout": "morning-lights-off"
+            "variableName": "morning_lights_off",
+            "isAbout": "morning_lights_off"
         },
         {
-            "variableName": "morning-close-eyes",
-            "isAbout": "morning-close-eyes"
+            "variableName": "morning_close_eyes",
+            "isAbout": "morning_close_eyes"
         },
         {
-            "variableName": "morning-sleep-latency",
-            "isAbout": "morning-sleep-latency"
+            "variableName": "morning_sleep_latency",
+            "isAbout": "morning_sleep_latency"
         },
         {
-            "variableName": "morning-wake-number",
-            "isAbout": "morning-wake-number"
+            "variableName": "morning_wake_number",
+            "isAbout": "morning_wake_number"
         },
         {
-            "variableName": "morning-waketime",
-            "isAbout": "morning-waketime"
+            "variableName": "morning_waketime",
+            "isAbout": "morning_waketime"
         },
         {
-            "variableName": "morning-outbed",
-            "isAbout": "morning-outbed"
+            "variableName": "morning_outbed",
+            "isAbout": "morning_outbed"
         },
         {
-            "variableName": "morning-sleep-quantity",
-            "isAbout": "morning-sleep-quantity"
+            "variableName": "morning_sleep_quantity",
+            "isAbout": "morning_sleep_quantity"
         },
         {
-            "variableName": "morning-sleep-quality",
-            "isAbout": "morning-sleep-quality"
+            "variableName": "morning_sleep_quality",
+            "isAbout": "morning_sleep_quality"
         },
         {
-            "variableName": "morning-sleep-refreshed",
-            "isAbout": "morning-sleep-refreshed"
+            "variableName": "morning_sleep_refreshed",
+            "isAbout": "morning_sleep_refreshed"
         },
         {
-            "variableName": "morning-sleep-problems",
-            "isAbout": "morning-sleep-problems"
+            "variableName": "morning_sleep_problems",
+            "isAbout": "morning_sleep_problems"
         },
         {
-            "variableName": "morning-sleep-problems-reason",
-            "isAbout": "morning-sleep-problems-reason"
+            "variableName": "morning_sleep_problems_reason",
+            "isAbout": "morning_sleep_problems_reason"
         },
         {
-            "variableName": "morning-sleeping-pills",
-            "isAbout": "morning-sleeping-pills"
+            "variableName": "morning_sleeping_pills",
+            "isAbout": "morning_sleeping_pills"
         },
         {
-            "variableName": "socialmedia-after-bedtime",
-            "isAbout": "socialmedia-after-bedtime"
+            "variableName": "socialmedia_after_bedtime",
+            "isAbout": "socialmedia_after_bedtime"
         },
         {
-            "variableName": "socialmedia-fall-asleep",
-            "isAbout": "socialmedia-fall-asleep"
+            "variableName": "socialmedia_fall_asleep",
+            "isAbout": "socialmedia_fall_asleep"
         },
         {
-            "variableName": "since-activity-monitor",
-            "isAbout": "since-activity-monitor"
+            "variableName": "since_activity_monitor",
+            "isAbout": "since_activity_monitor"
         },
         {
-            "variableName": "since-activity-monitor-time",
-            "isAbout": "since-activity-monitor-time"
+            "variableName": "since_activity_monitor_time",
+            "isAbout": "since_activity_monitor_time"
         },
         {
-            "variableName": "now-where",
-            "isAbout": "now-where"
+            "variableName": "now_where",
+            "isAbout": "now_where"
         },
         {
-            "variableName": "since-where",
-            "isAbout": "since-where"
+            "variableName": "since_where",
+            "isAbout": "since_where"
         },
         {
-            "variableName": "now-company",
-            "isAbout": "now-company"
+            "variableName": "now_company",
+            "isAbout": "now_company"
         },
         {
-            "variableName": "since-company",
-            "isAbout": "since-company"
+            "variableName": "since_company",
+            "isAbout": "since_company"
         },
         {
-            "variableName": "now-activity",
-            "isAbout": "now-activity"
+            "variableName": "now_activity",
+            "isAbout": "now_activity"
         },
         {
-            "variableName": "since-activity",
-            "isAbout": "since-activity"
+            "variableName": "since_activity",
+            "isAbout": "since_activity"
         },
         {
-            "variableName": "now-sadness",
-            "isAbout": "now-sadness"
+            "variableName": "now_sadness",
+            "isAbout": "now_sadness"
         },
         {
-            "variableName": "now-anxiousness",
-            "isAbout": "now-anxiousness"
+            "variableName": "now_anxiousness",
+            "isAbout": "now_anxiousness"
         },
         {
-            "variableName": "now-excited",
-            "isAbout": "now-excited"
+            "variableName": "now_excited",
+            "isAbout": "now_excited"
         },
         {
-            "variableName": "now-energy",
-            "isAbout": "now-energy"
+            "variableName": "now_energy",
+            "isAbout": "now_energy"
         },
         {
-            "variableName": "now-distracted",
-            "isAbout": "now-distracted"
+            "variableName": "now_distracted",
+            "isAbout": "now_distracted"
         },
         {
-            "variableName": "now-irritable",
-            "isAbout": "now-irritable"
+            "variableName": "now_irritable",
+            "isAbout": "now_irritable"
         },
         {
-            "variableName": "now-worried",
-            "isAbout": "now-worried"
+            "variableName": "now_worried",
+            "isAbout": "now_worried"
         },
         {
-            "variableName": "now-guilty",
-            "isAbout": "now-guilty"
+            "variableName": "now_guilty",
+            "isAbout": "now_guilty"
         },
         {
-            "variableName": "now-decisions",
-            "isAbout": "now-decisions"
+            "variableName": "now_decisions",
+            "isAbout": "now_decisions"
         },
         {
-            "variableName": "now-quick-thinking",
-            "isAbout": "now-quick-thinking"
+            "variableName": "now_quick_thinking",
+            "isAbout": "now_quick_thinking"
         },
         {
-            "variableName": "now-enjoyment",
-            "isAbout": "now-enjoyment"
+            "variableName": "now_enjoyment",
+            "isAbout": "now_enjoyment"
         },
         {
-            "variableName": "now-fidgety",
-            "isAbout": "now-fidgety"
+            "variableName": "now_fidgety",
+            "isAbout": "now_fidgety"
         },
         {
-            "variableName": "now-hungry",
-            "isAbout": "now-hungry"
+            "variableName": "now_hungry",
+            "isAbout": "now_hungry"
         },
         {
-            "variableName": "now-sleepy",
-            "isAbout": "now-sleepy"
+            "variableName": "now_sleepy",
+            "isAbout": "now_sleepy"
         },
         {
-            "variableName": "now-thoughts-positive",
-            "isAbout": "now-thoughts-positive"
+            "variableName": "now_thoughts_positive",
+            "isAbout": "now_thoughts_positive"
         },
         {
-            "variableName": "now-thoughts-negative",
-            "isAbout": "now-thoughts-negative"
+            "variableName": "now_thoughts_negative",
+            "isAbout": "now_thoughts_negative"
         },
         {
-            "variableName": "now-thoughts-negative-about",
-            "isAbout": "now-thoughts-negative-about"
+            "variableName": "now_thoughts_negative_about",
+            "isAbout": "now_thoughts_negative_about"
         },
         {
-            "variableName": "now-thoughts-negative-severity",
-            "isAbout": "now-thoughts-negative-severity"
+            "variableName": "now_thoughts_negative_severity",
+            "isAbout": "now_thoughts_negative_severity"
         },
         {
-            "variableName": "since-rest",
-            "isAbout": "since-rest"
+            "variableName": "since_rest",
+            "isAbout": "since_rest"
         },
         {
-            "variableName": "since-rest-duration",
-            "isAbout": "since-rest-duration"
+            "variableName": "since_rest_duration",
+            "isAbout": "since_rest_duration"
         },
         {
-            "variableName": "since-rest-fell-asleep",
-            "isAbout": "since-rest-fell-asleep"
+            "variableName": "since_rest_fell_asleep",
+            "isAbout": "since_rest_fell_asleep"
         },
         {
-            "variableName": "since-physical-activity",
-            "isAbout": "since-physical-activity"
+            "variableName": "since_physical_activity",
+            "isAbout": "since_physical_activity"
         },
         {
-            "variableName": "since-vigorous-activity",
-            "isAbout": "since-vigorous-activity"
+            "variableName": "since_vigorous_activity",
+            "isAbout": "since_vigorous_activity"
         },
         {
-            "variableName": "since-vigorous-activity-planned",
-            "isAbout": "since-vigorous-activity-planned"
+            "variableName": "since_vigorous_activity_planned",
+            "isAbout": "since_vigorous_activity_planned"
         },
         {
-            "variableName": "since-moderate-activity",
-            "isAbout": "since-moderate-activity"
+            "variableName": "since_moderate_activity",
+            "isAbout": "since_moderate_activity"
         },
         {
-            "variableName": "since-moderate-activity-planned",
-            "isAbout": "since-moderate-activity-planned"
+            "variableName": "since_moderate_activity_planned",
+            "isAbout": "since_moderate_activity_planned"
         },
         {
-            "variableName": "since-light-activity",
-            "isAbout": "since-light-activity"
+            "variableName": "since_light_activity",
+            "isAbout": "since_light_activity"
         },
         {
-            "variableName": "since-light-activity-planned",
-            "isAbout": "since-light-activity-planned"
+            "variableName": "since_light_activity_planned",
+            "isAbout": "since_light_activity_planned"
         },
         {
-            "variableName": "since-had-drink",
-            "isAbout": "since-had-drink"
+            "variableName": "since_had_drink",
+            "isAbout": "since_had_drink"
         },
         {
-            "variableName": "since-had-drink-water-quantity",
-            "isAbout": "since-had-drink-water-quantity"
+            "variableName": "since_had_drink_water_quantity",
+            "isAbout": "since_had_drink_water_quantity"
         },
         {
-            "variableName": "since-had-drink-milk-quantity",
-            "isAbout": "since-had-drink-milk-quantity"
+            "variableName": "since_had_drink_milk_quantity",
+            "isAbout": "since_had_drink_milk_quantity"
         },
         {
-            "variableName": "since-had-drink-caffeinated-type",
-            "isAbout": "since-had-drink-caffeinated-type"
+            "variableName": "since_had_drink_caffeinated_type",
+            "isAbout": "since_had_drink_caffeinated_type"
         },
         {
-            "variableName": "since-had-drink-caffeinated-quantity",
-            "isAbout": "since-had-drink-caffeinated-quantity"
+            "variableName": "since_had_drink_caffeinated_quantity",
+            "isAbout": "since_had_drink_caffeinated_quantity"
         },
         {
-            "variableName": "since-had-drink-alcohol-type",
-            "isAbout": "since-had-drink-alcohol-type"
+            "variableName": "since_had_drink_alcohol_type",
+            "isAbout": "since_had_drink_alcohol_type"
         },
         {
-            "variableName": "since-had-drink-alcohol-quantity",
-            "isAbout": "since-had-drink-alcohol-quantity"
+            "variableName": "since_had_drink_alcohol_quantity",
+            "isAbout": "since_had_drink_alcohol_quantity"
         },
         {
-            "variableName": "since-had-drink-sugar-quantity",
-            "isAbout": "since-had-drink-sugar-quantity"
+            "variableName": "since_had_drink_sugar_quantity",
+            "isAbout": "since_had_drink_sugar_quantity"
         },
         {
-            "variableName": "since-eaten-amount",
-            "isAbout": "since-eaten-amount"
+            "variableName": "since_eaten_amount",
+            "isAbout": "since_eaten_amount"
         },
         {
-            "variableName": "since-eaten-snacks-quantity",
-            "isAbout": "since-eaten-snacks-quantity"
+            "variableName": "since_eaten_snacks_quantity",
+            "isAbout": "since_eaten_snacks_quantity"
         },
         {
-            "variableName": "since-eaten-small-meal-quantity",
-            "isAbout": "since-eaten-small-meal-quantity"
+            "variableName": "since_eaten_small_meal_quantity",
+            "isAbout": "since_eaten_small_meal_quantity"
         },
         {
-            "variableName": "since-eaten-regular-meal-quantity",
-            "isAbout": "since-eaten-regular-meal-quantity"
+            "variableName": "since_eaten_regular_meal_quantity",
+            "isAbout": "since_eaten_regular_meal_quantity"
         },
         {
-            "variableName": "since-eaten-large-meal-quantity",
-            "isAbout": "since-eaten-large-meal-quantity"
+            "variableName": "since_eaten_large_meal_quantity",
+            "isAbout": "since_eaten_large_meal_quantity"
         },
         {
-            "variableName": "since-eaten-when",
-            "isAbout": "since-eaten-when"
+            "variableName": "since_eaten_when",
+            "isAbout": "since_eaten_when"
         },
         {
-            "variableName": "since-eaten-duration",
-            "isAbout": "since-eaten-duration"
+            "variableName": "since_eaten_duration",
+            "isAbout": "since_eaten_duration"
         },
         {
-            "variableName": "since-eaten-type",
-            "isAbout": "since-eaten-type"
+            "variableName": "since_eaten_type",
+            "isAbout": "since_eaten_type"
         },
         {
-            "variableName": "since-eaten-chocolate",
-            "isAbout": "since-eaten-chocolate"
+            "variableName": "since_eaten_chocolate",
+            "isAbout": "since_eaten_chocolate"
         },
         {
-            "variableName": "since-substances",
-            "isAbout": "since-substances"
+            "variableName": "since_substances",
+            "isAbout": "since_substances"
         },
         {
-            "variableName": "since-substances-cigarettes",
-            "isAbout": "since-substances-cigarettes"
+            "variableName": "since_substances_cigarettes",
+            "isAbout": "since_substances_cigarettes"
         },
         {
-            "variableName": "since-substances-cannabis",
-            "isAbout": "since-substances-cannabis"
+            "variableName": "since_substances_cannabis",
+            "isAbout": "since_substances_cannabis"
         },
         {
-            "variableName": "since-substances-other",
-            "isAbout": "since-substances-other"
+            "variableName": "since_substances_other",
+            "isAbout": "since_substances_other"
         },
         {
-            "variableName": "event-instructions",
-            "isAbout": "event-instructions"
+            "variableName": "event_instructions",
+            "isAbout": "event_instructions"
         },
         {
-            "variableName": "event-category",
-            "isAbout": "event-category"
+            "variableName": "event_category",
+            "isAbout": "event_category"
         },
         {
-            "variableName": "event-impact-positive",
-            "isAbout": "event-impact-positive"
+            "variableName": "event_impact_positive",
+            "isAbout": "event_impact_positive"
         },
         {
-            "variableName": "event-impact-negative",
-            "isAbout": "event-impact-negative"
+            "variableName": "event_impact_negative",
+            "isAbout": "event_impact_negative"
         },
         {
-            "variableName": "event-other",
-            "isAbout": "event-other"
+            "variableName": "event_other",
+            "isAbout": "event_other"
         },
         {
-            "variableName": "event-other-impact-positive",
-            "isAbout": "event-other-impact-positive"
+            "variableName": "event_other_impact_positive",
+            "isAbout": "event_other_impact_positive"
         },
         {
-            "variableName": "event-other-impact-negative",
-            "isAbout": "event-other-impact-negative"
+            "variableName": "event_other_impact_negative",
+            "isAbout": "event_other_impact_negative"
         },
         {
-            "variableName": "now-pain",
-            "isAbout": "now-pain"
+            "variableName": "now_pain",
+            "isAbout": "now_pain"
         },
         {
-            "variableName": "now-pain-where",
-            "isAbout": "now-pain-where"
+            "variableName": "now_pain_where",
+            "isAbout": "now_pain_where"
         },
         {
-            "variableName": "now-pain-level",
-            "isAbout": "now-pain-level"
+            "variableName": "now_pain_level",
+            "isAbout": "now_pain_level"
         },
         {
-            "variableName": "since-pain",
-            "isAbout": "since-pain"
+            "variableName": "since_pain",
+            "isAbout": "since_pain"
         },
         {
-            "variableName": "since-pain-where",
-            "isAbout": "since-pain-where"
+            "variableName": "since_pain_where",
+            "isAbout": "since_pain_where"
         },
         {
-            "variableName": "since-pain-level",
-            "isAbout": "since-pain-level"
+            "variableName": "since_pain_level",
+            "isAbout": "since_pain_level"
         },
         {
             "variableName": "headache",
             "isAbout": "headache"
         },
         {
-            "variableName": "headache-same",
-            "isAbout": "headache-same"
+            "variableName": "headache_same",
+            "isAbout": "headache_same"
         },
         {
-            "variableName": "headache-prevent",
-            "isAbout": "headache-prevent"
+            "variableName": "headache_prevent",
+            "isAbout": "headache_prevent"
         },
         {
-            "variableName": "headache-start",
-            "isAbout": "headache-start"
+            "variableName": "headache_start",
+            "isAbout": "headache_start"
         },
         {
-            "variableName": "headache-current",
-            "isAbout": "headache-current"
+            "variableName": "headache_current",
+            "isAbout": "headache_current"
         },
         {
-            "variableName": "headache-end",
-            "isAbout": "headache-end"
+            "variableName": "headache_end",
+            "isAbout": "headache_end"
         },
         {
-            "variableName": "headache-intensity",
-            "isAbout": "headache-intensity"
+            "variableName": "headache_intensity",
+            "isAbout": "headache_intensity"
         },
         {
-            "variableName": "headache-sudden",
-            "isAbout": "headache-sudden"
+            "variableName": "headache_sudden",
+            "isAbout": "headache_sudden"
         },
         {
-            "variableName": "headache-trigger",
-            "isAbout": "headache-trigger"
+            "variableName": "headache_trigger",
+            "isAbout": "headache_trigger"
         },
         {
-            "variableName": "headache-trigger-category",
-            "isAbout": "headache-trigger-category"
+            "variableName": "headache_trigger_category",
+            "isAbout": "headache_trigger_category"
         },
         {
-            "variableName": "headache-location",
-            "isAbout": "headache-location"
+            "variableName": "headache_location",
+            "isAbout": "headache_location"
         },
         {
-            "variableName": "headache-pulsating",
-            "isAbout": "headache-pulsating"
+            "variableName": "headache_pulsating",
+            "isAbout": "headache_pulsating"
         },
         {
-            "variableName": "headache-effort",
-            "isAbout": "headache-effort"
+            "variableName": "headache_effort",
+            "isAbout": "headache_effort"
         },
         {
-            "variableName": "headache-nausea",
-            "isAbout": "headache-nausea"
+            "variableName": "headache_nausea",
+            "isAbout": "headache_nausea"
         },
         {
-            "variableName": "headache-light",
-            "isAbout": "headache-light"
+            "variableName": "headache_light",
+            "isAbout": "headache_light"
         },
         {
-            "variableName": "headache-noise",
-            "isAbout": "headache-noise"
+            "variableName": "headache_noise",
+            "isAbout": "headache_noise"
         },
         {
-            "variableName": "headache-smell",
-            "isAbout": "headache-smell"
+            "variableName": "headache_smell",
+            "isAbout": "headache_smell"
         },
         {
-            "variableName": "headache-vision-changes",
-            "isAbout": "headache-vision-changes"
+            "variableName": "headache_vision_changes",
+            "isAbout": "headache_vision_changes"
         },
         {
-            "variableName": "headache-vision-change-time",
-            "isAbout": "headache-vision-change-time"
+            "variableName": "headache_vision_change_time",
+            "isAbout": "headache_vision_change_time"
         },
         {
-            "variableName": "headache-numbing",
-            "isAbout": "headache-numbing"
+            "variableName": "headache_numbing",
+            "isAbout": "headache_numbing"
         },
         {
-            "variableName": "headache-numbing-time",
-            "isAbout": "headache-numbing-time"
+            "variableName": "headache_numbing_time",
+            "isAbout": "headache_numbing_time"
         },
         {
-            "variableName": "headache-confusing",
-            "isAbout": "headache-confusing"
+            "variableName": "headache_confusing",
+            "isAbout": "headache_confusing"
         },
         {
-            "variableName": "headache-confusing-time",
-            "isAbout": "headache-confusing-time"
+            "variableName": "headache_confusing_time",
+            "isAbout": "headache_confusing_time"
         },
         {
-            "variableName": "headache-medication",
-            "isAbout": "headache-medication"
+            "variableName": "headache_medication",
+            "isAbout": "headache_medication"
         },
         {
-            "variableName": "headache-interference",
-            "isAbout": "headache-interference"
+            "variableName": "headache_interference",
+            "isAbout": "headache_interference"
         },
         {
             "variableName": "FinalScreen",
@@ -459,230 +459,230 @@
     ],
     "ui": {
         "order": [
-            "morning-bedtime",
-            "morning-lights-off",
-            "morning-close-eyes",
-            "morning-sleep-latency",
-            "morning-wake-number",
-            "morning-waketime",
-            "morning-outbed",
-            "morning-sleep-quantity",
-            "morning-sleep-quality",
-            "morning-sleep-refreshed",
-            "morning-sleep-problems",
-            "morning-sleep-problems-reason",
-            "morning-sleeping-pills",
-            "socialmedia-after-bedtime",
-            "socialmedia-fall-asleep",
-            "since-activity-monitor",
-            "since-activity-monitor-time",
-            "now-where",
-            "since-where",
-            "now-company",
-            "since-company",
-            "now-activity",
-            "since-activity",
-            "now-sadness",
-            "now-anxiousness",
-            "now-excited",
-            "now-energy",
-            "now-distracted",
-            "now-irritable",
-            "now-worried",
-            "now-guilty",
-            "now-decisions",
-            "now-quick-thinking",
-            "now-enjoyment",
-            "now-fidgety",
-            "now-hungry",
-            "now-sleepy",
-            "now-thoughts-positive",
-            "now-thoughts-negative",
-            "now-thoughts-negative-about",
-            "now-thoughts-negative-severity",
-            "since-rest",
-            "since-rest-duration",
-            "since-rest-fell-asleep",
-            "since-physical-activity",
-            "since-vigorous-activity",
-            "since-vigorous-activity-planned",
-            "since-moderate-activity",
-            "since-moderate-activity-planned",
-            "since-light-activity",
-            "since-light-activity-planned",
-            "since-had-drink",
-            "since-had-drink-water-quantity",
-            "since-had-drink-milk-quantity",
-            "since-had-drink-caffeinated-type",
-            "since-had-drink-caffeinated-quantity",
-            "since-had-drink-alcohol-type",
-            "since-had-drink-alcohol-quantity",
-            "since-had-drink-sugar-quantity",
-            "since-eaten-amount",
-            "since-eaten-snacks-quantity",
-            "since-eaten-small-meal-quantity",
-            "since-eaten-regular-meal-quantity",
-            "since-eaten-large-meal-quantity",
-            "since-eaten-when",
-            "since-eaten-duration",
-            "since-eaten-type",
-            "since-eaten-chocolate",
-            "since-substances",
-            "since-substances-cigarettes",
-            "since-substances-cannabis",
-            "since-substances-other",
-            "event-instructions",
-            "event-category",
-            "event-impact-positive",
-            "event-impact-negative",
-            "event-other",
-            "event-other-impact-positive",
-            "event-other-impact-negative",
-            "now-pain",
-            "now-pain-where",
-            "now-pain-level",
-            "since-pain",
-            "since-pain-where",
-            "since-pain-level",
+            "morning_bedtime",
+            "morning_lights_off",
+            "morning_close_eyes",
+            "morning_sleep_latency",
+            "morning_wake_number",
+            "morning_waketime",
+            "morning_outbed",
+            "morning_sleep_quantity",
+            "morning_sleep_quality",
+            "morning_sleep_refreshed",
+            "morning_sleep_problems",
+            "morning_sleep_problems_reason",
+            "morning_sleeping_pills",
+            "socialmedia_after_bedtime",
+            "socialmedia_fall_asleep",
+            "since_activity_monitor",
+            "since_activity_monitor_time",
+            "now_where",
+            "since_where",
+            "now_company",
+            "since_company",
+            "now_activity",
+            "since_activity",
+            "now_sadness",
+            "now_anxiousness",
+            "now_excited",
+            "now_energy",
+            "now_distracted",
+            "now_irritable",
+            "now_worried",
+            "now_guilty",
+            "now_decisions",
+            "now_quick_thinking",
+            "now_enjoyment",
+            "now_fidgety",
+            "now_hungry",
+            "now_sleepy",
+            "now_thoughts_positive",
+            "now_thoughts_negative",
+            "now_thoughts_negative_about",
+            "now_thoughts_negative_severity",
+            "since_rest",
+            "since_rest_duration",
+            "since_rest_fell_asleep",
+            "since_physical_activity",
+            "since_vigorous_activity",
+            "since_vigorous_activity_planned",
+            "since_moderate_activity",
+            "since_moderate_activity_planned",
+            "since_light_activity",
+            "since_light_activity_planned",
+            "since_had_drink",
+            "since_had_drink_water_quantity",
+            "since_had_drink_milk_quantity",
+            "since_had_drink_caffeinated_type",
+            "since_had_drink_caffeinated_quantity",
+            "since_had_drink_alcohol_type",
+            "since_had_drink_alcohol_quantity",
+            "since_had_drink_sugar_quantity",
+            "since_eaten_amount",
+            "since_eaten_snacks_quantity",
+            "since_eaten_small_meal_quantity",
+            "since_eaten_regular_meal_quantity",
+            "since_eaten_large_meal_quantity",
+            "since_eaten_when",
+            "since_eaten_duration",
+            "since_eaten_type",
+            "since_eaten_chocolate",
+            "since_substances",
+            "since_substances_cigarettes",
+            "since_substances_cannabis",
+            "since_substances_other",
+            "event_instructions",
+            "event_category",
+            "event_impact_positive",
+            "event_impact_negative",
+            "event_other",
+            "event_other_impact_positive",
+            "event_other_impact_negative",
+            "now_pain",
+            "now_pain_where",
+            "now_pain_level",
+            "since_pain",
+            "since_pain_where",
+            "since_pain_level",
             "headache",
-            "headache-same",
-            "headache-prevent",
-            "headache-start",
-            "headache-current",
-            "headache-end",
-            "headache-intensity",
-            "headache-sudden",
-            "headache-trigger",
-            "headache-trigger-category",
-            "headache-location",
-            "headache-pulsating",
-            "headache-effort",
-            "headache-nausea",
-            "headache-light",
-            "headache-noise",
-            "headache-smell",
-            "headache-vision-changes",
-            "headache-vision-change-time",
-            "headache-numbing",
-            "headache-numbing-time",
-            "headache-confusing",
-            "headache-confusing-time",
-            "headache-medication",
-            "headache-interference",
+            "headache_same",
+            "headache_prevent",
+            "headache_start",
+            "headache_current",
+            "headache_end",
+            "headache_intensity",
+            "headache_sudden",
+            "headache_trigger",
+            "headache_trigger_category",
+            "headache_location",
+            "headache_pulsating",
+            "headache_effort",
+            "headache_nausea",
+            "headache_light",
+            "headache_noise",
+            "headache_smell",
+            "headache_vision_changes",
+            "headache_vision_change_time",
+            "headache_numbing",
+            "headache_numbing_time",
+            "headache_confusing",
+            "headache_confusing_time",
+            "headache_medication",
+            "headache_interference",
             "FinalScreen"
         ],
         "shuffle": false,
         "visibility": {
-            "morning-bedtime": true,
-            "morning-lights-off": true,
-            "morning-close-eyes": true,
-            "morning-sleep-latency": true,
-            "morning-wake-number": true,
-            "morning-waketime": true,
-            "morning-outbed": true,
-            "morning-sleep-quantity": true,
-            "morning-sleep-quality": true,
-            "morning-sleep-refreshed": true,
-            "morning-sleep-problems": true,
-            "morning-sleep-problems-reason": "morning-sleep-problems.includes(1) || morning-sleep-problems.includes(2) || morning-sleep-problems.includes(3) || morning-sleep-problems.includes(4) || morning-sleep-problems.includes(5) || morning-sleep-problems.includes(6) || morning-sleep-problems.includes(7)",
-            "morning-sleeping-pills": true,
-            "socialmedia-after-bedtime": true,
-            "socialmedia-fall-asleep": true,
-            "since-activity-monitor": true,
-            "since-activity-monitor-time": "since-activity-monitor == 1",
-            "now-where": true,
-            "since-where": true,
-            "now-company": true,
-            "since-company": true,
-            "now-activity": true,
-            "since-activity": true,
-            "now-sadness": true,
-            "now-anxiousness": true,
-            "now-excited": true,
-            "now-energy": true,
-            "now-distracted": true,
-            "now-irritable": true,
-            "now-worried": true,
-            "now-guilty": true,
-            "now-decisions": true,
-            "now-quick-thinking": true,
-            "now-enjoyment": true,
-            "now-fidgety": true,
-            "now-hungry": true,
-            "now-sleepy": true,
-            "now-thoughts-positive": true,
-            "now-thoughts-negative": true,
-            "now-thoughts-negative-about": "now-thoughts-negative > 1",
-            "now-thoughts-negative-severity": "now-thoughts-negative > 1",
-            "since-rest": true,
-            "since-rest-duration": "since-rest == 1",
-            "since-rest-fell-asleep": "since-rest == 1",
-            "since-physical-activity": true,
-            "since-vigorous-activity": "since-physical-activity.includes(1)",
-            "since-vigorous-activity-planned": "since-physical-activity.includes(1)",
-            "since-moderate-activity": "since-physical-activity.includes(2)",
-            "since-moderate-activity-planned": "since-physical-activity.includes(2)",
-            "since-light-activity": "since-physical-activity.includes(3)",
-            "since-light-activity-planned": "since-physical-activity.includes(3)",
-            "since-had-drink": true,
-            "since-had-drink-water-quantity": "since-had-drink.includes(1)",
-            "since-had-drink-milk-quantity": "since-had-drink.includes(2)",
-            "since-had-drink-caffeinated-type": "since-had-drink.includes(3)",
-            "since-had-drink-caffeinated-quantity": "since-had-drink.includes(4)",
-            "since-had-drink-alcohol-type": "since-had-drink.includes(4)",
-            "since-had-drink-alcohol-quantity": "since-had-drink.includes(4)",
-            "since-had-drink-sugar-quantity": "since-had-drink.includes(5)",
-            "since-eaten-amount": true,
-            "since-eaten-snacks-quantity": "since-eaten-amount.includes(1)",
-            "since-eaten-small-meal-quantity": "since-eaten-amount.includes(2)",
-            "since-eaten-regular-meal-quantity": "since-eaten-amount.includes(3)",
-            "since-eaten-large-meal-quantity": "since-eaten-amount.includes(4)",
-            "since-eaten-when": "since-eaten-amount.includes(1) || since-eaten-amount.includes(2) || since-eaten-amount.includes(3) || since-eaten-amount.includes(4)",
-            "since-eaten-duration": "since-eaten-amount.includes(1) || since-eaten-amount.includes(2) || since-eaten-amount.includes(3) || since-eaten-amount.includes(4)",
-            "since-eaten-type": "since-eaten-amount.includes(1) || since-eaten-amount.includes(2) || since-eaten-amount.includes(3) || since-eaten-amount.includes(4)",
-            "since-eaten-chocolate": "since-eaten-type.includes(9)",
-            "since-substances": true,
-            "since-substances-cigarettes": "since-substances.includes(1)",
-            "since-substances-cannabis": "since-substances.includes(2)",
-            "since-substances-other": "since-substances.includes(3)",
-            "event-instructions": true,
-            "event-category": true,
-            "event-impact-positive": true,
-            "event-impact-negative": true,
-            "event-other": true,
-            "event-other-impact-positive": "event-other == 1",
-            "event-other-impact-negative": "event-other == 1",
-            "now-pain": true,
-            "now-pain-where": "now-pain == 1",
-            "now-pain-level": "now-pain == 1",
-            "since-pain": true,
-            "since-pain-where": "since-pain == 1",
-            "since-pain-level": "since-pain == 1",
+            "morning_bedtime": true,
+            "morning_lights_off": true,
+            "morning_close_eyes": true,
+            "morning_sleep_latency": true,
+            "morning_wake_number": true,
+            "morning_waketime": true,
+            "morning_outbed": true,
+            "morning_sleep_quantity": true,
+            "morning_sleep_quality": true,
+            "morning_sleep_refreshed": true,
+            "morning_sleep_problems": true,
+            "morning_sleep_problems_reason": "morning_sleep_problems.includes(1) || morning_sleep_problems.includes(2) || morning_sleep_problems.includes(3) || morning_sleep_problems.includes(4) || morning_sleep_problems.includes(5) || morning_sleep_problems.includes(6) || morning_sleep_problems.includes(7)",
+            "morning_sleeping_pills": true,
+            "socialmedia_after_bedtime": true,
+            "socialmedia_fall_asleep": true,
+            "since_activity_monitor": true,
+            "since_activity_monitor_time": "since_activity_monitor == 1",
+            "now_where": true,
+            "since_where": true,
+            "now_company": true,
+            "since_company": true,
+            "now_activity": true,
+            "since_activity": true,
+            "now_sadness": true,
+            "now_anxiousness": true,
+            "now_excited": true,
+            "now_energy": true,
+            "now_distracted": true,
+            "now_irritable": true,
+            "now_worried": true,
+            "now_guilty": true,
+            "now_decisions": true,
+            "now_quick_thinking": true,
+            "now_enjoyment": true,
+            "now_fidgety": true,
+            "now_hungry": true,
+            "now_sleepy": true,
+            "now_thoughts_positive": true,
+            "now_thoughts_negative": true,
+            "now_thoughts_negative_about": "now_thoughts_negative > 1",
+            "now_thoughts_negative_severity": "now_thoughts_negative > 1",
+            "since_rest": true,
+            "since_rest_duration": "since_rest == 1",
+            "since_rest_fell_asleep": "since_rest == 1",
+            "since_physical_activity": true,
+            "since_vigorous_activity": "since_physical_activity.includes(1)",
+            "since_vigorous_activity_planned": "since_physical_activity.includes(1)",
+            "since_moderate_activity": "since_physical_activity.includes(2)",
+            "since_moderate_activity_planned": "since_physical_activity.includes(2)",
+            "since_light_activity": "since_physical_activity.includes(3)",
+            "since_light_activity_planned": "since_physical_activity.includes(3)",
+            "since_had_drink": true,
+            "since_had_drink_water_quantity": "since_had_drink.includes(1)",
+            "since_had_drink_milk_quantity": "since_had_drink.includes(2)",
+            "since_had_drink_caffeinated_type": "since_had_drink.includes(3)",
+            "since_had_drink_caffeinated_quantity": "since_had_drink.includes(4)",
+            "since_had_drink_alcohol_type": "since_had_drink.includes(4)",
+            "since_had_drink_alcohol_quantity": "since_had_drink.includes(4)",
+            "since_had_drink_sugar_quantity": "since_had_drink.includes(5)",
+            "since_eaten_amount": true,
+            "since_eaten_snacks_quantity": "since_eaten_amount.includes(1)",
+            "since_eaten_small_meal_quantity": "since_eaten_amount.includes(2)",
+            "since_eaten_regular_meal_quantity": "since_eaten_amount.includes(3)",
+            "since_eaten_large_meal_quantity": "since_eaten_amount.includes(4)",
+            "since_eaten_when": "since_eaten_amount.includes(1) || since_eaten_amount.includes(2) || since_eaten_amount.includes(3) || since_eaten_amount.includes(4)",
+            "since_eaten_duration": "since_eaten_amount.includes(1) || since_eaten_amount.includes(2) || since_eaten_amount.includes(3) || since_eaten_amount.includes(4)",
+            "since_eaten_type": "since_eaten_amount.includes(1) || since_eaten_amount.includes(2) || since_eaten_amount.includes(3) || since_eaten_amount.includes(4)",
+            "since_eaten_chocolate": "since_eaten_type.includes(9)",
+            "since_substances": true,
+            "since_substances_cigarettes": "since_substances.includes(1)",
+            "since_substances_cannabis": "since_substances.includes(2)",
+            "since_substances_other": "since_substances.includes(3)",
+            "event_instructions": true,
+            "event_category": true,
+            "event_impact_positive": true,
+            "event_impact_negative": true,
+            "event_other": true,
+            "event_other_impact_positive": "event_other == 1",
+            "event_other_impact_negative": "event_other == 1",
+            "now_pain": true,
+            "now_pain_where": "now_pain == 1",
+            "now_pain_level": "now_pain == 1",
+            "since_pain": true,
+            "since_pain_where": "since_pain == 1",
+            "since_pain_level": "since_pain == 1",
             "headache": true,
-            "headache-same": "headache == 1",
-            "headache-prevent": true,
-            "headache-start": "headache-same == 1",
-            "headache-current": "headache == 2",
-            "headache-end": "headache-current == 1",
-            "headache-intensity": "headache == 2",
-            "headache-sudden": "headache == 2",
-            "headache-trigger": "headache == 2",
-            "headache-trigger-category": "headache == 2",
-            "headache-location": "headache == 2",
-            "headache-pulsating": "headache == 2",
-            "headache-effort": "headache == 2",
-            "headache-nausea": "headache == 2",
-            "headache-light": "headache == 2",
-            "headache-noise": "headache == 2",
-            "headache-smell": "headache == 2",
-            "headache-vision-changes": "headache == 2",
-            "headache-vision-change-time": "headache-vision-changes.includes(2) || headache-vision-changes.includes(3) || headache-vision-changes.includes(4)",
-            "headache-numbing": "headache == 2",
-            "headache-numbing-time": "headache-numbing == 1",
-            "headache-confusing": "headache == 2",
-            "headache-confusing-time": "headache-confusing == 1",
-            "headache-medication": "headache == 2",
-            "headache-interference": "headache == 2",
+            "headache_same": "headache == 1",
+            "headache_prevent": true,
+            "headache_start": "headache_same == 1",
+            "headache_current": "headache == 2",
+            "headache_end": "headache_current == 1",
+            "headache_intensity": "headache == 2",
+            "headache_sudden": "headache == 2",
+            "headache_trigger": "headache == 2",
+            "headache_trigger_category": "headache == 2",
+            "headache_location": "headache == 2",
+            "headache_pulsating": "headache == 2",
+            "headache_effort": "headache == 2",
+            "headache_nausea": "headache == 2",
+            "headache_light": "headache == 2",
+            "headache_noise": "headache == 2",
+            "headache_smell": "headache == 2",
+            "headache_vision_changes": "headache == 2",
+            "headache_vision_change_time": "headache_vision_changes.includes(2) || headache_vision_changes.includes(3) || headache_vision_changes.includes(4)",
+            "headache_numbing": "headache == 2",
+            "headache_numbing_time": "headache_numbing == 1",
+            "headache_confusing": "headache == 2",
+            "headache_confusing_time": "headache_confusing == 1",
+            "headache_medication": "headache == 2",
+            "headache_interference": "headache == 2",
             "FinalScreen": true
         }
     }

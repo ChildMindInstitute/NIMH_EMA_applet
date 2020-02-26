@@ -1,0 +1,58 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "since_had_drink_alcohol_type",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "red wine",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F377.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "white wine",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F379.png"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "champagne/sparkling wine",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F942.png"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "beer",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F37A.png"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "cocktail",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F378.png"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "whisky or other strong alcohol",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F943.png"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "other type of alcoholic drink",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2754.png"
+            }
+        ]
+    },
+    "question": "\r\n\r\n![new/alcohol.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/alcohol.png =150x150)\r\n\r\nWhat type of **alcoholic beverage** did you consume?"
+}

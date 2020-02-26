@@ -1,0 +1,88 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "since_eaten_type",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "beef/pork/lamb",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F969.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "chicken or other poultry",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F357.png"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "eggs",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F95A.png"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "fish",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/E000.png"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "dairy (yogurt/milk/cheese)",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F9C0.png"
+            },
+            {
+                "schema:value": 6,
+                "schema:name": "bread/pasta/cereal/other starchy food",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F956.png"
+            },
+            {
+                "schema:value": 7,
+                "schema:name": "fruits",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F353.png"
+            },
+            {
+                "schema:value": 8,
+                "schema:name": "vegetables",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F966.png"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "sweet foods or candy",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F36D.png"
+            },
+            {
+                "schema:value": 10,
+                "schema:name": "energy bars",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/energyBar.png"
+            },
+            {
+                "schema:value": 11,
+                "schema:name": "potato chips or other salty snacks",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F9C2.png"
+            },
+            {
+                "schema:value": 12,
+                "schema:name": "other",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2754.png"
+            }
+        ]
+    },
+    "question": "Please think about all the foods you ate since you woke up. Please select **all types** of food you ate:"
+}

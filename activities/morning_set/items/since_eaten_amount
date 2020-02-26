@@ -1,0 +1,46 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "since_eaten_amount",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "snacks (e.g. candy bar/cookie/small bag of chips)",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F36A.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "small meals",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F96A.png"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "regular/full meals",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F35B.png"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "large meals",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F967.png"
+            },
+            {
+                "schema:value": 5,
+                "schema:name": "none",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
+            }
+        ]
+    },
+    "question": "Since you woke up, which of the following did you have?"
+}

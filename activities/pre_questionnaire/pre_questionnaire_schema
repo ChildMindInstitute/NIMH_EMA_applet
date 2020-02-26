@@ -17,19 +17,19 @@
             "isAbout": "socialmedia"
         },
         {
-            "variableName": "socialmedia-type",
-            "isAbout": "socialmedia-type"
+            "variableName": "socialmedia_type",
+            "isAbout": "socialmedia_type"
         }
     ],
     "ui": {
         "order": [
             "socialmedia",
-            "socialmedia-type"
+            "socialmedia_type"
         ],
         "shuffle": false,
         "visibility": {
             "socialmedia": true,
-            "socialmedia-type": "socialmedia == 1"
+            "socialmedia_type": "socialmedia == 1"
         }
     }
 }

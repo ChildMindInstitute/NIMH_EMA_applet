@@ -1,0 +1,40 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "skos:altLabel": "headache_vision_changes",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": "blurred or distorted vision",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F300.png"
+            },
+            {
+                "schema:value": 2,
+                "schema:name": "flashing lights/shapes",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/sparkleShapes.png"
+            },
+            {
+                "schema:value": 3,
+                "schema:name": "blind spots or missing parts",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/blindSpot.png"
+            },
+            {
+                "schema:value": 4,
+                "schema:name": "no vision changes",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
+            }
+        ]
+    },
+    "question": "\r\n\r\n![new/headacheVision.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheVision.png =150x150)\r\n\r\nWhich (if any) of the following **vision changes** did you experience?"
+}
