@@ -4,7 +4,7 @@
 const protocolName = "EMA_HBN_NIMH2"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.21"
+const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.22"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'

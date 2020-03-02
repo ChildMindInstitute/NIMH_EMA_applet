@@ -569,7 +569,7 @@
             "since_pain_where": "since_pain == 1",
             "since_pain_level": "since_pain == 1",
             "headache": true,
-            "headache_same": "headache == 1",
+            "headache_same": "headache == 2",
             "headache_prevent": true,
             "headache_start": "headache_same == 1",
             "headache_current": "headache == 2",

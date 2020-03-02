@@ -14,12 +14,12 @@
     "responseOptions": {
         "choices": [
             {
-                "schema:value": 1,
+                "schema:value": 2,
                 "schema:name": "Yes",
                 "@type": "schema:option"
             },
             {
-                "schema:value": 0,
+                "schema:value": 1,
                 "schema:name": "No",
                 "@type": "schema:option"
             }
