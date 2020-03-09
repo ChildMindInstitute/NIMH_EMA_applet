@@ -301,10 +301,6 @@
             "isAbout": "headache_same"
         },
         {
-            "variableName": "headache_prevent",
-            "isAbout": "headache_prevent"
-        },
-        {
             "variableName": "headache_start",
             "isAbout": "headache_start"
         },
@@ -393,6 +389,10 @@
             "isAbout": "headache_interference"
         },
         {
+            "variableName": "headache_prevent",
+            "isAbout": "headache_prevent"
+        },
+        {
             "variableName": "FinalScreen",
             "isAbout": "FinalScreen"
         }
@@ -471,7 +471,6 @@
             "since_pain_level",
             "headache",
             "headache_same",
-            "headache_prevent",
             "headache_start",
             "headache_current",
             "headache_end",
@@ -494,6 +493,7 @@
             "headache_confusing_time",
             "headache_medication",
             "headache_interference",
+            "headache_prevent",
             "FinalScreen"
         ],
         "shuffle": false,
@@ -538,7 +538,7 @@
             "since_had_drink_water_quantity": "since_had_drink.includes(1)",
             "since_had_drink_milk_quantity": "since_had_drink.includes(2)",
             "since_had_drink_caffeinated_type": "since_had_drink.includes(3)",
-            "since_had_drink_caffeinated_quantity": "since_had_drink.includes(4)",
+            "since_had_drink_caffeinated_quantity": "since_had_drink.includes(3)",
             "since_had_drink_alcohol_type": "since_had_drink.includes(4)",
             "since_had_drink_alcohol_quantity": "since_had_drink.includes(4)",
             "since_had_drink_sugar_quantity": "since_had_drink.includes(5)",
@@ -570,7 +570,6 @@
             "since_pain_level": "since_pain == 1",
             "headache": true,
             "headache_same": "headache == 2",
-            "headache_prevent": true,
             "headache_start": "headache_same == 1",
             "headache_current": "headache == 2",
             "headache_end": "headache_current == 1",
@@ -593,6 +592,7 @@
             "headache_confusing_time": "headache_confusing == 1",
             "headache_medication": "headache == 2",
             "headache_interference": "headache == 2",
+            "headache_prevent": true,
             "FinalScreen": true
         }
     }

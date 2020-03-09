@@ -7,13 +7,5 @@
     "ui": {
         "inputType": "time"
     },
-    "question": "\r\n\r\n![new/allFoodTime.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/allFoodTime.png =150x150)\r\n\r\nAbout **what time** did you eat your largest snack/meal?",
-    "responseOptions": {
-        "choices": [
-            {
-                "schema:value": 2,
-                "@type": "schema:option"
-            }
-        ]
-    }
+    "question": "\r\n\r\n![new/allFoodTime.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/allFoodTime.png =150x150)\r\n\r\nAbout **what time** did you eat your largest snack/meal?"
 }

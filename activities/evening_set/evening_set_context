@@ -290,10 +290,6 @@
             "@id": "evening_set:headache_same",
             "@type": "@id"
         },
-        "headache_prevent": {
-            "@id": "evening_set:headache_prevent",
-            "@type": "@id"
-        },
         "headache_start": {
             "@id": "evening_set:headache_start",
             "@type": "@id"
@@ -380,6 +376,10 @@
         },
         "headache_interference": {
             "@id": "evening_set:headache_interference",
+            "@type": "@id"
+        },
+        "headache_prevent": {
+            "@id": "evening_set:headache_prevent",
             "@type": "@id"
         },
         "day_instructions": {

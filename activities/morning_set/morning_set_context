@@ -350,10 +350,6 @@
             "@id": "morning_set:headache_same",
             "@type": "@id"
         },
-        "headache_prevent": {
-            "@id": "morning_set:headache_prevent",
-            "@type": "@id"
-        },
         "headache_start": {
             "@id": "morning_set:headache_start",
             "@type": "@id"
@@ -440,6 +436,10 @@
         },
         "headache_interference": {
             "@id": "morning_set:headache_interference",
+            "@type": "@id"
+        },
+        "headache_prevent": {
+            "@id": "morning_set:headache_prevent",
             "@type": "@id"
         },
         "FinalScreen": {
