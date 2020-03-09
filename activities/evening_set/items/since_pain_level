@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "\r\n\r\n![new/pain.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/pain.png =150x150)\r\n\r\nHow severe was the pain you experienced since the last questionnaire?",
+    "question": "\r\n\r\n![new/pain.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/pain.png =150x150)\r\n\r\nHow **severe** was the pain you experienced since you woke up?",
     "responseOptions": {
         "choices": [
             {

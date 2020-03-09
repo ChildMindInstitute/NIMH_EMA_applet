@@ -12,9 +12,9 @@
         "choices": [
             {
                 "schema:value": 1,
-                "schema:name": "snacks (e.g. candy bar/cookie/small bag of chips)",
+                "schema:name": "snacks",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F36A.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/snack.png"
             },
             {
                 "schema:value": 2,

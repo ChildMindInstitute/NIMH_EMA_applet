@@ -36,7 +36,7 @@
             },
             {
                 "schema:value": 5,
-                "schema:name": "a beverage containing sugar like juice or caffeine free soda",
+                "schema:name": "a beverage containing sugar like juice or caffeine-free soda",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F9C3.png"
             },

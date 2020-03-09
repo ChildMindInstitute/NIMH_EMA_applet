@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/cookie.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/cookie.png =150x150)\r\n\r\nHow many **snacks** (e.g. candy bar/cookie/small bag of chips) did you have?",
+    "question": "\r\n\r\n![new/snack.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/snack.png =150x150)\r\n\r\nHow many **snacks** did you have?",
     "responseOptions": {
         "choices": [
             {
