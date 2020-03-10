@@ -131,7 +131,7 @@ csv
             visibilityObj = {};
             variableMap = [];
             //console.log(fieldList[0]['Form Display Name']);
-            activityDisplayName = fieldList[0]['Form Display Name'];
+            activityDisplayName = (fieldList[0]['Form Display Name'] == undefined | fieldList[0]['Form Display Name'] == '') ? fieldList[0]['Form Name'] : fieldList[0]['Form Display Name'];
             activityDescription = fieldList[0]['Form Note'];
             fieldList.forEach( field => {
                 if(languages.length === 0){
