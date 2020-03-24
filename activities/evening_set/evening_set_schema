@@ -715,7 +715,7 @@
             "headache_end": "headache_current == 1",
             "headache_intensity": "headache == 2",
             "headache_sudden": "headache == 2",
-            "headache_trigger": "headache == 2",
+            "headache_trigger": "headache_trigger == 1",
             "headache_trigger_category": "headache == 2",
             "headache_location": "headache == 2",
             "headache_pulsating": "headache == 2",

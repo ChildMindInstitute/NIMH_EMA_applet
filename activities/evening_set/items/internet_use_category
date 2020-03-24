@@ -69,6 +69,12 @@
                 "schema:name": "internet TV (Hulu/Netflix/etc.)",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F4FA.png"
+            },
+            {
+                "schema:value": 11,
+                "schema:name": "work/school",
+                "@type": "schema:option",
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/work72.png"
             }
         ]
     },
