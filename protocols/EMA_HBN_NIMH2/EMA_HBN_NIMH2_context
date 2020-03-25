@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "activity_path": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/activities/",
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/activities/",
         "pre_questionnaire": {
             "@id": "activity_path:pre_questionnaire/pre_questionnaire_schema",
             "@type": "@id"

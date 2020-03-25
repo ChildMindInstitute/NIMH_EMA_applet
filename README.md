@@ -20,7 +20,7 @@ Most icons in this applet directly pulled or derived from [Openmoji 12.1](https:
 <img src="imageAttribution/eyelash.svg" width="100" height="100">
 <img src="imageAttribution/prescriptionMeds.svg" width="100" height="100">
 <img src="imageAttribution/lung.svg" width="100" height="100">
-
+<img src="imageAttribution/helpHeart.svg" width="100" height="100">
 
 <br>
 
@@ -58,8 +58,9 @@ Icons made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">m
 
 <img src="imageAttribution/energyBar.svg" width="100" height="100">
 
+Icons made by <a href="https://www.flaticon.com/authors/geotatah" title="geotatah">geotatah</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
-
+<img src="imageAttribution/danger.svg" width="100" height="100">
 
 
 
