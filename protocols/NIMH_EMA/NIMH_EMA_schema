@@ -1,14 +1,14 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/protocols/EMA_HBN_NIMH2/EMA_HBN_NIMH2_context"
+        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/protocols/NIMH_EMA/NIMH_EMA_context"
     ],
     "@type": "reproschema:ActivitySet",
-    "@id": "EMA_HBN_NIMH2_schema",
-    "skos:prefLabel": "Healthy Brain Network (NIMH content) v0.26",
-    "skos:altLabel": "EMA_HBN_NIMH2_schema",
-    "schema:description": "v0.26 Daily questions about physical and mental health, NIMH content",
-    "schema:about": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/protocols/EMA_HBN_NIMH2/README.md",
+    "@id": "NIMH_EMA_schema",
+    "skos:prefLabel": "NIMH EMA v0.26",
+    "skos:altLabel": "NIMH_EMA_schema",
+    "schema:description": "v0.26 Daily questions about physical and mental health",
+    "schema:about": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/protocols/NIMH_EMA/README.md",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "variableMap": [

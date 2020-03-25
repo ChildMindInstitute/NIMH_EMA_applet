@@ -4,7 +4,7 @@
 const protocolName = "NIMH_EMA"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "NIMH EMA v0.26"
+const protocolDisplayName = "NIMH EMA v0.27"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -14,10 +14,10 @@ const branchName = 'NIMH'
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`
 
 //3. add a description to your protocol
-let protocolDescription = "v0.26 Daily questions about physical and mental health"
+let protocolDescription = "v0.27 Daily questions about physical and mental health"
 
 //4. where are you hosting your images?
-let imagePath = 'https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/'
+let imagePath = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}/images/`
 
 /* hard coded activity display object
 let activityDisplayObj = {
