@@ -1,0 +1,14 @@
+# Daily Events and Overall Health {#daily_section}
+
+```{r, include=FALSE}
+
+#get names of all questions from this section and generate codebook item objects for each
+
+sectionQuestions <- unique(filter(dataDic, section == 'Daily Events and Overall Health')$`Variable / Field Name`)
+
+sectionContent <- lapply(sectionQuestions, function(itemName) knit_expand(file = 'templates/itemTemplate.Rmd'))
+
+```
+
+
+`r knit(text = unlist(sectionContent))`

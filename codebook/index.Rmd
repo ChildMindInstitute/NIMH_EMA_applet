@@ -1,0 +1,254 @@
+---
+author: "Mike X."
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a codebook that documents all of the items in the current version of the NIMH EMA Applet for Mindlogger."
+---
+
+
+```{r setup, echo=FALSE}
+
+#Load and parse data dictionary
+library(tidyverse)
+library(RCurl)
+library(linguisticsdown)
+library(knitr)
+library(formattable)
+#library(kableExtra)
+#library(webshot)
+#webshot::install_phantomjs()
+
+#where the data dictionary for the applet is hosted:
+dataPath <- getURL("https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/data_dic_new.csv")
+
+dataDic <- read_csv(dataPath)
+
+#split into activities
+
+#preq <- filter(dataDic, `Form Name` == 'pre_questionnaire')
+
+#morning <- filter(dataDic, `Form Name` == 'morning_set')
+
+#day <- filter(dataDic, `Form Name` == 'day_set')
+
+#night <- filter(dataDic, `Form Name` == 'evening_set')
+
+#rm(dataDic)
+
+#where the images for the applet are hosted
+imagePath <- 'https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/'
+
+
+#functions
+
+
+#parse question
+
+getQ <- function (dataset, question_name) {
+  
+  #grab question
+  question <- unique(filter(dataset, !!sym("Variable / Field Name") == question_name)[['Field Label']])
+  
+  #if there are multiple versions of the question (morning/day)
+  if (length(question) > 1) {
+    
+    cat('**Question**:\r\n\r\n')
+    cat('+ _Morning Version_: "', question[[1]], '\n + _Day/Evening Version_: "', question[[2]], '"', sep = '')
+    
+  }
+  
+  else {
+    
+    cat('**Question**: "', question, '"', sep = '')
+    
+  }
+
+}
+
+#parse header image
+
+getHeadImg <- function (dataset, question_name) {
+  
+  filename <- unique(filter(dataset, !!sym("Variable / Field Name") == question_name)[['headerImage']])
+    
+  path <- paste0(imagePath, filename)
+  
+  if (is.na(filename)) {
+  
+    cat('**Header Image**: _None_')
+  
+  }
+  
+  else {
+    
+    cat('**Header Image**: ')
+    include_graphics2(path)
+  
+  }
+  
+}
+
+
+#parse visibility
+
+getVis <- function (dataset, question_name) {
+  
+  visibility <- unique(filter(dataset, !!sym("Variable / Field Name") == question_name)[['Branching Logic (Show field only if...)']])
+  
+  if (is.na(visibility)) {
+    return("**Visibility**: _Always_")
+  }
+  
+  else {
+    return(paste0("**Visibility**: ", visibility))
+  }
+  
+}
+
+#parse input type
+
+getInputType <- function (dataset, question_name) {
+  
+  inputType <- unique(filter(dataset, !!sym("Variable / Field Name") == question_name)[['Field Type']])
+  
+  multipleChoice <- unique(filter(dataset, !!sym("Variable / Field Name") == question_name)[['multipleChoice']])
+  
+  allInputType <- c('markdown-message', 'radio', 'slider', 'time', 'timeRange')
+  allInputText <- c('User Message/instructions', 'Single-select radio button', 'Slider bar', 'Time input', 'Time-range input')
+  inputDic <- setNames(as.list(allInputText), allInputType)
+  
+  
+  if (!is.na(multipleChoice)) {
+    return('**Item Type**: Multi-select checkbox')
+  }
+  
+  else {
+    return(paste0('**Item Type**: ', inputDic[[inputType]]))
+  }
+  
+}
+
+
+#parse responses
+
+#this function is used to process each choice in response object for image/no image
+parseResponseChoice <- function (x) {
+
+  if (length(x) == 2) {
+    
+    x[[3]] <- ''
+    return(x)
+    
+  }
+
+  else {
+    
+    x[[3]] <- paste0('<img src="', imagePath, x[[3]], '.png" width="60">')
+    return(x)
+  
+  }
+
+}
+
+#this function creates the reponse object in the codebook based on input type
+parseResponse <- function(dataset, question_name) {
+  
+  #get reponse info from csv
+  choices <- unique(filter(dataset, !!sym("Variable / Field Name") == question_name)[["Choices, Calculations, OR Slider Labels"]])
+  
+  choiceType <- unique(filter(dataset, !!sym("Variable / Field Name") == question_name)[["Field Type"]])
+  
+ #temporary fix, revert later
+  minVal <- unique(filter(dataset, !!sym("Variable / Field Name") == question_name)[["minVal"]])
+
+  maxVal <- unique(filter(dataset, !!sym("Variable / Field Name") == question_name)[["maxVal"]])
+
+  
+  #for input types with empty choices
+  if (choiceType %in% c('time', 'timeRange')) {
+    
+    return('**Responses**: _Time in HH:MM AM/PM format via clock widget_')
+    
+  }
+  
+  else if (choiceType == 'markdown-message') {
+    
+    return('**Responses**: _This item is a markdown message_')
+    
+  }
+  
+  else {
+    
+    choicesTable <- choices %>% 
+    #parse the reponses 
+    str_split(pattern = " \\| ") %>% 
+    map(~str_split(., pattern = ", ")) %>% 
+    flatten() %>%
+    map(parseResponseChoice) %>%
+    tibble(nested = .) %>%
+    mutate(Value = map_chr(nested, ~.[[1]]),
+           Label = map_chr(nested, ~.[[2]]),
+           Image = map_chr(nested, ~.[[3]])
+           ) %>% 
+    select(-nested)
+  #for slider, replace label of min and max responses with minVal and maxVal
+    if (choiceType == 'slider') {
+
+      choicesTable[['Label']][[1]] <- minVal
+      choicesTable[['Label']][[nrow(choicesTable)]] <- maxVal
+  
+    }
+    
+    #for reponses where there isn't a single image, remove the image column
+    if (length(unique(choicesTable$Image)) == 1) {
+      
+      choicesTable <- choicesTable[1:2]
+      
+    }
+
+  return(choicesTable)
+    
+  }
+  
+} 
+
+
+
+```
+
+---
+title: "`r paste0('Applet Codebook: NIMH EMA for Mindlogger ', dataDic$version[[1]])`"
+---
+
+
+
+# (PART) Protocol Intro {-}
+
+# Intro To Protocol (IN PROGRESS) {#intro .unnumbered} 
+
+## NIMH - EMA: Daily Assessments
+
+This MindLogger applet collects daily information on your physical and mental health. 
+You will be asked a set of questions multiple times a day. We will record the information and share it with you and our researchers so we can look for patterns in the data.
+
+Answer these questions to the best of your ability. It is okay if you don't know the answers to some of them!
+
+### ☀️ Example topics for questions in the morning
+
+* 🛌 how many hours you have slept
+* 😴 whether or not you had nightmares or night terrors
+* 💊 if you took any sleep aids
+
+### 🌙 Example topics for questions during midday and in the evening
+
+* 😰 stress level
+* ⚡️  energy level
+* 🏥 overall health
+
+Thank you for your participation!
+
+*These questions were constructed as part of a collaboration between the National Institute of Mental Health and the MATTER Lab of the Child Mind Institute (https://matter.childmind.org).*
