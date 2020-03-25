@@ -10,32 +10,32 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headache.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headache.png =150x150)\r\n\r\n**Where** is (or was) the headache?",
+    "question": "\r\n\r\n![new/headache.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/headache.png =150x150)\r\n\r\n**Where** is (or was) the headache?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "both sides of your head",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2194.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/2194.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "left side only",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2B05.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/2B05.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "right side only",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/27A1.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/27A1.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "moved from one side to another",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F504.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/1F504.png"
             }
         ]
     }

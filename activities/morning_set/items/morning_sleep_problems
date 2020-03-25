@@ -14,49 +14,49 @@
                 "schema:value": 1,
                 "schema:name": "difficulty falling asleep",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F636.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/1F636.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "awakening during the night",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/awakeNight.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/awakeNight.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "awakening too early",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F304.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/1F304.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "feeling unrefreshed or unrestored despite enough hours of sleep",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/E280.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/E280.png"
             },
             {
                 "schema:value": 5,
                 "schema:name": "nightmares",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F9DB.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/1F9DB.png"
             },
             {
                 "schema:value": 6,
                 "schema:name": "sleep walking",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/sleepWalk.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/sleepWalk.png"
             },
             {
                 "schema:value": 7,
                 "schema:name": "other sleep problem",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2753.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/2753.png"
             },
             {
                 "schema:value": 8,
                 "schema:name": "no sleep problem",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274E.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/274E.png"
             }
         ]
     },

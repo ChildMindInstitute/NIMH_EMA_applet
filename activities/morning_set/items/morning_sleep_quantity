@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/zzzBedTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/zzzBedTimer.png =150x150)\r\n\r\nAbout how many hours did you **actually sleep**?",
+    "question": "\r\n\r\n![new/zzzBedTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/zzzBedTimer.png =150x150)\r\n\r\nAbout how many hours did you **actually sleep**?",
     "responseOptions": {
         "choices": [
             {

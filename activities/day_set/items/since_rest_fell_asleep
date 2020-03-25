@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/sleepFace.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/sleepFace.png =150x150)\r\n\r\nDid you actually **fall asleep** during the nap or rest?",
+    "question": "\r\n\r\n![new/sleepFace.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/sleepFace.png =150x150)\r\n\r\nDid you actually **fall asleep** during the nap or rest?",
     "responseOptions": {
         "choices": [
             {

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/internetTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/internetTimer.png =150x150)\r\n\r\n**How many hours** did you spend on the **internet** today?",
+    "question": "\r\n\r\n![new/internetTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/internetTimer.png =150x150)\r\n\r\n**How many hours** did you spend on the **internet** today?",
     "responseOptions": {
         "choices": [
             {

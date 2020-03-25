@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheNausea.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheNausea.png =150x150)\r\n\r\nDo (or did) you feel **nauseated**, **vomit** or have **diarrhea**?",
+    "question": "\r\n\r\n![new/headacheNausea.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/headacheNausea.png =150x150)\r\n\r\nDo (or did) you feel **nauseated**, **vomit** or have **diarrhea**?",
     "responseOptions": {
         "choices": [
             {

@@ -10,20 +10,20 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/stress.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/stress.png =150x150)\r\n\r\nWas today a relatively **typical day** for you in terms of **stress**?",
+    "question": "\r\n\r\n![new/stress.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/stress.png =150x150)\r\n\r\nWas today a relatively **typical day** for you in terms of **stress**?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "Yes",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2611.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/2611.png"
             },
             {
                 "schema:value": 0,
                 "schema:name": "No",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/exclamation.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/exclamation.png"
             }
         ]
     }

@@ -14,37 +14,37 @@
                 "schema:value": 1,
                 "schema:name": "Twitter",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/E040.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/E040.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "Instagram",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/E043.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/E043.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "Facebook",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/E042.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/E042.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "Snapchat",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/snapIcon.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/snapIcon.png"
             },
             {
                 "schema:value": 5,
                 "schema:name": "Tik-tok ",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/tiktok.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/tiktok.png"
             },
             {
                 "schema:value": 6,
                 "schema:name": "other",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2754.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/2754.png"
             }
         ]
     },

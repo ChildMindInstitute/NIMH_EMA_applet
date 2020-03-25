@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/activityLightTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/activityLightTimer.png =150x150)\r\n\r\nSince the last questionnaire, how many minutes did you do **light activities** (activities that may not make you breathe somewhat harder than usual such as walking, climbing stairs, routine household chores, etc.)?",
+    "question": "\r\n\r\n![new/activityLightTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/activityLightTimer.png =150x150)\r\n\r\nSince the last questionnaire, how many minutes did you do **light activities** (activities that may not make you breathe somewhat harder than usual such as walking, climbing stairs, routine household chores, etc.)?",
     "responseOptions": {
         "choices": [
             {

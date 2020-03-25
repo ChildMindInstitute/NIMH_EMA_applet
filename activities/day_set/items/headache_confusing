@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheConfounded.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheConfounded.png =150x150)\r\n\r\nDoes (or did) the headache make it **difficult** to **speak**, **think** or **express yourself**?",
+    "question": "\r\n\r\n![new/headacheConfounded.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/headacheConfounded.png =150x150)\r\n\r\nDoes (or did) the headache make it **difficult** to **speak**, **think** or **express yourself**?",
     "responseOptions": {
         "choices": [
             {

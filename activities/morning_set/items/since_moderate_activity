@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/activityModerateTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/activityModerateTimer.png =150x150)\r\n\r\nSince you woke up, how many minutes did you do **moderate activities** (activities that make you breathe somewhat harder than usual such as playing tennis, bicycling, carrying light loads)?",
+    "question": "\r\n\r\n![new/activityModerateTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/activityModerateTimer.png =150x150)\r\n\r\nSince you woke up, how many minutes did you do **moderate activities** (activities that make you breathe somewhat harder than usual such as playing tennis, bicycling, carrying light loads)?",
     "responseOptions": {
         "choices": [
             {

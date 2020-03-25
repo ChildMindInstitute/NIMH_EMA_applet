@@ -7,14 +7,14 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "\r\n\r\n![new/thoughtBalloon.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/thoughtBalloon.png =150x150)\r\n\r\nTo what degree did this event have a **negative impact** on you?",
+    "question": "\r\n\r\n![new/thoughtBalloon.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/thoughtBalloon.png =150x150)\r\n\r\nTo what degree did this event have a **negative impact** on you?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "1",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/26AA.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/26AA.png"
             },
             {
                 "schema:value": 2,
@@ -45,7 +45,7 @@
                 "schema:value": 7,
                 "schema:name": "7",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F534.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/1F534.png"
             }
         ],
         "schema:minValue": "no negative impact",

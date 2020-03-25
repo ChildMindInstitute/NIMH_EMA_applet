@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/weighted.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/weighted.png =150x150)\r\n\r\nDid you feel like you had **no physical energy**, as if you were **weighted down** or had a **heavy feeling in your arms or legs** for most of the day?",
+    "question": "\r\n\r\n![new/weighted.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/weighted.png =150x150)\r\n\r\nDid you feel like you had **no physical energy**, as if you were **weighted down** or had a **heavy feeling in your arms or legs** for most of the day?",
     "responseOptions": {
         "choices": [
             {

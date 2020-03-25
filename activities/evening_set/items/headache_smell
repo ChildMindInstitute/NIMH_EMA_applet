@@ -10,32 +10,32 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheOdor.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheOdor.png =150x150)\r\n\r\nHow much does (or did) **certain odors** such as perfume, food, smoke, bother you?",
+    "question": "\r\n\r\n![new/headacheOdor.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/headacheOdor.png =150x150)\r\n\r\nHow much does (or did) **certain odors** such as perfume, food, smoke, bother you?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "not at all",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F642.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/1F642.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "mildly",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F610.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/1F610.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "moderately",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F627.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/1F627.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "severely",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F62B.png"
+                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/1F62B.png"
             }
         ]
     }

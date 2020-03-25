@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/zzzEyeTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/zzzEyeTimer.png =150x150)\r\n\r\nHow long did it take you to **fall asleep**?",
+    "question": "\r\n\r\n![new/zzzEyeTimer.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/NIMH/images/new/zzzEyeTimer.png =150x150)\r\n\r\nHow long did it take you to **fall asleep**?",
     "responseOptions": {
         "choices": [
             {
