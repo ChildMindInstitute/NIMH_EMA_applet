@@ -1,5 +1,7 @@
 # HBN_EMA_NIMH
-A test repo for HBN EMA applet with NIMH content.
+NIMH EMA mindlogger applet content.
+
+Codebook for the applet [here](https://bookdown.org/mikemxxiao/nimh/)
  
 <br>
 
