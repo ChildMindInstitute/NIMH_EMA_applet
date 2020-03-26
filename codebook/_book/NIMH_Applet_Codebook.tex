@@ -29,7 +29,7 @@
 }
 \usepackage{hyperref}
 \hypersetup{
-            pdftitle={Applet Codebook: NIMH EMA for Mindlogger v0.21},
+            pdftitle={Applet Codebook: HBN EMA for Mindlogger v0.25},
             pdfauthor={Mike X.},
             pdfborder={0 0 0},
             breaklinks=true}
@@ -69,9 +69,9 @@
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
-\title{Applet Codebook: NIMH EMA for Mindlogger v0.21}
+\title{Applet Codebook: HBN EMA for Mindlogger v0.25}
 \author{Mike X.}
-\date{2020-03-09}
+\date{2020-03-25}
 
 \begin{document}
 \maketitle
@@ -4208,7 +4208,7 @@ No
 
 \textbf{Question}: ``Did something in particular \textbf{trigger} the headache?''
 
-\textbf{Visibility}: \protect\hyperlink{headache}{headache} = 2
+\textbf{Visibility}: \protect\hyperlink{headache}{headache} = 2, \textbf{Visibility}: \protect\hyperlink{headache_trigger}{headache\_trigger} = 1
 
 \textbf{Item Type}: Single-select radio button
 
@@ -4235,7 +4235,7 @@ No
 
 \textbf{Question}: ``What do you think \textbf{triggered} the headache?''
 
-\textbf{Visibility}: \protect\hyperlink{headache}{headache} = 2
+\textbf{Visibility}: \protect\hyperlink{headache_trigger}{headache\_trigger} = 1, \textbf{Visibility}: \protect\hyperlink{headache}{headache} = 2
 
 \textbf{Item Type}: Multi-select checkbox
 
@@ -5849,6 +5849,10 @@ web browsing
 10
 
 internet TV (Hulu/Netflix/etc.)
+
+11
+
+work/school
 
 \hypertarget{internet_use_location}{%
 \section{internet\_use\_location}\label{internet_use_location}}

@@ -221,7 +221,7 @@ parseResponse <- function(dataset, question_name) {
 ```
 
 ---
-title: "`r paste0('Applet Codebook: NIMH EMA for Mindlogger ', dataDic$version[[1]])`"
+title: "`r paste0('Applet Codebook: HBN EMA for Mindlogger ', dataDic$version[[1]])`"
 ---
 
 

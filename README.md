@@ -1,5 +1,7 @@
 # HBN_EMA_NIMH
 A test repo for HBN EMA applet with NIMH content.
+
+Applet codebook found [here](https://bookdown.org/mikemxxiao/NIMH_Applet_Codebook/)
  
 <br>
 
