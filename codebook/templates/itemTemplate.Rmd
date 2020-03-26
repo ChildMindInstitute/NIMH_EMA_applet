@@ -1,0 +1,41 @@
+```{r {{itemName}}, echo=FALSE, results='asis'}
+cat("## {{itemName}}")
+```
+
+
+
+
+```{r {{itemName}}_question, echo=FALSE, results='asis'}
+getQ(dataDic, "{{itemName}}")
+```
+
+
+`r getVis(dataDic, "{{itemName}}")`
+
+
+`r getInputType(dataDic, "{{itemName}}")`
+
+
+```{r {{itemName}}_headerImg, echo=FALSE, results='asis', fig.align='left', out.width='33%'}
+getHeadImg(dataDic, "{{itemName}}")
+```
+
+
+```{r {{itemName}}_responses, echo=FALSE, results='asis'}
+
+response <- parseResponse(dataDic, "{{itemName}}")
+
+if (is.character(response)) {
+  
+  cat(response)
+
+} else {
+  
+  cat('**Responses**: ')
+  formattable(response, align = 'l')
+  
+}
+
+```
+
+
