@@ -117,6 +117,18 @@
             "isAbout": "now_thoughts_negative_severity"
         },
         {
+            "variableName": "now_thoughts_dangerous",
+            "isAbout": "now_thoughts_dangerous"
+        },
+        {
+            "variableName": "now_thoughts_suicide",
+            "isAbout": "now_thoughts_suicide"
+        },
+        {
+            "variableName": "now_thoughts_suicide_warning",
+            "isAbout": "now_thoughts_suicide_warning"
+        },
+        {
             "variableName": "since_rest",
             "isAbout": "since_rest"
         },
@@ -425,6 +437,9 @@
             "now_thoughts_negative",
             "now_thoughts_negative_about",
             "now_thoughts_negative_severity",
+            "now_thoughts_dangerous",
+            "now_thoughts_suicide",
+            "now_thoughts_suicide_warning",
             "since_rest",
             "since_rest_duration",
             "since_rest_fell_asleep",
@@ -524,6 +539,9 @@
             "now_thoughts_negative": true,
             "now_thoughts_negative_about": "now_thoughts_negative > 1",
             "now_thoughts_negative_severity": "now_thoughts_negative > 1",
+            "now_thoughts_dangerous": "now_thoughts_negative > 1",
+            "now_thoughts_suicide": "now_thoughts_dangerous == 1",
+            "now_thoughts_suicide_warning": "now_thoughts_suicide == 1",
             "since_rest": true,
             "since_rest_duration": "since_rest == 1",
             "since_rest_fell_asleep": "since_rest == 1",

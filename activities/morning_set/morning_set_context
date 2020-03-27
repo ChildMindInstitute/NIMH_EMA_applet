@@ -166,6 +166,18 @@
             "@id": "morning_set:now_thoughts_negative_severity",
             "@type": "@id"
         },
+        "now_thoughts_dangerous": {
+            "@id": "morning_set:now_thoughts_dangerous",
+            "@type": "@id"
+        },
+        "now_thoughts_suicide": {
+            "@id": "morning_set:now_thoughts_suicide",
+            "@type": "@id"
+        },
+        "now_thoughts_suicide_warning": {
+            "@id": "morning_set:now_thoughts_suicide_warning",
+            "@type": "@id"
+        },
         "since_rest": {
             "@id": "morning_set:since_rest",
             "@type": "@id"

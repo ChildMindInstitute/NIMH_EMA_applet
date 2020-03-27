@@ -4,7 +4,7 @@
 const protocolName = "EMA_HBN_NIMH2"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.25"
+const protocolDisplayName = "Healthy Brain Network (NIMH content) v0.27"
 
 //2. create your raw github repo URL
 const userName = 'hotavocado'
@@ -14,7 +14,7 @@ const branchName = 'master'
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`
 
 //3. add a description to your protocol
-let protocolDescription = "v0.25 Daily questions about physical and mental health, NIMH content"
+let protocolDescription = "v0.27 Daily questions about physical and mental health, NIMH content"
 
 //4. where are you hosting your images?
 let imagePath = 'https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/'
