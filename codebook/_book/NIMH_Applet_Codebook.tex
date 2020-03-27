@@ -29,7 +29,7 @@
 }
 \usepackage{hyperref}
 \hypersetup{
-            pdftitle={Applet Codebook: HBN EMA for Mindlogger v0.25},
+            pdftitle={Applet Codebook: HBN EMA for Mindlogger v0.27},
             pdfauthor={Mike X.},
             pdfborder={0 0 0},
             breaklinks=true}
@@ -69,7 +69,7 @@
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
-\title{Applet Codebook: HBN EMA for Mindlogger v0.25}
+\title{Applet Codebook: HBN EMA for Mindlogger v0.27}
 \author{Mike X.}
 \date{2020-03-27}
 
@@ -2125,7 +2125,7 @@ other negative thoughts
 \hypertarget{now_thoughts_negative_severity}{%
 \section{now\_thoughts\_negative\_severity}\label{now_thoughts_negative_severity}}
 
-\textbf{Question}: ``How severe or disturbing would you say these thoughts were?''
+\textbf{Question}: ``How \textbf{severe or disturbing} would you say these thoughts were?''
 
 \textbf{Visibility}: \protect\hyperlink{now_thoughts_negative}{now\_thoughts\_negative} \textgreater{} 1
 
@@ -2170,6 +2170,81 @@ not at all severe or disturbing
 7
 
 very severe or disturbing
+
+\hypertarget{now_thoughts_dangerous}{%
+\section{now\_thoughts\_dangerous}\label{now_thoughts_dangerous}}
+
+\textbf{Question}: ``Were these thoughts about things that could be \textbf{dangerous} for you physically?''
+
+\textbf{Visibility}: \protect\hyperlink{now_thoughts_negative}{now\_thoughts\_negative} \textgreater{} 1
+
+\textbf{Item Type}: Single-select radio button
+
+\textbf{Header Image}:
+
+\begin{flushleft}\includegraphics[width=0.33\linewidth]{downloadFigs4latex_NIMH_Applet_Codebook/now_thoughts_dangerous_headerImg} \end{flushleft}
+
+\textbf{Responses}:
+
+Value
+
+Label
+
+1
+
+Yes
+
+0
+
+No
+
+\hypertarget{now_thoughts_suicide}{%
+\section{now\_thoughts\_suicide}\label{now_thoughts_suicide}}
+
+\textbf{Question}: ``Since the last signal did you have thoughts of harming yourself or of suicide?''
+
+\textbf{Visibility}: \protect\hyperlink{now_thoughts_dangerous}{now\_thoughts\_dangerous} = 1
+
+\textbf{Item Type}: Single-select radio button
+
+\textbf{Header Image}:
+
+\begin{flushleft}\includegraphics[width=0.33\linewidth]{downloadFigs4latex_NIMH_Applet_Codebook/now_thoughts_suicide_headerImg} \end{flushleft}
+
+\textbf{Responses}:
+
+Value
+
+Label
+
+1
+
+Yes
+
+0
+
+No
+
+\hypertarget{now_thoughts_suicide_warning}{%
+\section{now\_thoughts\_suicide\_warning}\label{now_thoughts_suicide_warning}}
+
+\textbf{Question}:
+
+"The information you are providing now is not immediately transmitted to your doctor or to people who can help you.
+
+If you think that you are at the slightest risk of hurting yourself, \textbf{please call the following number now} to talk about it. Someone is available at any time of the day or night:
+
+\textbf{1-800-273-8255}"
+
+\textbf{Visibility}: \protect\hyperlink{now_thoughts_suicide}{now\_thoughts\_suicide} = 1
+
+\textbf{Item Type}: User Message/instructions
+
+\textbf{Header Image}:
+
+\begin{flushleft}\includegraphics[width=0.33\linewidth]{downloadFigs4latex_NIMH_Applet_Codebook/now_thoughts_suicide_warning_headerImg} \end{flushleft}
+
+\textbf{Responses}: \emph{This item is a markdown message}
 
 \hypertarget{activity_section}{%
 \chapter{Physical Activity}\label{activity_section}}
@@ -4208,7 +4283,7 @@ No
 
 \textbf{Question}: ``Did something in particular \textbf{trigger} the headache?''
 
-\textbf{Visibility}: \protect\hyperlink{headache}{headache} = 2, \textbf{Visibility}: \protect\hyperlink{headache_trigger}{headache\_trigger} = 1
+\textbf{Visibility}: \protect\hyperlink{headache}{headache} = 2
 
 \textbf{Item Type}: Single-select radio button
 
@@ -4235,7 +4310,7 @@ No
 
 \textbf{Question}: ``What do you think \textbf{triggered} the headache?''
 
-\textbf{Visibility}: \protect\hyperlink{headache_trigger}{headache\_trigger} = 1, \textbf{Visibility}: \protect\hyperlink{headache}{headache} = 2
+\textbf{Visibility}: \protect\hyperlink{headache_trigger}{headache\_trigger} = 1
 
 \textbf{Item Type}: Multi-select checkbox
 
