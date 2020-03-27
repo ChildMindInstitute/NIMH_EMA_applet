@@ -6,7 +6,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a codebook that documents all of the items in the current version of the NIMH EMA Applet for Mindlogger."
+description: "This is a codebook that documents all of the items in the current version of the HBN EMA Applet for Mindlogger."
 ---
 
 
@@ -26,6 +26,12 @@ library(formattable)
 dataPath <- getURL("https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/data_dic_new.csv")
 
 dataDic <- read_csv(dataPath)
+
+#dataDic <- read_csv('/Users/mike.xiao/Documents/GitHub/HBN_EMA_NIMH2/data_dic_new.csv')
+
+
+
+
 
 #split into activities
 
@@ -56,17 +62,42 @@ getQ <- function (dataset, question_name) {
   #if there are multiple versions of the question (morning/day)
   if (length(question) > 1) {
     
+    #add quotes to the beginnign and end of each version of the question
+    question <- map(question, function (x) paste0('"', x, '"'))
+    
     cat('**Question**:\r\n\r\n')
-    cat('+ _Morning Version_: "', question[[1]], '\n + _Day/Evening Version_: "', question[[2]], '"', sep = '')
+    cat('+ _Morning Version_: ', question[[1]], '\n + _Day/Evening Version_: ', question[[2]], sep = '')
     
   }
   
   else {
     
-    cat('**Question**: "', question, '"', sep = '')
+    #add quotes to the beginning and end of each version of the question
+    question <- paste0('"', question, '"')
+    
+    #add parsing for \r\n\r\n
+    qlist <- as.list(str_split(question, '\\\\r\\\\n\\\\r\\\\n', simplify = T))
+    
+    if (length(qlist) > 1) {
+    
+      cat('**Question**:')
+      
+      for (i in 1:length(qlist)) {
+        
+        cat('\r\n\r\n', qlist[[i]], sep = '')
+        
+      } 
+      
+    }
+    
+    else {
+      
+      cat('**Question**: ', question, sep = '')
+      
+    }
     
   }
-
+  
 }
 
 #parse header image
@@ -178,6 +209,12 @@ parseResponse <- function(dataset, question_name) {
   else if (choiceType == 'markdown-message') {
     
     return('**Responses**: _This item is a markdown message_')
+    
+  }
+  
+   else if (choiceType == 'markdown-message') {
+    
+    return('**Responses**: _This item is text response_')
     
   }
   
