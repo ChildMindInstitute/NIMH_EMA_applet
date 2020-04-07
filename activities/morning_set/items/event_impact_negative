@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "event_impact_negative",
+    "@id": "event_impact_negative",
     "ui": {
         "inputType": "slider"
     },

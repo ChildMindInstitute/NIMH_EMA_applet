@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "day_headache_duration",
+    "@id": "day_headache_duration",
     "ui": {
         "inputType": "radio",
         "allow": [

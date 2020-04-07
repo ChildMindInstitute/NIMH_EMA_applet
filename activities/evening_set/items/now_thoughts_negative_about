@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "now_thoughts_negative_about",
+    "@id": "now_thoughts_negative_about",
     "ui": {
         "inputType": "radio"
     },

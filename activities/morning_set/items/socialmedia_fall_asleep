@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "socialmedia_fall_asleep",
+    "@id": "socialmedia_fall_asleep",
     "ui": {
         "inputType": "radio",
         "allow": [

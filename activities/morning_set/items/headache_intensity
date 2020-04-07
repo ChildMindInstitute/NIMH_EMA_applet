@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "headache_intensity",
+    "@id": "headache_intensity",
     "ui": {
         "inputType": "slider"
     },

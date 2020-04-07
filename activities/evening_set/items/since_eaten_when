@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "since_eaten_when",
+    "@id": "since_eaten_when",
     "ui": {
         "inputType": "time"
     },

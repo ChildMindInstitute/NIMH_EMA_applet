@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "headache_vision_changes",
+    "@id": "headache_vision_changes",
     "ui": {
         "inputType": "radio"
     },

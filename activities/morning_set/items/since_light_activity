@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "since_light_activity",
+    "@id": "since_light_activity",
     "ui": {
         "inputType": "radio",
         "allow": [

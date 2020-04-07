@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "now_distracted",
+    "@id": "now_distracted",
     "ui": {
         "inputType": "slider"
     },

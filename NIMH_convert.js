@@ -14,7 +14,7 @@ const branchName = 'master'
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`
 
 //3. add a description to your protocol
-let protocolDescription = "v0.27 Daily questions about physical and mental health, NIMH content"
+let protocolDescription = "v0.28 Daily questions about physical and mental health, NIMH content"
 
 //4. where are you hosting your images?
 let imagePath = 'https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/'
@@ -40,8 +40,7 @@ const mkdirp = require('mkdirp');
 const HTMLParser =  require ('node-html-parser');
 
 const schemaMap = {
-    "Identifier?": "@id",
-    "Variable / Field Name": "skos:altLabel",
+    "Variable / Field Name": "@id",
     "Item Display Name": "skos:prefLabel",
     "Field Note": "schema:description",
     "Section Header": "preamble", // todo: check this

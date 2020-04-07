@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "socialmedia_type",
+    "@id": "socialmedia_type",
     "ui": {
         "inputType": "radio"
     },

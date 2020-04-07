@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "socialmedia_after_bedtime",
+    "@id": "socialmedia_after_bedtime",
     "ui": {
         "inputType": "radio",
         "allow": [

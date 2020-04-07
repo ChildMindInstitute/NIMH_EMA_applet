@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "day_stress_category",
+    "@id": "day_stress_category",
     "ui": {
         "inputType": "radio"
     },

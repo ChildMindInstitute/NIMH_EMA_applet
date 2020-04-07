@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "morning_wake_number",
+    "@id": "morning_wake_number",
     "ui": {
         "inputType": "radio",
         "allow": [

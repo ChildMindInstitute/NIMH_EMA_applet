@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "day_instructions",
+    "@id": "day_instructions",
     "ui": {
         "inputType": "markdown-message"
     },

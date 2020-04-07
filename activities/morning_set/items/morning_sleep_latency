@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "morning_sleep_latency",
+    "@id": "morning_sleep_latency",
     "ui": {
         "inputType": "radio",
         "allow": [

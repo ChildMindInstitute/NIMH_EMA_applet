@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "morning_close_eyes",
+    "@id": "morning_close_eyes",
     "ui": {
         "inputType": "time"
     },

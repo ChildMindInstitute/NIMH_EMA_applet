@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "now_enjoyment",
+    "@id": "now_enjoyment",
     "ui": {
         "inputType": "slider"
     },

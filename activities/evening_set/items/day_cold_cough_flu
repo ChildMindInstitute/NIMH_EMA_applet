@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "day_cold_cough_flu",
+    "@id": "day_cold_cough_flu",
     "ui": {
         "inputType": "radio",
         "allow": [

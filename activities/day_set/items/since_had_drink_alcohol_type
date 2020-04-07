@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "since_had_drink_alcohol_type",
+    "@id": "since_had_drink_alcohol_type",
     "ui": {
         "inputType": "radio"
     },

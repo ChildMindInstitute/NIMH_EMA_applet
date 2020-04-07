@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "diziness_situation",
+    "@id": "diziness_situation",
     "ui": {
         "inputType": "radio",
         "allow": [

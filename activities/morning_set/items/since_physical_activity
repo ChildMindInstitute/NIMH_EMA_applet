@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "since_physical_activity",
+    "@id": "since_physical_activity",
     "ui": {
         "inputType": "radio"
     },

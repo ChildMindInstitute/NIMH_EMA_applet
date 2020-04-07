@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "friends_communication_method",
+    "@id": "friends_communication_method",
     "ui": {
         "inputType": "radio",
         "allow": [

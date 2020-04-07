@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "day_phyiscal_health",
+    "@id": "day_phyiscal_health",
     "ui": {
         "inputType": "slider"
     },

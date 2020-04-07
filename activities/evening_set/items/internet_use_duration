@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "internet_use_duration",
+    "@id": "internet_use_duration",
     "ui": {
         "inputType": "radio",
         "allow": [

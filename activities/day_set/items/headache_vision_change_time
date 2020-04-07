@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "headache_vision_change_time",
+    "@id": "headache_vision_change_time",
     "ui": {
         "inputType": "radio",
         "allow": [

@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "skos:altLabel": "headache_numbing",
+    "@id": "headache_numbing",
     "ui": {
         "inputType": "radio",
         "allow": [
