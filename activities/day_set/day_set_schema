@@ -539,7 +539,7 @@
             "now_thoughts_negative": true,
             "now_thoughts_negative_about": "now_thoughts_negative > 1",
             "now_thoughts_negative_severity": "now_thoughts_negative > 1",
-            "now_thoughts_dangerous": "now_thoughts_negative > 1",
+            "now_thoughts_dangerous": "now_thoughts_negative_severity > 1",
             "now_thoughts_suicide": "now_thoughts_dangerous == 1",
             "now_thoughts_suicide_warning": "now_thoughts_suicide == 1",
             "since_rest": true,
