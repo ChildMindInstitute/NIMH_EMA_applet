@@ -1,29 +1,17 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/protocols/EMA_HBN_NIMH2/EMA_HBN_NIMH2_context"
+        "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/slider_cl_issue/protocols/EMA_HBN_NIMH2/EMA_HBN_NIMH2_context"
     ],
     "@type": "reproschema:ActivitySet",
     "@id": "EMA_HBN_NIMH2_schema",
-    "skos:prefLabel": "Healthy Brain Network (NIMH content) v0.27",
+    "skos:prefLabel": "Healthy Brain Network (NIMH content) slider test",
     "skos:altLabel": "EMA_HBN_NIMH2_schema",
-    "schema:description": "v0.28 Daily questions about physical and mental health, NIMH content",
-    "schema:about": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/protocols/EMA_HBN_NIMH2/README.md",
+    "schema:description": "testing slider conditional logic",
+    "schema:about": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/slider_cl_issue/protocols/EMA_HBN_NIMH2/README.md",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "variableMap": [
-        {
-            "variableName": "pre_questionnaire",
-            "isAbout": "pre_questionnaire"
-        },
-        {
-            "variableName": "morning_set",
-            "isAbout": "morning_set"
-        },
-        {
-            "variableName": "day_set",
-            "isAbout": "day_set"
-        },
         {
             "variableName": "evening_set",
             "isAbout": "evening_set"
@@ -31,16 +19,10 @@
     ],
     "ui": {
         "order": [
-            "pre_questionnaire",
-            "morning_set",
-            "day_set",
             "evening_set"
         ],
         "shuffle": false,
         "visibility": {
-            "pre_questionnaire": true,
-            "morning_set": true,
-            "day_set": true,
             "evening_set": true
         }
     }

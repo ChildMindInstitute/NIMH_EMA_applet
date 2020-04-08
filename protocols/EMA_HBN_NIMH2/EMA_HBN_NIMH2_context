@@ -1,19 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "activity_path": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/activities/",
-        "pre_questionnaire": {
-            "@id": "activity_path:pre_questionnaire/pre_questionnaire_schema",
-            "@type": "@id"
-        },
-        "morning_set": {
-            "@id": "activity_path:morning_set/morning_set_schema",
-            "@type": "@id"
-        },
-        "day_set": {
-            "@id": "activity_path:day_set/day_set_schema",
-            "@type": "@id"
-        },
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/slider_cl_issue/activities/",
         "evening_set": {
             "@id": "activity_path:evening_set/evening_set_schema",
             "@type": "@id"
