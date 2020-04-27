@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "since_physical_activity",
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "dontKnow"
+        ]
     },
     "responseOptions": {
         "multipleChoice": true,

@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "headache_prevent",
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "dontKnow"
+        ]
     },
     "responseOptions": {
         "multipleChoice": true,
@@ -45,12 +48,6 @@
                 "schema:name": "other prevention strategy",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2754.png"
-            },
-            {
-                "schema:value": 7,
-                "schema:name": "none",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
             }
         ]
     },

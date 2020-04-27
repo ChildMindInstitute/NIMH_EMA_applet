@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "day_problem_categories",
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "dontKnow"
+        ]
     },
     "responseOptions": {
         "multipleChoice": true,
@@ -57,12 +60,6 @@
                 "schema:name": "hit or hurt your head",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F915.png"
-            },
-            {
-                "schema:value": 9,
-                "schema:name": "none",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
             }
         ]
     },

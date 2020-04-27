@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "since_eaten_amount",
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "dontKnow"
+        ]
     },
     "responseOptions": {
         "multipleChoice": true,
@@ -33,12 +36,6 @@
                 "schema:name": "large meals",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F967.png"
-            },
-            {
-                "schema:value": 5,
-                "schema:name": "none",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
             }
         ]
     },

@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "headache_vision_changes",
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "dontKnow"
+        ]
     },
     "responseOptions": {
         "multipleChoice": true,
@@ -27,12 +30,6 @@
                 "schema:name": "blind spots or missing parts",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/blindSpot.png"
-            },
-            {
-                "schema:value": 4,
-                "schema:name": "no vision changes",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274C.png"
             }
         ]
     },

@@ -81,12 +81,6 @@
                 "schema:name": "other",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2754.png"
-            },
-            {
-                "schema:value": 13,
-                "schema:name": "unknown",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F937.png"
             }
         ]
     },

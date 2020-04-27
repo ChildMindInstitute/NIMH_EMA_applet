@@ -5,7 +5,10 @@
     "@type": "reproschema:Field",
     "@id": "morning_sleep_problems",
     "ui": {
-        "inputType": "radio"
+        "inputType": "radio",
+        "allow": [
+            "dontKnow"
+        ]
     },
     "responseOptions": {
         "multipleChoice": true,
@@ -51,12 +54,6 @@
                 "schema:name": "other sleep problem",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/2753.png"
-            },
-            {
-                "schema:value": 8,
-                "schema:name": "no sleep problem",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/274E.png"
             }
         ]
     },
