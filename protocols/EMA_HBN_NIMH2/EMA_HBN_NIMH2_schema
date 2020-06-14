@@ -3,45 +3,42 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
         "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/protocols/EMA_HBN_NIMH2/EMA_HBN_NIMH2_context"
     ],
-    "@type": "reproschema:ActivitySet",
+    "@type": "reproschema:Protocol",
     "@id": "EMA_HBN_NIMH2_schema",
     "skos:prefLabel": "Healthy Brain Network (NIMH content) v0.30",
-    "skos:altLabel": "EMA_HBN_NIMH2_schema",
     "schema:description": "Daily questions about physical and mental health, NIMH content",
-    "schema:about": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/protocols/EMA_HBN_NIMH2/README.md",
+    "landingPage": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/protocols/EMA_HBN_NIMH2/README.md",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "variableMap": [
-        {
-            "variableName": "pre_questionnaire",
-            "isAbout": "pre_questionnaire"
-        },
-        {
-            "variableName": "morning_set",
-            "isAbout": "morning_set"
-        },
-        {
-            "variableName": "day_set",
-            "isAbout": "day_set"
-        },
-        {
-            "variableName": "evening_set",
-            "isAbout": "evening_set"
-        }
-    ],
     "ui": {
+        "addProperties": [
+            {
+                "variableName": "pre_questionnaire",
+                "isAbout": "pre_questionnaire",
+                "isVis": true
+            },
+            {
+                "variableName": "morning_set",
+                "isAbout": "morning_set",
+                "isVis": true
+            },
+            {
+                "variableName": "day_set",
+                "isAbout": "day_set",
+                "isVis": true
+            },
+            {
+                "variableName": "evening_set",
+                "isAbout": "evening_set",
+                "isVis": true
+            }
+        ],
         "order": [
             "pre_questionnaire",
             "morning_set",
             "day_set",
             "evening_set"
         ],
-        "shuffle": false,
-        "visibility": {
-            "pre_questionnaire": true,
-            "morning_set": true,
-            "day_set": true,
-            "evening_set": true
-        }
+        "shuffle": false
     }
 }

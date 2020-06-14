@@ -6,30 +6,27 @@
     "@type": "reproschema:Activity",
     "@id": "pre_questionnaire_schema",
     "skos:prefLabel": "Pre-Questionnaire",
-    "skos:altLabel": "pre_questionnaire_schema",
     "schema:description": "Pre-assessment questions",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},
-    "variableMap": [
-        {
-            "variableName": "socialmedia",
-            "isAbout": "socialmedia"
-        },
-        {
-            "variableName": "socialmedia_type",
-            "isAbout": "socialmedia_type"
-        }
-    ],
     "ui": {
+        "addProperties": [
+            {
+                "variableName": "socialmedia",
+                "isAbout": "socialmedia",
+                "isVis": true
+            },
+            {
+                "variableName": "socialmedia_type",
+                "isAbout": "socialmedia_type",
+                "isVis": "socialmedia == 1"
+            }
+        ],
         "order": [
             "socialmedia",
             "socialmedia_type"
         ],
-        "shuffle": false,
-        "visibility": {
-            "socialmedia": true,
-            "socialmedia_type": "socialmedia == 1"
-        }
+        "shuffle": false
     }
 }
