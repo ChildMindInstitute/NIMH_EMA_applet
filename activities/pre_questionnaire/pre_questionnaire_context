@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "pre_questionnaire": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/activities/pre_questionnaire/items/",
+        "pre_questionnaire": "https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/activities/pre_questionnaire/items/",
         "socialmedia": {
             "@id": "pre_questionnaire:socialmedia",
             "@type": "@id"

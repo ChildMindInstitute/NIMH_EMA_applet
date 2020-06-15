@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "markdown-message"
     },
-    "question": "\r\n\r\n![new/dayNight.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/dayNight.png =150x150)\r\n\r\nPlease think about your experiences **over the entire day** (NOT just since the last questionnaire) when responding to the following questions."
+    "question": "\r\n\r\n![new/dayNight.png](https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/new/dayNight.png =150x150)\r\n\r\nPlease think about your experiences **over the entire day** (NOT just since the last questionnaire) when responding to the following questions."
 }

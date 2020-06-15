@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/thoughtRed.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/thoughtRed.png =150x150)\r\n\r\nSince the last signal did you have thoughts of harming yourself or of suicide?",
+    "question": "\r\n\r\n![new/thoughtRed.png](https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/new/thoughtRed.png =150x150)\r\n\r\nSince the last signal did you have thoughts of harming yourself or of suicide?",
     "responseOptions": {
         "choices": [
             {

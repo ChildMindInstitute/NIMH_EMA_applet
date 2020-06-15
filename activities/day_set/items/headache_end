@@ -7,5 +7,5 @@
     "ui": {
         "inputType": "time"
     },
-    "question": "\r\n\r\n![new/headacheClock.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheClock.png =150x150)\r\n\r\nWhat time did the headache **end**?"
+    "question": "\r\n\r\n![new/headacheClock.png](https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/new/headacheClock.png =150x150)\r\n\r\nWhat time did the headache **end**?"
 }

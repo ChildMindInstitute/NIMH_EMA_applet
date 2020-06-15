@@ -23,7 +23,7 @@ library(formattable)
 #webshot::install_phantomjs()
 
 #where the data dictionary for the applet is hosted:
-dataPath <- getURL("https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/data_dic_new.csv")
+dataPath <- getURL("https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/data_dic_new.csv")
 
 dataDic <- read_csv(dataPath)
 
@@ -46,7 +46,7 @@ dataDic <- read_csv(dataPath)
 #rm(dataDic)
 
 #where the images for the applet are hosted
-imagePath <- 'https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/'
+imagePath <- 'https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/'
 
 
 #functions

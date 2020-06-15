@@ -14,7 +14,7 @@
                 "schema:value": 1,
                 "schema:name": "1",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F9D8-200D-2642-FE0F.png"
+                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/1F9D8-200D-2642-FE0F.png"
             },
             {
                 "schema:value": 2,
@@ -45,7 +45,7 @@
                 "schema:value": 7,
                 "schema:name": "7",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F483.png"
+                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/1F483.png"
             }
         ],
         "schema:minValue": "calm/quiet",

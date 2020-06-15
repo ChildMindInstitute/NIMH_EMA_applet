@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/thoughtDanger.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/thoughtDanger.png =150x150)\r\n\r\nWere these thoughts about things that could be **dangerous** for you physically?",
+    "question": "\r\n\r\n![new/thoughtDanger.png](https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/new/thoughtDanger.png =150x150)\r\n\r\nWere these thoughts about things that could be **dangerous** for you physically?",
     "responseOptions": {
         "choices": [
             {

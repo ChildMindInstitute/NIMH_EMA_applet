@@ -7,14 +7,14 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "\r\n\r\n![new/pain.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/pain.png =150x150)\r\n\r\nHow **severe** was the pain you experienced since you woke up?",
+    "question": "\r\n\r\n![new/pain.png](https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/new/pain.png =150x150)\r\n\r\nHow **severe** was the pain you experienced since you woke up?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "1",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/E0A3.png"
+                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/E0A3.png"
             },
             {
                 "schema:value": 2,
@@ -45,7 +45,7 @@
                 "schema:value": 7,
                 "schema:name": "7",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F6A8.png"
+                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/1F6A8.png"
             }
         ],
         "schema:minValue": "very minor pain",

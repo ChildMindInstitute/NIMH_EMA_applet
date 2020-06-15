@@ -17,7 +17,7 @@ let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${b
 let protocolDescription = "Daily questions about physical and mental health, NIMH content"
 
 //4. where are you hosting your images?
-let imagePath = 'https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/'
+let imagePath = 'https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/'
 
 /* hard coded activity display object
 let activityDisplayObj = {

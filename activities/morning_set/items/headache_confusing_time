@@ -10,20 +10,20 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheConfounded.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheConfounded.png =150x150)\r\n\r\nWhen did this **difficulty** occur with respect to the **onset** of the headache?",
+    "question": "\r\n\r\n![new/headacheConfounded.png](https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/new/headacheConfounded.png =150x150)\r\n\r\nWhen did this **difficulty** occur with respect to the **onset** of the headache?",
     "responseOptions": {
         "choices": [
             {
                 "schema:value": 1,
                 "schema:name": "before headache pain",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F448.png"
+                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/1F448.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "after headache pain",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/1F449.png"
+                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/1F449.png"
             }
         ]
     }
