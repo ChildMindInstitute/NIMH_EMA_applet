@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/pain.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/pain.png =150x150)\r\n\r\nAre you in **pain right now** (other than headache pain)?",
+    "question": "\r\n\r\n![new/pain.png](https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/new/pain.png =150x150)\r\n\r\nAre you in **pain right now** (other than headache pain)?",
     "responseOptions": {
         "choices": [
             {

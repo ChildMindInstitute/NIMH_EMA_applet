@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "day_set": "https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/activities/day_set/items/",
+        "day_set": "https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/activities/day_set/items/",
         "since_activity_monitor": {
             "@id": "day_set:since_activity_monitor",
             "@type": "@id"

@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/headacheDrum.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/headacheDrum.png =150x150)\r\n\r\nIs (or was) the pain **throbbing**, **beating** or **pulsating**?",
+    "question": "\r\n\r\n![new/headacheDrum.png](https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/new/headacheDrum.png =150x150)\r\n\r\nIs (or was) the pain **throbbing**, **beating** or **pulsating**?",
     "responseOptions": {
         "choices": [
             {

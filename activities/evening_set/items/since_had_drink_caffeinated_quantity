@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/caffeine.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/caffeine.png =150x150)\r\n\r\nHow many 8 oz glasses of **caffeinated drinks** did you consume?",
+    "question": "\r\n\r\n![new/caffeine.png](https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/new/caffeine.png =150x150)\r\n\r\nHow many 8 oz glasses of **caffeinated drinks** did you consume?",
     "responseOptions": {
         "choices": [
             {

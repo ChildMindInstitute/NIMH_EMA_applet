@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/awakeNight.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/awakeNight.png =150x150)\r\n\r\nHow many times did you **wake up in the night**, not counting your final awakening?",
+    "question": "\r\n\r\n![new/awakeNight.png](https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/new/awakeNight.png =150x150)\r\n\r\nHow many times did you **wake up in the night**, not counting your final awakening?",
     "responseOptions": {
         "choices": [
             {

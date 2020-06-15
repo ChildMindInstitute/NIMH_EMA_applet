@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![new/activityVigorousPlanned.png](https://raw.githubusercontent.com/hotavocado/HBN_EMA_NIMH2/master/images/new/activityVigorousPlanned.png =150x150)\r\n\r\nWas this **vigorous activity** (or activities) part of a **planned** workout or exercise routine?",
+    "question": "\r\n\r\n![new/activityVigorousPlanned.png](https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/new/activityVigorousPlanned.png =150x150)\r\n\r\nWas this **vigorous activity** (or activities) part of a **planned** workout or exercise routine?",
     "responseOptions": {
         "choices": [
             {
