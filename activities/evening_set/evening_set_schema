@@ -465,7 +465,7 @@
             {
                 "variableName": "headache_vision_change_time",
                 "isAbout": "headache_vision_change_time",
-                "isVis": "headache_vision_changes.includes(2) || headache_vision_changes.includes(3) || headache_vision_changes.includes(4)"
+                "isVis": "headache_vision_changes.includes(1) or headache_vision_changes.includes(2) or headache_vision_changes.includes(3)"
             },
             {
                 "variableName": "headache_numbing",
