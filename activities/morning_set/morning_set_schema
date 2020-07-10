@@ -84,8 +84,8 @@
             },
             {
                 "variableName": "socialmedia_fall_asleep",
-                "isAbout": "socialmedia_after_bedtime == 1",
-                "isVis": true
+                "isAbout": "socialmedia_fall_asleep",
+                "isVis": "socialmedia_after_bedtime == 1"
             },
             {
                 "variableName": "since_activity_monitor",
