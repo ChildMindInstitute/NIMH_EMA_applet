@@ -45,12 +45,6 @@
                 "schema:name": "another type of drink",
                 "@type": "schema:option",
                 "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/2754.png"
-            },
-            {
-                "schema:value": 7,
-                "schema:name": "none",
-                "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/NIMH_EMA_applet/master/images/274C.png"
             }
         ]
     },
