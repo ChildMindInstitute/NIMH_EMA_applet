@@ -14,6 +14,11 @@
     "responseOptions": {
         "choices": [
             {
+                "schema:value": 2,
+                "schema:name": "I did not receive an activity monitor",
+                "@type": "schema:option"
+            },
+            {
                 "schema:value": 1,
                 "schema:name": "Yes",
                 "@type": "schema:option"
