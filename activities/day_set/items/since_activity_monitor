@@ -15,7 +15,7 @@
         "choices": [
             {
                 "schema:value": 2,
-                "schema:name": "I didn't receive an activity monitor",
+                "schema:name": "I did not receive an activity monitor",
                 "@type": "schema:option"
             },
             {
