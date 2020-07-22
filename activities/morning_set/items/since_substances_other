@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "radio"
     },
-    "question": "What **other drug** did you use?",
+    "question": "What **other drugs** did you use?",
     "responseOptions": {
         "multipleChoice": true,
         "choices": [
