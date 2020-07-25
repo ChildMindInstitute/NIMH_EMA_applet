@@ -143,21 +143,6 @@
                 "isVis": "now_thoughts_negative > 1"
             },
             {
-                "variableName": "now_thoughts_dangerous",
-                "isAbout": "now_thoughts_dangerous",
-                "isVis": "now_thoughts_negative_severity > 1"
-            },
-            {
-                "variableName": "now_thoughts_suicide",
-                "isAbout": "now_thoughts_suicide",
-                "isVis": "now_thoughts_dangerous == 1"
-            },
-            {
-                "variableName": "now_thoughts_suicide_warning",
-                "isAbout": "now_thoughts_suicide_warning",
-                "isVis": "now_thoughts_suicide == 1"
-            },
-            {
                 "variableName": "since_rest",
                 "isAbout": "since_rest",
                 "isVis": true
@@ -535,9 +520,6 @@
             "now_thoughts_negative",
             "now_thoughts_negative_about",
             "now_thoughts_negative_severity",
-            "now_thoughts_dangerous",
-            "now_thoughts_suicide",
-            "now_thoughts_suicide_warning",
             "since_rest",
             "since_rest_duration",
             "since_rest_fell_asleep",
