@@ -1,5 +1,5 @@
 ## Creative Commons Attribution-ShareAlike 4.0 International License
-This is a human-readable summary of the full license below, which can be read in its entirety at https://creativecommons.org/licenses/by-sa/4.0/legalcode.
+This is a human-readable summary of the full license, which can be read in its entirety at https://creativecommons.org/licenses/by-sa/4.0/legalcode.
 
 Under this license, you are free to:
   - **Share** — copy and redistribute the material in any medium or format
